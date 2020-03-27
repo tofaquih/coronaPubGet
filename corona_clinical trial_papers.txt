@@ -1,0 +1,415 @@
+
+PMID- 32081636
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200325
+LR  - 20200325
+IS  - 1872-7913 (Electronic)
+IS  - 0924-8579 (Linking)
+VI  - 55
+IP  - 3
+DP  - 2020 Mar
+TI  - Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus
+      disease-2019 (COVID-19): The epidemic and the challenges.
+PG  - 105924
+LID - S0924-8579(20)30067-4 [pii]
+LID - 10.1016/j.ijantimicag.2020.105924 [doi]
+AB  - The emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2;
+      previously provisionally named 2019 novel coronavirus or 2019-nCoV) disease
+      (COVID-19) in China at the end of 2019 has caused a large global outbreak and is 
+      a major public health issue. As of 11 February 2020, data from the World Health
+      Organization (WHO) have shown that more than 43 000 confirmed cases have been
+      identified in 28 countries/regions, with >99% of cases being detected in China.
+      On 30 January 2020, the WHO declared COVID-19 as the sixth public health
+      emergency of international concern. SARS-CoV-2 is closely related to two
+      bat-derived severe acute respiratory syndrome-like coronaviruses, bat-SL-CoVZC45 
+      and bat-SL-CoVZXC21. It is spread by human-to-human transmission via droplets or 
+      direct contact, and infection has been estimated to have mean incubation period
+      of 6.4 days and a basic reproduction number of 2.24-3.58. Among patients with
+      pneumonia caused by SARS-CoV-2 (novel coronavirus pneumonia or Wuhan pneumonia), 
+      fever was the most common symptom, followed by cough. Bilateral lung involvement 
+      with ground-glass opacity was the most common finding from computed tomography
+      images of the chest. The one case of SARS-CoV-2 pneumonia in the USA is
+      responding well to remdesivir, which is now undergoing a clinical trial in China.
+      Currently, controlling infection to prevent the spread of SARS-CoV-2 is the
+      primary intervention being used. However, public health authorities should keep
+      monitoring the situation closely, as the more we can learn about this novel virus
+      and its associated outbreak, the better we can respond.
+CI  - Copyright (c) 2020 Elsevier Ltd. All rights reserved.
+FAU - Lai, Chih-Cheng
+AU  - Lai CC
+AD  - Department of Internal Medicine, Kaohsiung Veterans General Hospital, Tainan
+      Branch, Tainan, Taiwan.
+FAU - Shih, Tzu-Ping
+AU  - Shih TP
+AD  - Department of Family Medicine, Kaohsiung Veterans General Hospital, Tainan
+      Branch, Tainan, Taiwan.
+FAU - Ko, Wen-Chien
+AU  - Ko WC
+AD  - Department of Medicine, College of Medicine, National Cheng Kung University,
+      Tainan, Taiwan.
+FAU - Tang, Hung-Jen
+AU  - Tang HJ
+AD  - Department of Medicine, Chi Mei Medical Center, Tainan 71004, Taiwan.
+FAU - Hsueh, Po-Ren
+AU  - Hsueh PR
+AD  - Department of Laboratory Medicine, National Taiwan University Hospital, National 
+      Taiwan University College of Medicine, Taipei, Taiwan; Department of Internal
+      Medicine, National Taiwan University Hospital, National Taiwan University College
+      of Medicine, Taipei, Taiwan. Electronic address: hsporen@ntu.edu.tw.
+LA  - eng
+PT  - Journal Article
+DEP - 20200217
+PL  - Netherlands
+TA  - Int J Antimicrob Agents
+JT  - International journal of antimicrobial agents
+JID - 9111860
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - *Betacoronavirus
+MH  - China
+MH  - *Coronavirus Infections/epidemiology/virology
+MH  - Disease Outbreaks
+MH  - Humans
+MH  - *Pneumonia, Viral/epidemiology/virology
+MH  - Severe Acute Respiratory Syndrome/virology
+MH  - World Health Organization
+OTO - NOTNLM
+OT  - 2019-nCoV
+OT  - COVID-19
+OT  - China
+OT  - Epidemic
+OT  - Remdesivir
+OT  - SARS-CoV-2
+EDAT- 2020/02/23 06:00
+MHDA- 2020/03/26 06:00
+CRDT- 2020/02/22 06:00
+PHST- 2020/02/11 00:00 [received]
+PHST- 2020/02/12 00:00 [revised]
+PHST- 2020/02/12 00:00 [accepted]
+PHST- 2020/02/23 06:00 [pubmed]
+PHST- 2020/03/26 06:00 [medline]
+PHST- 2020/02/22 06:00 [entrez]
+AID - S0924-8579(20)30067-4 [pii]
+AID - 10.1016/j.ijantimicag.2020.105924 [doi]
+PST - ppublish
+SO  - Int J Antimicrob Agents. 2020 Mar;55(3):105924. doi:
+      10.1016/j.ijantimicag.2020.105924. Epub 2020 Feb 17.
+
+PMID- 32149769
+OWN - NLM
+STAT- Publisher
+LR  - 20200309
+IS  - 2542-5641 (Electronic)
+IS  - 0366-6999 (Linking)
+DP  - 2020 Mar 6
+TI  - Repurposing of clinically approved drugs for treatment of coronavirus disease
+      2019 in a 2019-novel coronavirus (2019-nCoV) related coronavirus model.
+LID - 10.1097/CM9.0000000000000797 [doi]
+AB  - BACKGROUND: Medicines for the treatment of 2019-novel coronavirus (2019-nCoV)
+      infections are urgently needed. However, drug screening using live 2019-nCoV
+      requires high-level biosafety facilities, which imposes an obstacle for those
+      without such facilities or 2019-novel coronavirus (2019-nCoV). This study aims to
+      repurpose the clinically approved drugs for the treatment of coronavirus disease 
+      2019 (COVID-19) in a 2019-nCoV related coronavirus model. METHODS: A 2019-nCoV
+      related pangolin coronavirus GX_P2V/pangolin/2017/ Guangxi was described. Whether
+      GX_P2X uses angiotensin-converting enzyme 2 (ACE2) as the cell receptor was
+      investigated by using small interfering RNA (siRNA) -mediated silencing of ACE2. 
+      The pangolin coronavirus model was used to identify drug candidates for treating 
+      2019-nCoV infection. Two libraries of 2406 clinically approved drugs were
+      screened for their ability to inhibit cytopathic effects on Vero E6 cells by
+      GX_P2X infection. The antiviral activities and antiviral mechanisms of potential 
+      drugs were further investigated. Viral yields of RNAs and infectious particles
+      were quantified by quantitative real-time polymerase chain reaction (qRT-PCR) and
+      plaque assay, respectively. RESULTS: The spike protein of coronavirus GX_P2V
+      shares 92.2% amino acid identity with that of 2019-nCoV isolate Wuhan-hu-1, and
+      uses ACE2 as the receptor for infection just like 2019-nCoV. Three
+      drugs-cepharanthine (CEP), selamectin and mefloquine hydrochloride exhibited
+      complete inhibition of cytopathic effects in cell culture at 10 mumol/L. CEP
+      demonstrated the most potent inhibition of GX_P2V infection, with a concentration
+      for 50% of maximal effect [EC50] of 0.98 mumol/L. The viral RNA yield in cells
+      treated with 10 mumol/L CEP was 15,393-fold lower than in cells without CEP
+      treatment ([6.48 +/- 0.02] x 10vs. 1.00 +/- 0.12, t = 150.38, P < 0.001) at 72 h 
+      post-infection (p.i.). Plaque assays found no production of live viruses in media
+      containing 10 mumol/L CEP at 48 h p.i. Furthermore, we found CEP has potent
+      antiviral activities against both viral entry (1.00 +/- 0.37 vs. 0.46 +/- 0.12, t
+      = 2.42, P < 0.05) and viral replication (1.00 +/- 0.43 vs. [6.18 +/- 0.95] x 10, 
+      t = 3.98, P < 0.05). CONCLUSIONS: Our pangolin coronavirus GX_P2V is a workable
+      model for 2019-nCoV research. CEP, selamectin and mefloquine hydrochloride are
+      potential drugs for treating 2019-nCoV infection. Our results strongly suggest
+      that CEP is a wide-spectrum inhibitor of pan-betacoronavirus, and clinical trial 
+      of CEP for treatment of 2019-nCoV infection is warranted.
+FAU - Fan, Hua-Hao
+AU  - Fan HH
+AD  - Beijing Advanced Innovation Center for Soft Matter Science and Engineering,
+      College of Life Science and Technology, Beijing University of Chemical
+      Technology, Beijing 100029, China.
+FAU - Wang, Li-Qin
+AU  - Wang LQ
+FAU - Liu, Wen-Li
+AU  - Liu WL
+FAU - An, Xiao-Ping
+AU  - An XP
+FAU - Liu, Zhen-Dong
+AU  - Liu ZD
+FAU - He, Xiao-Qi
+AU  - He XQ
+FAU - Song, Li-Hua
+AU  - Song LH
+FAU - Tong, Yi-Gang
+AU  - Tong YG
+LA  - eng
+PT  - Journal Article
+DEP - 20200306
+PL  - China
+TA  - Chin Med J (Engl)
+JT  - Chinese medical journal
+JID - 7513795
+SB  - IM
+EDAT- 2020/03/10 06:00
+MHDA- 2020/03/10 06:00
+CRDT- 2020/03/10 06:00
+PHST- 2020/03/10 06:00 [entrez]
+PHST- 2020/03/10 06:00 [pubmed]
+PHST- 2020/03/10 06:00 [medline]
+AID - 10.1097/CM9.0000000000000797 [doi]
+PST - aheadofprint
+SO  - Chin Med J (Engl). 2020 Mar 6. doi: 10.1097/CM9.0000000000000797.
+
+PMID- 32164424
+OWN - NLM
+STAT- Publisher
+LR  - 20200313
+IS  - 1793-6853 (Electronic)
+IS  - 0192-415X (Linking)
+DP  - 2020 Mar 13
+TI  - COVID-19: An Update on the Epidemiological, Clinical, Preventive and Therapeutic 
+      Evidence and Guidelines of Integrative Chinese-Western Medicine for the
+      Management of 2019 Novel Coronavirus Disease.
+PG  - 1-26
+LID - 10.1142/S0192415X20500378 [doi]
+AB  - As of 22 February 2020, more than 77662 cases of confirmed COVID-19 have been
+      documented globally with over 2360 deaths. Common presentations of confirmed
+      cases include fever, fatigue, dry cough, upper airway congestion, sputum
+      production, shortness of breath, myalgia/arthralgia with lymphopenia, prolonged
+      prothrombin time, elevated C-reactive protein, and elevated lactate
+      dehydrogenase. The reported severe/critical case ratio is approximately 7-10% and
+      median time to intensive care admission is 9.5-10.5 days with mortality of around
+      1-2% varied geographically. Similar to outbreaks of other newly identified virus,
+      there is no proven regimen from conventional medicine and most reports managed
+      the patients with lopinavir/ritonavir, ribavirin, beta-interferon, glucocorticoid
+      and supportive treatment with remdesivir undergoing clinical trial. In China,
+      Chinese medicine is proposed as a treatment option by national and provincial
+      guidelines with substantial utilization. We reviewed the latest national and
+      provincial clinical guidelines, retrospective cohort studies, and case series
+      regarding the treatment of COVID-19 by add-on Chinese medicine. We have also
+      reviewed the clinical evidence generated from SARS and H1N1 management with
+      hypothesized mechanisms and latest in silico findings to identify candidate
+      Chinese medicines for the consideration of possible trials and management. Given 
+      the paucity of strongly evidence-based regimens, the available data suggest that 
+      Chinese medicine could be considered as an adjunctive therapeutic option in the
+      management of COVID-19.
+FAU - Chan, Kam Wa
+AU  - Chan KW
+AD  - Department of Medicine, The University of Hong Kong, Hong Kong.
+FAU - Wong, Vivian Taam
+AU  - Wong VT
+AD  - School of Chinese Medicine The University of Hong Kong, Hong Kong.
+FAU - Tang, Sydney Chi Wai
+AU  - Tang SCW
+AD  - Department of Medicine, The University of Hong Kong, Hong Kong.
+LA  - eng
+PT  - Journal Article
+DEP - 20200313
+PL  - Singapore
+TA  - Am J Chin Med
+JT  - The American journal of Chinese medicine
+JID - 7901431
+SB  - IM
+OTO - NOTNLM
+OT  - 2019-nCoV
+OT  - COVID-19
+OT  - Chinese Medicine
+OT  - Guideline
+OT  - Integrative Medicine
+OT  - Review
+EDAT- 2020/03/14 06:00
+MHDA- 2020/03/14 06:00
+CRDT- 2020/03/14 06:00
+PHST- 2020/03/14 06:00 [entrez]
+PHST- 2020/03/14 06:00 [pubmed]
+PHST- 2020/03/14 06:00 [medline]
+AID - 10.1142/S0192415X20500378 [doi]
+PST - aheadofprint
+SO  - Am J Chin Med. 2020 Mar 13:1-26. doi: 10.1142/S0192415X20500378.
+
+PMID- 32108352
+OWN - NLM
+STAT- Publisher
+LR  - 20200305
+IS  - 1096-9071 (Electronic)
+IS  - 0146-6615 (Linking)
+DP  - 2020 Feb 28
+TI  - Clinical trial analysis of 2019-nCoV therapy registered in China.
+LID - 10.1002/jmv.25733 [doi]
+AB  - So far, there is a lack of effective drugs for the new coronavirus pneumonia.
+      With more and more patients diagnosed, China has carried out more than 100
+      clinical studies of new coronavirus infection, including antiviral drugs,
+      antimalarial drugs, glucocorticoids, plasma therapy, virus vaccine, and other
+      Western drugs, while Chinese medicine research accounted for half of the studies.
+      Most of the trials were initiated by investigators and the study period would
+      last for 1 to 11 months. The primary endpoints included symptom improvement and
+      virus nucleic acid turning negative, but the optimal endpoint has not been
+      determined. Although the final results of studies will take a long time to
+      complete, the interim research data may provide some help for the current urgent 
+      demand for drug treatment. Compared with that of during SARS period in 2003,
+      China has the stronger capability to carry out clinical trials of new drugs in
+      emergency period.
+CI  - (c) 2020 Wiley Periodicals, Inc.
+FAU - Zhang, Qi
+AU  - Zhang Q
+AUID- ORCID: http://orcid.org/0000-0002-8144-3609
+AD  - Key Laboratory of Carcinogenesis and Translational Research (Ministry of
+      Education), Department of Gastrointestinal Oncology, Peking University Cancer
+      Hospital and Institute, Beijing, China.
+FAU - Wang, Yakun
+AU  - Wang Y
+AUID- ORCID: http://orcid.org/0000-0001-5579-2998
+AD  - Key Laboratory of Carcinogenesis and Translational Research (Ministry of
+      Education), Department of Gastrointestinal Oncology, Peking University Cancer
+      Hospital and Institute, Beijing, China.
+FAU - Qi, Changsong
+AU  - Qi C
+AD  - Key Laboratory of Carcinogenesis and Translational Research (Ministry of
+      Education), Department of Gastrointestinal Oncology, Peking University Cancer
+      Hospital and Institute, Beijing, China.
+FAU - Shen, Lin
+AU  - Shen L
+AD  - Key Laboratory of Carcinogenesis and Translational Research (Ministry of
+      Education), Department of Gastrointestinal Oncology, Peking University Cancer
+      Hospital and Institute, Beijing, China.
+FAU - Li, Jian
+AU  - Li J
+AUID- ORCID: http://orcid.org/0000-0002-9333-3255
+AD  - Key Laboratory of Carcinogenesis and Translational Research (Ministry of
+      Education), Department of Gastrointestinal Oncology, Peking University Cancer
+      Hospital and Institute, Beijing, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20200228
+PL  - United States
+TA  - J Med Virol
+JT  - Journal of medical virology
+JID - 7705876
+SB  - IM
+OTO - NOTNLM
+OT  - China
+OT  - clinical trial
+OT  - new coronavirus pneumonia
+OT  - new drugs
+EDAT- 2020/02/29 06:00
+MHDA- 2020/02/29 06:00
+CRDT- 2020/02/29 06:00
+PHST- 2020/02/20 00:00 [received]
+PHST- 2020/02/26 00:00 [accepted]
+PHST- 2020/02/29 06:00 [pubmed]
+PHST- 2020/02/29 06:00 [medline]
+PHST- 2020/02/29 06:00 [entrez]
+AID - 10.1002/jmv.25733 [doi]
+PST - aheadofprint
+SO  - J Med Virol. 2020 Feb 28. doi: 10.1002/jmv.25733.
+
+PMID- 32054787
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20200326
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+VI  - 117
+IP  - 12
+DP  - 2020 Mar 24
+TI  - Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque
+      model of MERS-CoV infection.
+PG  - 6771-6776
+LID - 10.1073/pnas.1922083117 [doi]
+AB  - The continued emergence of Middle East Respiratory Syndrome (MERS) cases with a
+      high case fatality rate stresses the need for the availability of effective
+      antiviral treatments. Remdesivir (GS-5734) effectively inhibited MERS coronavirus
+      (MERS-CoV) replication in vitro, and showed efficacy against Severe Acute
+      Respiratory Syndrome (SARS)-CoV in a mouse model. Here, we tested the efficacy of
+      prophylactic and therapeutic remdesivir treatment in a nonhuman primate model of 
+      MERS-CoV infection, the rhesus macaque. Prophylactic remdesivir treatment
+      initiated 24 h prior to inoculation completely prevented MERS-CoV-induced
+      clinical disease, strongly inhibited MERS-CoV replication in respiratory tissues,
+      and prevented the formation of lung lesions. Therapeutic remdesivir treatment
+      initiated 12 h postinoculation also provided a clear clinical benefit, with a
+      reduction in clinical signs, reduced virus replication in the lungs, and
+      decreased presence and severity of lung lesions. The data presented here support 
+      testing of the efficacy of remdesivir treatment in the context of a MERS clinical
+      trial. It may also be considered for a wider range of coronaviruses, including
+      the currently emerging novel coronavirus 2019-nCoV.
+FAU - de Wit, Emmie
+AU  - de Wit E
+AUID- ORCID: http://orcid.org/0000-0002-9763-7758
+AD  - Laboratory of Virology, National Institute of Allergy and Infectious Diseases,
+      NIH, Hamilton, MT 59840; Emmie.deWit@nih.gov.
+FAU - Feldmann, Friederike
+AU  - Feldmann F
+AD  - Rocky Mountain Veterinary Branch, National Institute of Allergy and Infectious
+      Diseases, NIH, Hamilton, MT 59840.
+FAU - Cronin, Jacqueline
+AU  - Cronin J
+AD  - Laboratory of Virology, National Institute of Allergy and Infectious Diseases,
+      NIH, Hamilton, MT 59840.
+FAU - Jordan, Robert
+AU  - Jordan R
+AD  - Biology Department, Gilead Sciences, Foster City, CA 94404.
+FAU - Okumura, Atsushi
+AU  - Okumura A
+AD  - Center for Infection and Immunity, Mailman School of Public Health, Columbia
+      University, New York, NY 10032.
+FAU - Thomas, Tina
+AU  - Thomas T
+AD  - Laboratory of Virology, National Institute of Allergy and Infectious Diseases,
+      NIH, Hamilton, MT 59840.
+FAU - Scott, Dana
+AU  - Scott D
+AD  - Rocky Mountain Veterinary Branch, National Institute of Allergy and Infectious
+      Diseases, NIH, Hamilton, MT 59840.
+FAU - Cihlar, Tomas
+AU  - Cihlar T
+AD  - Biology Department, Gilead Sciences, Foster City, CA 94404.
+FAU - Feldmann, Heinz
+AU  - Feldmann H
+AD  - Laboratory of Virology, National Institute of Allergy and Infectious Diseases,
+      NIH, Hamilton, MT 59840.
+LA  - eng
+PT  - Journal Article
+DEP - 20200213
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+SB  - IM
+OTO - NOTNLM
+OT  - MERS-CoV
+OT  - animal model
+OT  - antiviral
+OT  - remdesivir
+OT  - therapy
+COIS- Competing interest statement: The authors affiliated with Gilead Sciences are
+      employees of the company and may own company stock; R.J. holds a patent on the
+      use of remdesivir to treat Filovirus infections. The authors affiliated with NIH 
+      have no conflict of interest to report.
+EDAT- 2020/02/15 06:00
+MHDA- 2020/02/15 06:00
+CRDT- 2020/02/15 06:00
+PHST- 2020/02/15 06:00 [pubmed]
+PHST- 2020/02/15 06:00 [medline]
+PHST- 2020/02/15 06:00 [entrez]
+AID - 1922083117 [pii]
+AID - 10.1073/pnas.1922083117 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2020 Mar 24;117(12):6771-6776. doi:
+      10.1073/pnas.1922083117. Epub 2020 Feb 13.

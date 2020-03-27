@@ -1,0 +1,890 @@
+
+PMID- 32194944
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200324
+LR  - 20200326
+IS  - 2046-1402 (Electronic)
+IS  - 2046-1402 (Linking)
+VI  - 9
+DP  - 2020
+TI  - Prediction of the SARS-CoV-2 (2019-nCoV) 3C-like protease (3CL (pro)) structure: 
+      virtual screening reveals velpatasvir, ledipasvir, and other drug repurposing
+      candidates.
+PG  - 129
+LID - 10.12688/f1000research.22457.1 [doi]
+AB  - We prepared the three-dimensional model of the SARS-CoV-2 (aka 2019-nCoV) 3C-like
+      protease (3CL (pro)) using the crystal structure of the highly similar (96%
+      identity) ortholog from the SARS-CoV. All residues involved in the catalysis,
+      substrate binding and dimerisation are 100% conserved. Comparison of the
+      polyprotein PP1AB sequences showed 86% identity. The 3C-like cleavage sites on
+      the coronaviral polyproteins are highly conserved. Based on the near-identical
+      substrate specificities and high sequence identities, we are of the opinion that 
+      some of the previous progress of specific inhibitors development for the SARS-CoV
+      enzyme can be conferred on its SARS-CoV-2 counterpart. With the 3CL (pro)
+      molecular model, we performed virtual screening for purchasable drugs and
+      proposed 16 candidates for consideration. Among these, the antivirals ledipasvir 
+      or velpatasvir are particularly attractive as therapeutics to combat the new
+      coronavirus with minimal side effects, commonly fatigue and headache. The drugs
+      Epclusa (velpatasvir/sofosbuvir) and Harvoni (ledipasvir/sofosbuvir) could be
+      very effective owing to their dual inhibitory actions on two viral enzymes.
+CI  - Copyright: (c) 2020 Chen YW et al.
+FAU - Chen, Yu Wai
+AU  - Chen YW
+AUID- ORCID: 0000-0001-7833-7533
+AD  - Department of Applied Biology & Chemical Technology, Hong Kong Polytechnic
+      University, Hunghom, Hong Kong.
+AD  - State Key Laboratory of Chemical Biology and Drug Discovery, Hunghom, Hong Kong.
+FAU - Yiu, Chin-Pang Bennu
+AU  - Yiu CB
+AUID- ORCID: 0000-0003-3965-3992
+AD  - Independent Researcher, La Costa, Ma On Shan, Hong Kong.
+FAU - Wong, Kwok-Yin
+AU  - Wong KY
+AD  - Department of Applied Biology & Chemical Technology, Hong Kong Polytechnic
+      University, Hunghom, Hong Kong.
+AD  - State Key Laboratory of Chemical Biology and Drug Discovery, Hunghom, Hong Kong.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200221
+PL  - England
+TA  - F1000Res
+JT  - F1000Research
+JID - 101594320
+RN  - 0 (Benzimidazoles)
+RN  - 0 (Carbamates)
+RN  - 0 (Fluorenes)
+RN  - 0 (Heterocyclic Compounds, 4 or More Rings)
+RN  - 0 (Viral Nonstructural Proteins)
+RN  - 0 (Viral Proteins)
+RN  - 013TE6E4WV (ledipasvir)
+RN  - EC 3.4.22.- (Cysteine Endopeptidases)
+RN  - KCU0C7RS7Z (velpatasvir)
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Benzimidazoles
+MH  - *Betacoronavirus
+MH  - Carbamates
+MH  - Cysteine Endopeptidases
+MH  - Drug Repositioning
+MH  - Fluorenes
+MH  - Heterocyclic Compounds, 4 or More Rings
+MH  - Viral Nonstructural Proteins
+MH  - Viral Proteins
+PMC - PMC7062204
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *3C-like protease
+OT  - *COVID-19
+OT  - *HCV
+OT  - *Hepatitis C virus
+OT  - *SARS
+OT  - *antiviral
+OT  - *coronavirus
+OT  - *drug repurpose
+OT  - *ledipasvir
+OT  - *molecular modelling
+OT  - *velpatasvir
+OT  - *virtual screening
+COIS- No competing interests were disclosed.
+EDAT- 2020/03/21 06:00
+MHDA- 2020/03/25 06:00
+CRDT- 2020/03/21 06:00
+PHST- 2020/02/19 00:00 [accepted]
+PHST- 2020/03/21 06:00 [entrez]
+PHST- 2020/03/21 06:00 [pubmed]
+PHST- 2020/03/25 06:00 [medline]
+AID - 10.12688/f1000research.22457.1 [doi]
+PST - epublish
+SO  - F1000Res. 2020 Feb 21;9:129. doi: 10.12688/f1000research.22457.1. eCollection
+      2020.
+
+PMID- 32147628
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200316
+LR  - 20200325
+IS  - 1881-784X (Electronic)
+IS  - 1881-7831 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2020
+TI  - Discovering drugs to treat coronavirus disease 2019 (COVID-19).
+PG  - 58-60
+LID - 10.5582/ddt.2020.01012 [doi]
+AB  - The SARS-CoV-2 virus emerged in December 2019 and then spread rapidly worldwide, 
+      particularly to China, Japan, and South Korea. Scientists are endeavoring to find
+      antivirals specific to the virus. Several drugs such as chloroquine, arbidol,
+      remdesivir, and favipiravir are currently undergoing clinical studies to test
+      their efficacy and safety in the treatment of coronavirus disease 2019 (COVID-19)
+      in China; some promising results have been achieved thus far. This article
+      summarizes agents with potential efficacy against SARS-CoV-2.
+FAU - Dong, Liying
+AU  - Dong L
+AD  - Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao,
+      Shandong, China.
+FAU - Hu, Shasha
+AU  - Hu S
+AD  - Department of Pathology, the Affiliated Hospital of Qingdao University, Qingdao, 
+      Shandong, China.
+FAU - Gao, Jianjun
+AU  - Gao J
+AD  - Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao,
+      Shandong, China.
+LA  - eng
+PT  - Journal Article
+PL  - Japan
+TA  - Drug Discov Ther
+JT  - Drug discoveries & therapeutics
+JID - 101493809
+RN  - 0 (Amides)
+RN  - 0 (Antiviral Agents)
+RN  - 0 (Indoles)
+RN  - 0 (Pyrazines)
+RN  - 0 (Ribonucleotides)
+RN  - 3QKI37EEHE (remdesivir)
+RN  - 886U3H6UFF (Chloroquine)
+RN  - 93M09WW4RU (arbidol)
+RN  - EW5GL2X7E0 (favipiravir)
+RN  - OF5P57N2ZX (Alanine)
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Alanine/analogs & derivatives/pharmacology
+MH  - Amides/pharmacology
+MH  - Antiviral Agents/chemistry/*pharmacology
+MH  - *Betacoronavirus/drug effects/physiology
+MH  - Chloroquine/pharmacology
+MH  - Clinical Studies as Topic
+MH  - Coronavirus Infections/*drug therapy/*virology
+MH  - *Drug Discovery
+MH  - Humans
+MH  - Indoles/pharmacology
+MH  - Pyrazines/pharmacology
+MH  - Ribonucleotides/pharmacology
+MH  - Virus Replication/drug effects
+OTO - NOTNLM
+OT  - 2019-nCoV
+OT  - COVID-19
+OT  - SARS-CoV-2
+OT  - novel coronavirus
+OT  - pneumonia
+EDAT- 2020/03/10 06:00
+MHDA- 2020/03/17 06:00
+CRDT- 2020/03/10 06:00
+PHST- 2020/03/10 06:00 [entrez]
+PHST- 2020/03/10 06:00 [pubmed]
+PHST- 2020/03/17 06:00 [medline]
+AID - 10.5582/ddt.2020.01012 [doi]
+PST - ppublish
+SO  - Drug Discov Ther. 2020;14(1):58-60. doi: 10.5582/ddt.2020.01012.
+
+PMID- 32172669
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - Diagnosis and clinical management of severe acute respiratory syndrome
+      Coronavirus 2 (SARS-CoV-2) infection: an operational recommendation of Peking
+      Union Medical College Hospital (V2.0).
+PG  - 582-585
+LID - 10.1080/22221751.2020.1735265 [doi]
+AB  - Since December 2019, China has been experiencing an outbreak of a new infectious 
+      disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+      The clinical features include fever, coughing, shortness of breath, and
+      inflammatory lung infiltration. China rapidly listed SARS-CoV-2-related pneumonia
+      as a statutory infectious disease. To standardize the diagnosis and treatment of 
+      this new infectious disease, an operational recommendation for the diagnosis and 
+      management of SARS-CoV-2 infection is developed by Peking Union Medical College
+      Hospital.
+FAU - Li, Taisheng
+AU  - Li T
+AD  - Department of Infectious Diseases, Peking Union Medical College Hospital, Chinese
+      Academy of Medical Sciences & Peking Union Medical College, Beijing, People's
+      Republic of China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200314
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - COVID-19
+SB  - IM
+MH  - Coronavirus Infections/*diagnosis/prevention & control/*therapy/transmission
+MH  - Health Personnel
+MH  - Hospitals
+MH  - Humans
+MH  - Occupational Exposure
+MH  - Patient Isolation
+MH  - Pneumonia, Viral/*diagnosis/prevention & control/*therapy/transmission
+MH  - *Practice Guidelines as Topic
+OTO - NOTNLM
+OT  - *Coronavirus disease 2019
+OT  - *SARS-CoV-2
+OT  - *diagnosis
+OT  - *pneumonia
+OT  - *treatment
+EDAT- 2020/03/17 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/03/17 06:00
+PHST- 2020/03/17 06:00 [entrez]
+PHST- 2020/03/17 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - 10.1080/22221751.2020.1735265 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Mar 14;9(1):582-585. doi:
+      10.1080/22221751.2020.1735265. eCollection 2020.
+
+PMID- 32172672
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - A tug-of-war between severe acute respiratory syndrome coronavirus 2 and host
+      antiviral defence: lessons from other pathogenic viruses.
+PG  - 558-570
+LID - 10.1080/22221751.2020.1736644 [doi]
+AB  - World Health Organization has declared the ongoing outbreak of coronavirus
+      disease 2019 (COVID-19) a Public Health Emergency of International Concern. The
+      virus was named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) by
+      the International Committee on Taxonomy of Viruses. Human infection with
+      SARS-CoV-2 leads to a wide range of clinical manifestations ranging from
+      asymptomatic, mild, moderate to severe. The severe cases present with pneumonia, 
+      which can progress to acute respiratory distress syndrome. The outbreak provides 
+      an opportunity for real-time tracking of an animal coronavirus that has just
+      crossed species barrier to infect humans. The outcome of SARS-CoV-2 infection is 
+      largely determined by virus-host interaction. Here, we review the discovery,
+      zoonotic origin, animal hosts, transmissibility and pathogenicity of SARS-CoV-2
+      in relation to its interplay with host antiviral defense. A comparison with
+      SARS-CoV, Middle East respiratory syndrome coronavirus, community-acquired human 
+      coronaviruses and other pathogenic viruses including human immunodeficiency
+      viruses is made. We summarize current understanding of the induction of a
+      proinflammatory cytokine storm by other highly pathogenic human coronaviruses,
+      their adaptation to humans and their usurpation of the cell death programmes.
+      Important questions concerning the interaction between SARS-CoV-2 and host
+      antiviral defence, including asymptomatic and presymptomatic virus shedding, are 
+      also discussed.
+FAU - Fung, Sin-Yee
+AU  - Fung SY
+AD  - School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong.
+FAU - Yuen, Kit-San
+AU  - Yuen KS
+AUID- ORCID: 0000-0002-1394-7709
+AD  - School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong.
+FAU - Ye, Zi-Wei
+AU  - Ye ZW
+AD  - Department of Microbiology, The University of Hong Kong, Pokfulam, Hong Kong.
+FAU - Chan, Chi-Ping
+AU  - Chan CP
+AUID- ORCID: 0000-0001-6876-0864
+AD  - School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong.
+FAU - Jin, Dong-Yan
+AU  - Jin DY
+AUID- ORCID: 0000-0002-2778-3530
+AD  - School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200314
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Animals
+MH  - Betacoronavirus/isolation & purification/*physiology
+MH  - Coronavirus Infections/epidemiology/prevention & control/transmission/*virology
+MH  - Disease Vectors
+MH  - *Host-Pathogen Interactions
+MH  - Humans
+MH  - Pneumonia, Viral/epidemiology/prevention & control/transmission/*virology
+OTO - NOTNLM
+OT  - *2019 novel coronavirus
+OT  - *COVID-19
+OT  - *Coronavirus
+OT  - *SARS-CoV
+OT  - *SARS-CoV-2
+OT  - *host antiviral response
+OT  - *type I interferon
+EDAT- 2020/03/17 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/03/17 06:00
+PHST- 2020/03/17 06:00 [entrez]
+PHST- 2020/03/17 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - 10.1080/22221751.2020.1736644 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Mar 14;9(1):558-570. doi:
+      10.1080/22221751.2020.1736644. eCollection 2020.
+
+PMID- 32190290
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200322
+IS  - 2045-3701 (Print)
+IS  - 2045-3701 (Linking)
+VI  - 10
+DP  - 2020
+TI  - SARS-CoV-2 and COVID-19: The most important research questions.
+PG  - 40
+LID - 10.1186/s13578-020-00404-4 [doi]
+AB  - Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome
+      coronavirus 2 (SARS-CoV-2) is an ongoing global health emergency. Here we
+      highlight nine most important research questions concerning virus transmission,
+      asymptomatic and presymptomatic virus shedding, diagnosis, treatment, vaccine
+      development, origin of virus and viral pathogenesis.
+CI  - (c) The Author(s) 2020.
+FAU - Yuen, Kit-San
+AU  - Yuen KS
+AD  - 1School of Biomedical Sciences, The University of Hong Kong, 3/F Laboratory
+      Block, 21 Sassoon Road, Pokfulam, Hong Kong.grid.194645.b0000000121742757
+FAU - Ye, Zi-Wei
+AU  - Ye ZW
+AD  - 2Department of Microbiology, The University of Hong Kong, Pokfulam, Hong
+      Kong.grid.194645.b0000000121742757
+FAU - Fung, Sin-Yee
+AU  - Fung SY
+AD  - 1School of Biomedical Sciences, The University of Hong Kong, 3/F Laboratory
+      Block, 21 Sassoon Road, Pokfulam, Hong Kong.grid.194645.b0000000121742757
+FAU - Chan, Chi-Ping
+AU  - Chan CP
+AD  - 1School of Biomedical Sciences, The University of Hong Kong, 3/F Laboratory
+      Block, 21 Sassoon Road, Pokfulam, Hong Kong.grid.194645.b0000000121742757
+FAU - Jin, Dong-Yan
+AU  - Jin DY
+AUID- ORCID: https://orcid.org/0000-0002-2778-3530
+AD  - 1School of Biomedical Sciences, The University of Hong Kong, 3/F Laboratory
+      Block, 21 Sassoon Road, Pokfulam, Hong Kong.grid.194645.b0000000121742757
+LA  - eng
+PT  - Journal Article
+DEP - 20200316
+PL  - England
+TA  - Cell Biosci
+JT  - Cell & bioscience
+JID - 101561195
+PMC - PMC7074995
+OTO - NOTNLM
+OT  - 2019 novel coronavirus (2019-nCoV)
+OT  - COVID-19
+OT  - Novel coronavirus pneumonia (NCP)
+OT  - SARS-CoV-2
+COIS- Competing interestsNo potential conflict of interest was reported by the authors.
+EDAT- 2020/03/20 06:00
+MHDA- 2020/03/20 06:01
+CRDT- 2020/03/20 06:00
+PHST- 2020/02/26 00:00 [received]
+PHST- 2020/03/07 00:00 [accepted]
+PHST- 2020/03/20 06:00 [entrez]
+PHST- 2020/03/20 06:00 [pubmed]
+PHST- 2020/03/20 06:01 [medline]
+AID - 10.1186/s13578-020-00404-4 [doi]
+AID - 404 [pii]
+PST - epublish
+SO  - Cell Biosci. 2020 Mar 16;10:40. doi: 10.1186/s13578-020-00404-4. eCollection
+      2020.
+
+PMID- 32194980
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200322
+IS  - 2056-5968 (Print)
+IS  - 2056-5968 (Linking)
+VI  - 6
+DP  - 2020
+TI  - Network-based drug repurposing for novel coronavirus 2019-nCoV/SARS-CoV-2.
+PG  - 14
+LID - 10.1038/s41421-020-0153-3 [doi]
+AB  - Human coronaviruses (HCoVs), including severe acute respiratory syndrome
+      coronavirus (SARS-CoV) and 2019 novel coronavirus (2019-nCoV, also known as
+      SARS-CoV-2), lead global epidemics with high morbidity and mortality. However,
+      there are currently no effective drugs targeting 2019-nCoV/SARS-CoV-2. Drug
+      repurposing, representing as an effective drug discovery strategy from existing
+      drugs, could shorten the time and reduce the cost compared to de novo drug
+      discovery. In this study, we present an integrative, antiviral drug repurposing
+      methodology implementing a systems pharmacology-based network medicine platform, 
+      quantifying the interplay between the HCoV-host interactome and drug targets in
+      the human protein-protein interaction network. Phylogenetic analyses of 15 HCoV
+      whole genomes reveal that 2019-nCoV/SARS-CoV-2 shares the highest nucleotide
+      sequence identity with SARS-CoV (79.7%). Specifically, the envelope and
+      nucleocapsid proteins of 2019-nCoV/SARS-CoV-2 are two evolutionarily conserved
+      regions, having the sequence identities of 96% and 89.6%, respectively, compared 
+      to SARS-CoV. Using network proximity analyses of drug targets and HCoV-host
+      interactions in the human interactome, we prioritize 16 potential anti-HCoV
+      repurposable drugs (e.g., melatonin, mercaptopurine, and sirolimus) that are
+      further validated by enrichment analyses of drug-gene signatures and HCoV-induced
+      transcriptomics data in human cell lines. We further identify three potential
+      drug combinations (e.g., sirolimus plus dactinomycin, mercaptopurine plus
+      melatonin, and toremifene plus emodin) captured by the "Complementary Exposure"
+      pattern: the targets of the drugs both hit the HCoV-host subnetwork, but target
+      separate neighborhoods in the human interactome network. In summary, this study
+      offers powerful network-based methodologies for rapid identification of candidate
+      repurposable drugs and potential drug combinations targeting
+      2019-nCoV/SARS-CoV-2.
+CI  - (c) The Author(s) 2020.
+FAU - Zhou, Yadi
+AU  - Zhou Y
+AD  - 1Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic,
+      Cleveland, OH 44195 USA.0000 0001 0675 4725grid.239578.2
+FAU - Hou, Yuan
+AU  - Hou Y
+AD  - 1Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic,
+      Cleveland, OH 44195 USA.0000 0001 0675 4725grid.239578.2
+FAU - Shen, Jiayu
+AU  - Shen J
+AD  - 1Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic,
+      Cleveland, OH 44195 USA.0000 0001 0675 4725grid.239578.2
+FAU - Huang, Yin
+AU  - Huang Y
+AD  - 1Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic,
+      Cleveland, OH 44195 USA.0000 0001 0675 4725grid.239578.2
+FAU - Martin, William
+AU  - Martin W
+AUID- ORCID: 0000-0003-0616-0462
+AD  - 1Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic,
+      Cleveland, OH 44195 USA.0000 0001 0675 4725grid.239578.2
+FAU - Cheng, Feixiong
+AU  - Cheng F
+AD  - 1Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic,
+      Cleveland, OH 44195 USA.0000 0001 0675 4725grid.239578.2
+AD  - 2Department of Molecular Medicine, Cleveland Clinic Lerner College of Medicine,
+      Case Western Reserve University, Cleveland, OH 44195 USA.0000 0001 2164
+      3847grid.67105.35
+AD  - 3Case Comprehensive Cancer Center, Case Western Reserve University School of
+      Medicine, Cleveland, OH 44106 USA.0000 0001 2164 3847grid.67105.35
+LA  - eng
+PT  - Journal Article
+DEP - 20200316
+PL  - England
+TA  - Cell Discov
+JT  - Cell discovery
+JID - 101661034
+PMC - PMC7073332
+OTO - NOTNLM
+OT  - Bioinformatics
+OT  - Comparative genomics
+OT  - Proteomic analysis
+COIS- Conflict of interestThe authors declare that they have no conflict of interest.
+EDAT- 2020/03/21 06:00
+MHDA- 2020/03/21 06:01
+CRDT- 2020/03/21 06:00
+PHST- 2020/02/05 00:00 [received]
+PHST- 2020/03/02 00:00 [accepted]
+PHST- 2020/03/21 06:00 [entrez]
+PHST- 2020/03/21 06:00 [pubmed]
+PHST- 2020/03/21 06:01 [medline]
+AID - 10.1038/s41421-020-0153-3 [doi]
+AID - 153 [pii]
+PST - epublish
+SO  - Cell Discov. 2020 Mar 16;6:14. doi: 10.1038/s41421-020-0153-3. eCollection 2020.
+
+PMID- 32019667
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1560-7917 (Electronic)
+IS  - 1025-496X (Linking)
+VI  - 25
+IP  - 4
+DP  - 2020 Jan
+TI  - Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January
+      2020.
+LID - 10.2807/1560-7917.ES.2020.25.4.2000057 [doi]
+AB  - As at 27 January 2020, 42 novel coronavirus (2019-nCoV) cases were confirmed
+      outside China. We estimate the risk of case importation to Europe from affected
+      areas in China via air travel. We consider travel restrictions in place, three
+      reported cases in France, one in Germany. Estimated risk in Europe remains high. 
+      The United Kingdom, Germany and France are at highest risk. Importation from
+      Beijing and Shanghai would lead to higher and widespread risk for Europe.
+FAU - Pullano, Giulia
+AU  - Pullano G
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, IPLESP, Paris, France.
+FAU - Pinotti, Francesco
+AU  - Pinotti F
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, IPLESP, Paris, France.
+FAU - Valdano, Eugenio
+AU  - Valdano E
+AD  - Center for Biomedical Modeling, The Semel Institute for Neuroscience and Human
+      Behavior, David Geffen School of Medicine, University of California Los Angeles, 
+      Los Angeles, United States.
+FAU - Boelle, Pierre-Yves
+AU  - Boelle PY
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, IPLESP, Paris, France.
+FAU - Poletto, Chiara
+AU  - Poletto C
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, IPLESP, Paris, France.
+FAU - Colizza, Vittoria
+AU  - Colizza V
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, IPLESP, Paris, France.
+LA  - eng
+PT  - Journal Article
+PL  - Sweden
+TA  - Euro Surveill
+JT  - Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 
+      communicable disease bulletin
+JID - 100887452
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - *Air Travel
+MH  - *Betacoronavirus
+MH  - China/epidemiology
+MH  - *Coronavirus Infections/epidemiology/prevention & control/transmission
+MH  - Disease Outbreaks
+MH  - Europe/epidemiology
+MH  - Humans
+MH  - Models, Theoretical
+MH  - *Pneumonia, Viral/epidemiology/prevention & control/transmission
+MH  - *Public Policy
+MH  - *Risk Assessment
+PMC - PMC7001240
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *Europe
+OT  - *importation risk
+OT  - *travel ban
+EDAT- 2020/02/06 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/06 06:00
+PHST- 2020/02/06 06:00 [entrez]
+PHST- 2020/02/06 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+AID - 10.2807/1560-7917.ES.2020.25.4.2000057 [doi]
+PST - ppublish
+SO  - Euro Surveill. 2020 Jan;25(4). doi: 10.2807/1560-7917.ES.2020.25.4.2000057.
+
+PMID- 32006657
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1873-0442 (Electronic)
+IS  - 1477-8939 (Linking)
+VI  - 33
+DP  - 2020 Jan - Feb
+TI  - The next big threat to global health? 2019 novel coronavirus (2019-nCoV): What
+      advice can we give to travellers? - Interim recommendations January 2020, from
+      the Latin-American society for Travel Medicine (SLAMVI).
+PG  - 101567
+LID - S1477-8939(20)30017-X [pii]
+LID - 10.1016/j.tmaid.2020.101567 [doi]
+FAU - Biscayart, Cristian
+AU  - Biscayart C
+AD  - Fundacion Centro de Estudios Infectologicos (FUNCEI), Buenos Aires, Argentina;
+      Panel of Scientific Publications and Teaching, Latin American Society for Travel 
+      Medicine (SLAMVI), Buenos Aires, Argentina.
+FAU - Angeleri, Patricia
+AU  - Angeleri P
+AD  - Hospital General de Agudos P. Pinero, Buenos Aires, Argentina.
+FAU - Lloveras, Susana
+AU  - Lloveras S
+AD  - Panel of Scientific Publications and Teaching, Latin American Society for Travel 
+      Medicine (SLAMVI), Buenos Aires, Argentina; Panel of Sports and Travel, Latin
+      American Society for Travel Medicine (SLAMVI), Buenos Aires, Argentina; Hospital 
+      de Enfermedades Infecciosas Francisco J. Muniz, Buenos Aires, Argentina.
+FAU - Chaves, Tania do Socorro Souza
+AU  - Chaves TDSS
+AD  - Evandro Chagas Institute, Health of Ministry of Brazil, Rodovia BR 316 Km 07,
+      S/N, CEP 67030-000, Ananindeua, Para, Brazil; Faculdade de Medicina da
+      Universidade Federal Do Para, Para, Brazil; Centro Universitario Do
+      Para/Medicina, Para, Brazil; Panel of Vaccines in Travelers, Latin American
+      Society for Travel Medicine (SLAMVI), Para, Brazil.
+FAU - Schlagenhauf, Patricia
+AU  - Schlagenhauf P
+AD  - University of Zurich Centre for Travel Medicine, WHO Collaborating Centre for
+      Travellers' Health, Institute for Epidemiology, Biostatistics and Prevention,
+      Hirschengraben 84, 8001, Zurich, Switzerland.
+FAU - Rodriguez-Morales, Alfonso J
+AU  - Rodriguez-Morales AJ
+AD  - Panel of Scientific Publications and Teaching, Latin American Society for Travel 
+      Medicine (SLAMVI), Buenos Aires, Argentina; Public Health and Infection Research 
+      Group, Faculty of Health Sciences, Universidad Tecnologica de Pereira, Pereira,
+      Risaralda, Colombia; Grupo de Investigacion Biomedicina, Faculty of Medicine,
+      Fundacion Universitaria Autonoma de Las Americas, Pereira, Risaralda, 660004,
+      Colombia. Electronic address: arodriguezm@utp.edu.co.
+LA  - eng
+PT  - Editorial
+DEP - 20200130
+PL  - Netherlands
+TA  - Travel Med Infect Dis
+JT  - Travel medicine and infectious disease
+JID - 101230758
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Betacoronavirus/pathogenicity
+MH  - *Coronavirus Infections/epidemiology/prevention & control/transmission
+MH  - Disease Outbreaks/*prevention & control
+MH  - *Guidelines as Topic
+MH  - Humans
+MH  - Infectious Disease Incubation Period
+MH  - Latin America/epidemiology
+MH  - Melia azedarach
+MH  - *Pneumonia, Viral/epidemiology/prevention & control/transmission
+MH  - Societies, Medical
+MH  - *Travel
+MH  - *Travel Medicine
+OTO - NOTNLM
+OT  - *2019 novel Coronavirus
+OT  - *2019-nCoV
+OT  - *Coronaviruses
+OT  - *Latin America
+OT  - *Travelers
+COIS- Declaration of Competing Interest None.
+EDAT- 2020/02/02 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/02 06:00
+PHST- 2020/01/28 00:00 [received]
+PHST- 2020/01/28 00:00 [accepted]
+PHST- 2020/02/02 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+PHST- 2020/02/02 06:00 [entrez]
+AID - S1477-8939(20)30017-X [pii]
+AID - 10.1016/j.tmaid.2020.101567 [doi]
+PST - ppublish
+SO  - Travel Med Infect Dis. 2020 Jan - Feb;33:101567. doi:
+      10.1016/j.tmaid.2020.101567. Epub 2020 Jan 30.
+
+PMID- 31992387
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200219
+LR  - 20200228
+IS  - 1560-7917 (Electronic)
+IS  - 1025-496X (Linking)
+VI  - 25
+IP  - 3
+DP  - 2020 Jan
+TI  - Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR.
+LID - 10.2807/1560-7917.ES.2020.25.3.2000045 [doi]
+AB  - BACKGROUND: The ongoing outbreak of the recently emerged novel coronavirus
+      (2019-nCoV) poses a challenge for public health laboratories as virus isolates
+      are unavailable while there is growing evidence that the outbreak is more
+      widespread than initially thought, and international spread through travellers
+      does already occur. AIM: We aimed to develop and deploy robust diagnostic
+      methodology for use in public health laboratory settings without having virus
+      material available. METHODS: Here we present a validated diagnostic workflow for 
+      2019-nCoV, its design relying on close genetic relatedness of 2019-nCoV with SARS
+      coronavirus, making use of synthetic nucleic acid technology. RESULTS: The
+      workflow reliably detects 2019-nCoV, and further discriminates 2019-nCoV from
+      SARS-CoV. Through coordination between academic and public laboratories, we
+      confirmed assay exclusivity based on 297 original clinical specimens containing a
+      full spectrum of human respiratory viruses. Control material is made available
+      through European Virus Archive - Global (EVAg), a European Union infrastructure
+      project. CONCLUSION: The present study demonstrates the enormous response
+      capacity achieved through coordination of academic and public laboratories in
+      national and European research networks.
+FAU - Corman, Victor M
+AU  - Corman VM
+AD  - Charite - Universitatsmedizin Berlin Institute of Virology, Berlin, Germany and
+      German Centre for Infection Research (DZIF), Berlin, Germany.
+FAU - Landt, Olfert
+AU  - Landt O
+AD  - Tib-Molbiol, Berlin, Germany.
+FAU - Kaiser, Marco
+AU  - Kaiser M
+AD  - Tib-Molbiol, Berlin, Germany.
+FAU - Molenkamp, Richard
+AU  - Molenkamp R
+AD  - Department of Viroscience, Erasmus MC, Rotterdam, the Netherlands.
+FAU - Meijer, Adam
+AU  - Meijer A
+AD  - National Institute for Public Health and the Environment (RIVM), Bilthoven, the
+      Netherlands.
+FAU - Chu, Daniel K W
+AU  - Chu DKW
+AD  - University of Hong Kong, Hong Kong, China.
+FAU - Bleicker, Tobias
+AU  - Bleicker T
+AD  - Charite - Universitatsmedizin Berlin Institute of Virology, Berlin, Germany and
+      German Centre for Infection Research (DZIF), Berlin, Germany.
+FAU - Brunink, Sebastian
+AU  - Brunink S
+AD  - Charite - Universitatsmedizin Berlin Institute of Virology, Berlin, Germany and
+      German Centre for Infection Research (DZIF), Berlin, Germany.
+FAU - Schneider, Julia
+AU  - Schneider J
+AD  - Charite - Universitatsmedizin Berlin Institute of Virology, Berlin, Germany and
+      German Centre for Infection Research (DZIF), Berlin, Germany.
+FAU - Schmidt, Marie Luisa
+AU  - Schmidt ML
+AD  - Charite - Universitatsmedizin Berlin Institute of Virology, Berlin, Germany and
+      German Centre for Infection Research (DZIF), Berlin, Germany.
+FAU - Mulders, Daphne G J C
+AU  - Mulders DGJC
+AD  - Department of Viroscience, Erasmus MC, Rotterdam, the Netherlands.
+FAU - Haagmans, Bart L
+AU  - Haagmans BL
+AD  - Department of Viroscience, Erasmus MC, Rotterdam, the Netherlands.
+FAU - van der Veer, Bas
+AU  - van der Veer B
+AD  - National Institute for Public Health and the Environment (RIVM), Bilthoven, the
+      Netherlands.
+FAU - van den Brink, Sharon
+AU  - van den Brink S
+AD  - National Institute for Public Health and the Environment (RIVM), Bilthoven, the
+      Netherlands.
+FAU - Wijsman, Lisa
+AU  - Wijsman L
+AD  - National Institute for Public Health and the Environment (RIVM), Bilthoven, the
+      Netherlands.
+FAU - Goderski, Gabriel
+AU  - Goderski G
+AD  - National Institute for Public Health and the Environment (RIVM), Bilthoven, the
+      Netherlands.
+FAU - Romette, Jean-Louis
+AU  - Romette JL
+AD  - Universite d Aix-Marseille, Marseille, France.
+FAU - Ellis, Joanna
+AU  - Ellis J
+AD  - Public Health England, London, United Kingdom.
+FAU - Zambon, Maria
+AU  - Zambon M
+AD  - Public Health England, London, United Kingdom.
+FAU - Peiris, Malik
+AU  - Peiris M
+AD  - University of Hong Kong, Hong Kong, China.
+FAU - Goossens, Herman
+AU  - Goossens H
+AD  - Department of Medical Microbiology, Vaccine and Infectious Diseases Institute,
+      University of Antwerp, Antwerp, Belgium.
+FAU - Reusken, Chantal
+AU  - Reusken C
+AD  - National Institute for Public Health and the Environment (RIVM), Bilthoven, the
+      Netherlands.
+FAU - Koopmans, Marion P G
+AU  - Koopmans MPG
+AD  - Department of Viroscience, Erasmus MC, Rotterdam, the Netherlands.
+FAU - Drosten, Christian
+AU  - Drosten C
+AD  - Charite - Universitatsmedizin Berlin Institute of Virology, Berlin, Germany and
+      German Centre for Infection Research (DZIF), Berlin, Germany.
+LA  - eng
+PT  - Journal Article
+PL  - Sweden
+TA  - Euro Surveill
+JT  - Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 
+      communicable disease bulletin
+JID - 100887452
+RN  - 0 (RNA, Viral)
+SB  - IM
+CIN - Euro Surveill. 2020 Mar;25(9):. PMID: 32156329
+MH  - Clinical Laboratory Techniques/methods
+MH  - Coronavirus/*classification/*genetics/isolation & purification
+MH  - Coronavirus Infections/*diagnosis/*virology
+MH  - Disease Outbreaks
+MH  - Humans
+MH  - RNA, Viral/analysis
+MH  - Real-Time Polymerase Chain Reaction/methods
+MH  - Sensitivity and Specificity
+PMC - PMC6988269
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *RT-PCR
+OT  - *Wuhan
+OT  - *diagnostics
+OT  - *laboratory
+OT  - *novel coronavirus
+OT  - *outbreak
+OT  - *testing
+EDAT- 2020/01/30 06:00
+MHDA- 2020/02/20 06:00
+CRDT- 2020/01/30 06:00
+PHST- 2020/01/30 06:00 [entrez]
+PHST- 2020/01/30 06:00 [pubmed]
+PHST- 2020/02/20 06:00 [medline]
+AID - 10.2807/1560-7917.ES.2020.25.3.2000045 [doi]
+PST - ppublish
+SO  - Euro Surveill. 2020 Jan;25(3). doi: 10.2807/1560-7917.ES.2020.25.3.2000045.
+
+PMID- 32178593
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200319
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - Emerging WuHan (COVID-19) coronavirus: glycan shield and structure prediction of 
+      spike glycoprotein and its interaction with human CD26.
+PG  - 601-604
+LID - 10.1080/22221751.2020.1739565 [doi]
+AB  - The recent outbreak of pneumonia-causing COVID-19 in China is an urgent global
+      public health issue with an increase in mortality and morbidity. Here we report
+      our modelled homo-trimer structure of COVID-19 spike glycoprotein in both closed 
+      (ligand-free) and open (ligand-bound) conformation, which is involved in host
+      cell adhesion. We also predict the unique N- and O-linked glycosylation sites of 
+      spike glycoprotein that distinguish it from the SARS and underlines shielding and
+      camouflage of COVID-19 from the host the defence system. Furthermore, our study
+      also highlights the key finding that the S1 domain of COVID-19 spike glycoprotein
+      potentially interacts with the human CD26, a key immunoregulatory factor for
+      hijacking and virulence. These findings accentuate the unique features of
+      COVID-19 and assist in the development of new therapeutics.
+FAU - Vankadari, Naveen
+AU  - Vankadari N
+AUID- ORCID: 0000-0001-9363-080X
+AD  - Monash Biomedicine Discovery Institute and Department of Biochemistry and
+      Molecular Biology, Monash University, Clayton, Australia.
+FAU - Wilce, Jacqueline A
+AU  - Wilce JA
+AUID- ORCID: 0000-0002-8344-2626
+AD  - Monash Biomedicine Discovery Institute and Department of Biochemistry and
+      Molecular Biology, Monash University, Clayton, Australia.
+LA  - eng
+PT  - Letter
+DEP - 20200317
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - 0 (Polysaccharides)
+RN  - 0 (Spike Glycoprotein, Coronavirus)
+RN  - EC 3.4.14.5 (DPP4 protein, human)
+RN  - EC 3.4.14.5 (Dipeptidyl Peptidase 4)
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Betacoronavirus/chemistry/genetics/*metabolism
+MH  - Dipeptidyl Peptidase 4/*chemistry/metabolism
+MH  - Humans
+MH  - Models, Molecular
+MH  - Polysaccharides/*chemistry/metabolism
+MH  - Protein Binding
+MH  - Protein Structure, Quaternary
+MH  - Spike Glycoprotein, Coronavirus/*chemistry/genetics/metabolism
+OTO - NOTNLM
+OT  - *CD26
+OT  - *Coronavirus
+OT  - *docking
+OT  - *glycosylation
+OT  - *spike glycoprotein
+EDAT- 2020/03/18 06:00
+MHDA- 2020/03/20 06:00
+CRDT- 2020/03/18 06:00
+PHST- 2020/03/18 06:00 [entrez]
+PHST- 2020/03/18 06:00 [pubmed]
+PHST- 2020/03/20 06:00 [medline]
+AID - 10.1080/22221751.2020.1739565 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Mar 17;9(1):601-604. doi:
+      10.1080/22221751.2020.1739565. eCollection 2020.

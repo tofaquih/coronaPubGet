@@ -1,0 +1,2670 @@
+
+PMID- 32172672
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - A tug-of-war between severe acute respiratory syndrome coronavirus 2 and host
+      antiviral defence: lessons from other pathogenic viruses.
+PG  - 558-570
+LID - 10.1080/22221751.2020.1736644 [doi]
+AB  - World Health Organization has declared the ongoing outbreak of coronavirus
+      disease 2019 (COVID-19) a Public Health Emergency of International Concern. The
+      virus was named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) by
+      the International Committee on Taxonomy of Viruses. Human infection with
+      SARS-CoV-2 leads to a wide range of clinical manifestations ranging from
+      asymptomatic, mild, moderate to severe. The severe cases present with pneumonia, 
+      which can progress to acute respiratory distress syndrome. The outbreak provides 
+      an opportunity for real-time tracking of an animal coronavirus that has just
+      crossed species barrier to infect humans. The outcome of SARS-CoV-2 infection is 
+      largely determined by virus-host interaction. Here, we review the discovery,
+      zoonotic origin, animal hosts, transmissibility and pathogenicity of SARS-CoV-2
+      in relation to its interplay with host antiviral defense. A comparison with
+      SARS-CoV, Middle East respiratory syndrome coronavirus, community-acquired human 
+      coronaviruses and other pathogenic viruses including human immunodeficiency
+      viruses is made. We summarize current understanding of the induction of a
+      proinflammatory cytokine storm by other highly pathogenic human coronaviruses,
+      their adaptation to humans and their usurpation of the cell death programmes.
+      Important questions concerning the interaction between SARS-CoV-2 and host
+      antiviral defence, including asymptomatic and presymptomatic virus shedding, are 
+      also discussed.
+FAU - Fung, Sin-Yee
+AU  - Fung SY
+AD  - School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong.
+FAU - Yuen, Kit-San
+AU  - Yuen KS
+AUID- ORCID: 0000-0002-1394-7709
+AD  - School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong.
+FAU - Ye, Zi-Wei
+AU  - Ye ZW
+AD  - Department of Microbiology, The University of Hong Kong, Pokfulam, Hong Kong.
+FAU - Chan, Chi-Ping
+AU  - Chan CP
+AUID- ORCID: 0000-0001-6876-0864
+AD  - School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong.
+FAU - Jin, Dong-Yan
+AU  - Jin DY
+AUID- ORCID: 0000-0002-2778-3530
+AD  - School of Biomedical Sciences, The University of Hong Kong, Pokfulam, Hong Kong.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200314
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Animals
+MH  - Betacoronavirus/isolation & purification/*physiology
+MH  - Coronavirus Infections/epidemiology/prevention & control/transmission/*virology
+MH  - Disease Vectors
+MH  - *Host-Pathogen Interactions
+MH  - Humans
+MH  - Pneumonia, Viral/epidemiology/prevention & control/transmission/*virology
+OTO - NOTNLM
+OT  - *2019 novel coronavirus
+OT  - *COVID-19
+OT  - *Coronavirus
+OT  - *SARS-CoV
+OT  - *SARS-CoV-2
+OT  - *host antiviral response
+OT  - *type I interferon
+EDAT- 2020/03/17 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/03/17 06:00
+PHST- 2020/03/17 06:00 [entrez]
+PHST- 2020/03/17 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - 10.1080/22221751.2020.1736644 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Mar 14;9(1):558-570. doi:
+      10.1080/22221751.2020.1736644. eCollection 2020.
+
+PMID- 32019669
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1560-7917 (Electronic)
+IS  - 1025-496X (Linking)
+VI  - 25
+IP  - 4
+DP  - 2020 Jan
+TI  - Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus
+      (2019-nCoV), December 2019 to January 2020.
+LID - 10.2807/1560-7917.ES.2020.25.4.2000058 [doi]
+AB  - Since December 2019, China has been experiencing a large outbreak of a novel
+      coronavirus (2019-nCoV) which can cause respiratory disease and severe pneumonia.
+      We estimated the basic reproduction number R0 of 2019-nCoV to be around 2.2 (90% 
+      high density interval: 1.4-3.8), indicating the potential for sustained
+      human-to-human transmission. Transmission characteristics appear to be of similar
+      magnitude to severe acute respiratory syndrome-related coronavirus (SARS-CoV) and
+      pandemic influenza, indicating a risk of global spread.
+FAU - Riou, Julien
+AU  - Riou J
+AD  - Institute of Social and Preventive Medicine, University of Bern, Bern,
+      Switzerland.
+FAU - Althaus, Christian L
+AU  - Althaus CL
+AD  - Institute of Social and Preventive Medicine, University of Bern, Bern,
+      Switzerland.
+LA  - eng
+PT  - Journal Article
+PL  - Sweden
+TA  - Euro Surveill
+JT  - Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 
+      communicable disease bulletin
+JID - 100887452
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+EIN - Euro Surveill. 2020 Feb;25(7):. PMID: 32098643
+MH  - Betacoronavirus/*pathogenicity
+MH  - China/epidemiology
+MH  - Coronavirus Infections/epidemiology/*transmission
+MH  - Disease Outbreaks/*statistics & numerical data
+MH  - Global Health
+MH  - Humans
+MH  - Infection Control
+MH  - Influenza A virus/pathogenicity
+MH  - Influenza, Human/transmission
+MH  - Pandemics
+MH  - Pneumonia, Viral/epidemiology/*transmission
+MH  - Risk
+MH  - SARS Virus/pathogenicity
+MH  - Severe Acute Respiratory Syndrome/*transmission
+MH  - *Virus Replication
+PMC - PMC7001239
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *Wuhan
+OT  - *coronavirus
+OT  - *emerging infectious disease
+OT  - *mathematical modelling
+EDAT- 2020/02/06 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/06 06:00
+PHST- 2020/02/06 06:00 [entrez]
+PHST- 2020/02/06 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+AID - 10.2807/1560-7917.ES.2020.25.4.2000058 [doi]
+PST - ppublish
+SO  - Euro Surveill. 2020 Jan;25(4). doi: 10.2807/1560-7917.ES.2020.25.4.2000058.
+
+PMID- 32035431
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 2092-7193 (Electronic)
+IS  - 2092-7193 (Linking)
+VI  - 42
+DP  - 2020
+TI  - Epidemiologic characteristics of early cases with 2019 novel coronavirus
+      (2019-nCoV) disease in Korea.
+PG  - e2020007
+LID - 10.4178/epih.e2020007 [doi]
+AB  - In about 20 days since the diagnosis of the first case of the 2019 novel
+      coronavirus (2019-nCoV) in Korea on January 20, 2020, 28 cases have been
+      confirmed. Fifteen patients (53.6%) of them were male and median age of was 42
+      years (range, 20-73). Of the confirmed cases, 16, 9, and 3 were index (57.2%),
+      first-generation (32.1%), and second-generation (10.7%) cases, respectively. All 
+      first-generation and second-generation patients were family members or intimate
+      acquaintances of the index cases with close contacts. Fifteen among 16 index
+      patients had entered Korea from January 19 to 24, 2020 while 1 patient had
+      entered Korea on January 31, 2020. The average incubation period was 3.9 days
+      (median, 3.0), and the reproduction number was estimated as 0.48. Three of the
+      confirmed patients were asymptomatic when they were diagnosed. Epidemiological
+      indicators will be revised with the availability of additional data in the
+      future. Sharing epidemiological information among researchers worldwide is
+      essential for efficient preparation and response in tackling this new infectious 
+      disease.
+FAU - Ki, Moran
+AU  - Ki M
+AD  - Department of Cancer Control and Population Health, Graduate School of Cancer
+      Science and Policy, National Cancer Center, Goyang, Korea.
+CN  - Task Force for 2019-nCoV
+LA  - eng
+GR  - HG18C0088/Government-wide R&amp;D Fund project for infectious disease
+      research/International
+PT  - Journal Article
+DEP - 20200209
+PL  - Korea (South)
+TA  - Epidemiol Health
+JT  - Epidemiology and health
+JID - 101519472
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Asymptomatic Diseases
+MH  - Betacoronavirus/isolation & purification/pathogenicity
+MH  - Contact Tracing
+MH  - Coronavirus Infections/diagnosis/*epidemiology
+MH  - Family Health
+MH  - Female
+MH  - Humans
+MH  - Infectious Disease Incubation Period
+MH  - Male
+MH  - Middle Aged
+MH  - Pneumonia, Viral/diagnosis/*epidemiology
+MH  - Republic of Korea/epidemiology
+MH  - Young Adult
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *Epidemiology
+OT  - *Isolation
+OT  - *Korea
+OT  - *Outbreak
+OT  - *Quarantine
+EDAT- 2020/02/10 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/10 06:00
+PHST- 2020/02/08 00:00 [received]
+PHST- 2020/02/09 00:00 [accepted]
+PHST- 2020/02/10 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+PHST- 2020/02/10 06:00 [entrez]
+AID - epih.e2020007 [pii]
+AID - 10.4178/epih.e2020007 [doi]
+PST - ppublish
+SO  - Epidemiol Health. 2020;42:e2020007. doi: 10.4178/epih.e2020007. Epub 2020 Feb 9.
+
+PMID- 32019667
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1560-7917 (Electronic)
+IS  - 1025-496X (Linking)
+VI  - 25
+IP  - 4
+DP  - 2020 Jan
+TI  - Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January
+      2020.
+LID - 10.2807/1560-7917.ES.2020.25.4.2000057 [doi]
+AB  - As at 27 January 2020, 42 novel coronavirus (2019-nCoV) cases were confirmed
+      outside China. We estimate the risk of case importation to Europe from affected
+      areas in China via air travel. We consider travel restrictions in place, three
+      reported cases in France, one in Germany. Estimated risk in Europe remains high. 
+      The United Kingdom, Germany and France are at highest risk. Importation from
+      Beijing and Shanghai would lead to higher and widespread risk for Europe.
+FAU - Pullano, Giulia
+AU  - Pullano G
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, IPLESP, Paris, France.
+FAU - Pinotti, Francesco
+AU  - Pinotti F
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, IPLESP, Paris, France.
+FAU - Valdano, Eugenio
+AU  - Valdano E
+AD  - Center for Biomedical Modeling, The Semel Institute for Neuroscience and Human
+      Behavior, David Geffen School of Medicine, University of California Los Angeles, 
+      Los Angeles, United States.
+FAU - Boelle, Pierre-Yves
+AU  - Boelle PY
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, IPLESP, Paris, France.
+FAU - Poletto, Chiara
+AU  - Poletto C
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, IPLESP, Paris, France.
+FAU - Colizza, Vittoria
+AU  - Colizza V
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, IPLESP, Paris, France.
+LA  - eng
+PT  - Journal Article
+PL  - Sweden
+TA  - Euro Surveill
+JT  - Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 
+      communicable disease bulletin
+JID - 100887452
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - *Air Travel
+MH  - *Betacoronavirus
+MH  - China/epidemiology
+MH  - *Coronavirus Infections/epidemiology/prevention & control/transmission
+MH  - Disease Outbreaks
+MH  - Europe/epidemiology
+MH  - Humans
+MH  - Models, Theoretical
+MH  - *Pneumonia, Viral/epidemiology/prevention & control/transmission
+MH  - *Public Policy
+MH  - *Risk Assessment
+PMC - PMC7001240
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *Europe
+OT  - *importation risk
+OT  - *travel ban
+EDAT- 2020/02/06 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/06 06:00
+PHST- 2020/02/06 06:00 [entrez]
+PHST- 2020/02/06 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+AID - 10.2807/1560-7917.ES.2020.25.4.2000057 [doi]
+PST - ppublish
+SO  - Euro Surveill. 2020 Jan;25(4). doi: 10.2807/1560-7917.ES.2020.25.4.2000057.
+
+PMID- 32006657
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1873-0442 (Electronic)
+IS  - 1477-8939 (Linking)
+VI  - 33
+DP  - 2020 Jan - Feb
+TI  - The next big threat to global health? 2019 novel coronavirus (2019-nCoV): What
+      advice can we give to travellers? - Interim recommendations January 2020, from
+      the Latin-American society for Travel Medicine (SLAMVI).
+PG  - 101567
+LID - S1477-8939(20)30017-X [pii]
+LID - 10.1016/j.tmaid.2020.101567 [doi]
+FAU - Biscayart, Cristian
+AU  - Biscayart C
+AD  - Fundacion Centro de Estudios Infectologicos (FUNCEI), Buenos Aires, Argentina;
+      Panel of Scientific Publications and Teaching, Latin American Society for Travel 
+      Medicine (SLAMVI), Buenos Aires, Argentina.
+FAU - Angeleri, Patricia
+AU  - Angeleri P
+AD  - Hospital General de Agudos P. Pinero, Buenos Aires, Argentina.
+FAU - Lloveras, Susana
+AU  - Lloveras S
+AD  - Panel of Scientific Publications and Teaching, Latin American Society for Travel 
+      Medicine (SLAMVI), Buenos Aires, Argentina; Panel of Sports and Travel, Latin
+      American Society for Travel Medicine (SLAMVI), Buenos Aires, Argentina; Hospital 
+      de Enfermedades Infecciosas Francisco J. Muniz, Buenos Aires, Argentina.
+FAU - Chaves, Tania do Socorro Souza
+AU  - Chaves TDSS
+AD  - Evandro Chagas Institute, Health of Ministry of Brazil, Rodovia BR 316 Km 07,
+      S/N, CEP 67030-000, Ananindeua, Para, Brazil; Faculdade de Medicina da
+      Universidade Federal Do Para, Para, Brazil; Centro Universitario Do
+      Para/Medicina, Para, Brazil; Panel of Vaccines in Travelers, Latin American
+      Society for Travel Medicine (SLAMVI), Para, Brazil.
+FAU - Schlagenhauf, Patricia
+AU  - Schlagenhauf P
+AD  - University of Zurich Centre for Travel Medicine, WHO Collaborating Centre for
+      Travellers' Health, Institute for Epidemiology, Biostatistics and Prevention,
+      Hirschengraben 84, 8001, Zurich, Switzerland.
+FAU - Rodriguez-Morales, Alfonso J
+AU  - Rodriguez-Morales AJ
+AD  - Panel of Scientific Publications and Teaching, Latin American Society for Travel 
+      Medicine (SLAMVI), Buenos Aires, Argentina; Public Health and Infection Research 
+      Group, Faculty of Health Sciences, Universidad Tecnologica de Pereira, Pereira,
+      Risaralda, Colombia; Grupo de Investigacion Biomedicina, Faculty of Medicine,
+      Fundacion Universitaria Autonoma de Las Americas, Pereira, Risaralda, 660004,
+      Colombia. Electronic address: arodriguezm@utp.edu.co.
+LA  - eng
+PT  - Editorial
+DEP - 20200130
+PL  - Netherlands
+TA  - Travel Med Infect Dis
+JT  - Travel medicine and infectious disease
+JID - 101230758
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Betacoronavirus/pathogenicity
+MH  - *Coronavirus Infections/epidemiology/prevention & control/transmission
+MH  - Disease Outbreaks/*prevention & control
+MH  - *Guidelines as Topic
+MH  - Humans
+MH  - Infectious Disease Incubation Period
+MH  - Latin America/epidemiology
+MH  - Melia azedarach
+MH  - *Pneumonia, Viral/epidemiology/prevention & control/transmission
+MH  - Societies, Medical
+MH  - *Travel
+MH  - *Travel Medicine
+OTO - NOTNLM
+OT  - *2019 novel Coronavirus
+OT  - *2019-nCoV
+OT  - *Coronaviruses
+OT  - *Latin America
+OT  - *Travelers
+COIS- Declaration of Competing Interest None.
+EDAT- 2020/02/02 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/02 06:00
+PHST- 2020/01/28 00:00 [received]
+PHST- 2020/01/28 00:00 [accepted]
+PHST- 2020/02/02 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+PHST- 2020/02/02 06:00 [entrez]
+AID - S1477-8939(20)30017-X [pii]
+AID - 10.1016/j.tmaid.2020.101567 [doi]
+PST - ppublish
+SO  - Travel Med Infect Dis. 2020 Jan - Feb;33:101567. doi:
+      10.1016/j.tmaid.2020.101567. Epub 2020 Jan 30.
+
+PMID- 32200398
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200324
+LR  - 20200325
+IS  - 0304-4602 (Print)
+IS  - 0304-4602 (Linking)
+VI  - 49
+IP  - 1
+DP  - 2020 Jan
+TI  - The Novel Coronavirus (SARS-CoV-2) Epidemic.
+PG  - 1-3
+FAU - Hsu, Li Yang
+AU  - Hsu LY
+AD  - Saw Swee Hock School of Public Health, National University of Singapore,
+      Singapore.
+FAU - Chia, Po Ying
+AU  - Chia PY
+FAU - Lim, Jeremy Fy
+AU  - Lim JF
+LA  - eng
+PT  - Editorial
+PL  - Singapore
+TA  - Ann Acad Med Singapore
+JT  - Annals of the Academy of Medicine, Singapore
+JID - 7503289
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - *Betacoronavirus/genetics/pathogenicity
+MH  - *Coronavirus Infections/epidemiology/prevention & control/transmission
+MH  - *Delivery of Health Care
+MH  - Humans
+MH  - Infection Control
+MH  - *Pneumonia, Viral/epidemiology/prevention & control/transmission
+MH  - *Public Health
+MH  - Singapore/epidemiology
+EDAT- 2020/03/23 06:00
+MHDA- 2020/03/25 06:00
+CRDT- 2020/03/23 06:00
+PHST- 2020/03/23 06:00 [entrez]
+PHST- 2020/03/23 06:00 [pubmed]
+PHST- 2020/03/25 06:00 [medline]
+PST - ppublish
+SO  - Ann Acad Med Singapore. 2020 Jan;49(1):1-3.
+
+PMID- 32006656
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1873-0442 (Electronic)
+IS  - 1477-8939 (Linking)
+VI  - 33
+DP  - 2020 Jan - Feb
+TI  - The association between domestic train transportation and novel coronavirus
+      (2019-nCoV) outbreak in China from 2019 to 2020: A data-driven correlational
+      report.
+PG  - 101568
+LID - S1477-8939(20)30018-1 [pii]
+LID - 10.1016/j.tmaid.2020.101568 [doi]
+FAU - Zhao, Shi
+AU  - Zhao S
+AD  - JC School of Public Health and Primary Care, Chinese University of Hong Kong,
+      Hong Kong, China; Shenzhen Research Institute of Chinese University of Hong Kong,
+      Shenzhen, China. Electronic address: shi.zhao@link.cuhk.edu.hk.
+FAU - Zhuang, Zian
+AU  - Zhuang Z
+AD  - Department of Applied Mathematics, Hong Kong Polytechnic University, Hong Kong,
+      China. Electronic address: larry.zhuang@polyu.edu.hk.
+FAU - Ran, Jinjun
+AU  - Ran J
+AD  - School of Public Health, Li Ka Shing Faculty of Medicine, University of Hong
+      Kong, Hong Kong, China. Electronic address: jimran@connect.hku.hk.
+FAU - Lin, Jiaer
+AU  - Lin J
+AD  - JC School of Public Health and Primary Care, Chinese University of Hong Kong,
+      Hong Kong, China. Electronic address: JiaerLIN@link.cuhk.edu.hk.
+FAU - Yang, Guangpu
+AU  - Yang G
+AD  - Department of Orthopaedics and Traumatology, Chinese University of Hong Kong,
+      Hong Kong, China; SH Ho Scoliosis Research Lab, Joint Scoliosis Research Center
+      of Chinese University of Hong Kong and Nanjing University, Hong Kong, China.
+      Electronic address: kennethgpy@link.cuhk.edu.hk.
+FAU - Yang, Lin
+AU  - Yang L
+AD  - School of Nursing, Hong Kong Polytechnic University, Hong Kong, China. Electronic
+      address: l.yang@polyu.edu.hk.
+FAU - He, Daihai
+AU  - He D
+AD  - Department of Applied Mathematics, Hong Kong Polytechnic University, Hong Kong,
+      China. Electronic address: daihai.he@polyu.edu.hk.
+LA  - eng
+PT  - Letter
+DEP - 20200130
+PL  - Netherlands
+TA  - Travel Med Infect Dis
+JT  - Travel medicine and infectious disease
+JID - 101230758
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Betacoronavirus/pathogenicity
+MH  - China/epidemiology
+MH  - *Coronavirus Infections/epidemiology/transmission
+MH  - Data Analysis
+MH  - *Disease Outbreaks
+MH  - Humans
+MH  - Models, Statistical
+MH  - *Pneumonia, Viral/epidemiology/transmission
+MH  - Transportation/*statistics & numerical data
+MH  - Travel/*statistics & numerical data
+COIS- Declaration of competing interest The authors declared no competing interests.
+EDAT- 2020/02/02 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/02 06:00
+PHST- 2020/01/22 00:00 [received]
+PHST- 2020/01/28 00:00 [accepted]
+PHST- 2020/02/02 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+PHST- 2020/02/02 06:00 [entrez]
+AID - S1477-8939(20)30018-1 [pii]
+AID - 10.1016/j.tmaid.2020.101568 [doi]
+PST - ppublish
+SO  - Travel Med Infect Dis. 2020 Jan - Feb;33:101568. doi:
+      10.1016/j.tmaid.2020.101568. Epub 2020 Jan 30.
+
+PMID- 32174267
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - Era of molecular diagnosis for pathogen identification of unexplained pneumonia, 
+      lessons to be learned.
+PG  - 597-600
+LID - 10.1080/22221751.2020.1738905 [doi]
+AB  - Unexplained pneumonia (UP) caused by a novel coronavirus SARS-CoV-2 (severe acute
+      respiratory syndrome coronavirus 2) emerged in China in late December 2019 and
+      has infected more than 9000 cases by 31 January 2020. Shanghai reported the first
+      imported case of COVID-19 (Coronavirus Disease 2019) in 20 January 2020. A
+      combinative approach of real-time RT-PCR, CRISPR-based assay and metagenomic
+      next-generation sequencing (mNGS) were used to diagnose this unexplained
+      pneumonia patient. Real-time RT-PCR and CRISPR-based assay both reported
+      positive. This sample belonged to Betacoronavirus and shared a more than 99%
+      nucleotide (nt) identity with the Wuhan SARS-CoV-2 isolates. We further compared 
+      pros and cons of common molecular diagnostics in UP. In this study, we
+      illustrated the importance of combining molecular diagnostics to rule out common 
+      pathogens and performed mNGS to obtain unbiased potential pathogen result for the
+      diagnosis of UP.
+FAU - Ai, Jing-Wen
+AU  - Ai JW
+AD  - Department of Infectious Diseases, National Clinical Research Center for Aging
+      and Medicine, Huashan Hospital, State Key Laboratory of Genetic Engineering,
+      School of Life Science, Key Laboratory of Medical Molecular Virology (MOE/MOH)
+      and Institutes of Biomedical Sciences, Shanghai Medical College, Fudan
+      University, Shanghai, People's Republic of China.
+FAU - Zhang, Yi
+AU  - Zhang Y
+AD  - Department of Infectious Diseases, National Clinical Research Center for Aging
+      and Medicine, Huashan Hospital, State Key Laboratory of Genetic Engineering,
+      School of Life Science, Key Laboratory of Medical Molecular Virology (MOE/MOH)
+      and Institutes of Biomedical Sciences, Shanghai Medical College, Fudan
+      University, Shanghai, People's Republic of China.
+FAU - Zhang, Hao-Cheng
+AU  - Zhang HC
+AD  - Department of Infectious Diseases, National Clinical Research Center for Aging
+      and Medicine, Huashan Hospital, State Key Laboratory of Genetic Engineering,
+      School of Life Science, Key Laboratory of Medical Molecular Virology (MOE/MOH)
+      and Institutes of Biomedical Sciences, Shanghai Medical College, Fudan
+      University, Shanghai, People's Republic of China.
+FAU - Xu, Teng
+AU  - Xu T
+AD  - Vision Medicals Co., Ltd, Guangzhou, People's Republic of China.
+FAU - Zhang, Wen-Hong
+AU  - Zhang WH
+AD  - Department of Infectious Diseases, National Clinical Research Center for Aging
+      and Medicine, Huashan Hospital, State Key Laboratory of Genetic Engineering,
+      School of Life Science, Key Laboratory of Medical Molecular Virology (MOE/MOH)
+      and Institutes of Biomedical Sciences, Shanghai Medical College, Fudan
+      University, Shanghai, People's Republic of China.
+LA  - eng
+PT  - Letter
+DEP - 20200316
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Betacoronavirus/genetics/isolation & purification
+MH  - Coronavirus Infections/*diagnosis/epidemiology/transmission
+MH  - Humans
+MH  - Molecular Diagnostic Techniques
+MH  - Phylogeny
+MH  - Pneumonia, Viral/*diagnosis/epidemiology/transmission
+OTO - NOTNLM
+OT  - *COVID-19
+OT  - *SARS-CoV-2
+OT  - *Unexplained pneumonia
+OT  - *diagnosis
+OT  - *molecular
+EDAT- 2020/03/17 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/03/17 06:00
+PHST- 2020/03/17 06:00 [entrez]
+PHST- 2020/03/17 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - 10.1080/22221751.2020.1738905 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Mar 16;9(1):597-600. doi:
+      10.1080/22221751.2020.1738905. eCollection 2020.
+
+PMID- 32065057
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200316
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - Molecular and serological investigation of 2019-nCoV infected patients:
+      implication of multiple shedding routes.
+PG  - 386-389
+LID - 10.1080/22221751.2020.1729071 [doi]
+AB  - In December 2019, a novel coronavirus (2019-nCoV) caused an outbreak in Wuhan,
+      China, and soon spread to other parts of the world. It was believed that
+      2019-nCoV was transmitted through respiratory tract and then induced pneumonia,
+      thus molecular diagnosis based on oral swabs was used for confirmation of this
+      disease. Likewise, patient will be released upon two times of negative detection 
+      from oral swabs. However, many coronaviruses can also be transmitted through
+      oral-fecal route by infecting intestines. Whether 2019-nCoV infected patients
+      also carry virus in other organs like intestine need to be tested. We conducted
+      investigation on patients in a local hospital who were infected with this virus. 
+      We found the presence of 2019-nCoV in anal swabs and blood as well, and more anal
+      swab positives than oral swab positives in a later stage of infection, suggesting
+      shedding and thereby transmitted through oral-fecal route. We also showed
+      serology test can improve detection positive rate thus should be used in future
+      epidemiology. Our report provides a cautionary warning that 2019-nCoV may be shed
+      through multiple routes.
+FAU - Zhang, Wei
+AU  - Zhang W
+AD  - CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People's Republic of 
+      China.
+FAU - Du, Rong-Hui
+AU  - Du RH
+AD  - Wuhan Pulmonary Hospital, Wuhan, People's Republic of China.
+FAU - Li, Bei
+AU  - Li B
+AD  - CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People's Republic of 
+      China.
+FAU - Zheng, Xiao-Shuang
+AU  - Zheng XS
+AD  - CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People's Republic of 
+      China.
+FAU - Yang, Xing-Lou
+AU  - Yang XL
+AD  - CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People's Republic of 
+      China.
+FAU - Hu, Ben
+AU  - Hu B
+AD  - CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People's Republic of 
+      China.
+FAU - Wang, Yan-Yi
+AU  - Wang YY
+AD  - CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People's Republic of 
+      China.
+FAU - Xiao, Geng-Fu
+AU  - Xiao GF
+AD  - CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People's Republic of 
+      China.
+FAU - Yan, Bing
+AU  - Yan B
+AD  - CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People's Republic of 
+      China.
+FAU - Shi, Zheng-Li
+AU  - Shi ZL
+AUID- ORCID: 0000-0001-8089-163X
+AD  - CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People's Republic of 
+      China.
+FAU - Zhou, Peng
+AU  - Zhou P
+AUID- ORCID: 0000-0001-9863-4201
+AD  - CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for 
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People's Republic of 
+      China.
+LA  - eng
+PT  - Journal Article
+DEP - 20200217
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Betacoronavirus/*isolation & purification
+MH  - China
+MH  - Coronavirus Infections/*transmission
+MH  - Feces/*virology
+MH  - Humans
+MH  - Pneumonia, Viral/*transmission
+MH  - *Virus Shedding
+PMC - PMC7048229
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *Wuhan pneumonia
+OT  - *epidemiology
+OT  - *intestine
+OT  - *swabs
+EDAT- 2020/02/18 06:00
+MHDA- 2020/03/17 06:00
+CRDT- 2020/02/18 06:00
+PHST- 2020/02/18 06:00 [entrez]
+PHST- 2020/02/18 06:00 [pubmed]
+PHST- 2020/03/17 06:00 [medline]
+AID - 10.1080/22221751.2020.1729071 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Feb 17;9(1):386-389. doi:
+      10.1080/22221751.2020.1729071. eCollection 2020.
+
+PMID- 32020836
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200316
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - RNA based mNGS approach identifies a novel human coronavirus from two individual 
+      pneumonia cases in 2019 Wuhan outbreak.
+PG  - 313-319
+LID - 10.1080/22221751.2020.1725399 [doi]
+AB  - From December 2019, an outbreak of unusual pneumonia was reported in Wuhan with
+      many cases linked to Huanan Seafood Market that sells seafood as well as live
+      exotic animals. We investigated two patients who developed acute respiratory
+      syndromes after independent contact history with this market. The two patients
+      shared common clinical features including fever, cough, and multiple ground-glass
+      opacities in the bilateral lung field with patchy infiltration. Here, we
+      highlight the use of a low-input metagenomic next-generation sequencing (mNGS)
+      approach on RNA extracted from bronchoalveolar lavage fluid (BALF). It rapidly
+      identified a novel coronavirus (named 2019-nCoV according to World Health
+      Organization announcement) which was the sole pathogens in the sample with very
+      high abundance level (1.5% and 0.62% of total RNA sequenced). The entire viral
+      genome is 29,881 nt in length (GenBank MN988668 and MN988669, Sequence Read
+      Archive database Bioproject accession PRJNA601736) and is classified into
+      beta-coronavirus genus. Phylogenetic analysis indicates that 2019-nCoV is close
+      to coronaviruses (CoVs) circulating in Rhinolophus (Horseshoe bats), such as
+      98.7% nucleotide identity to partial RdRp gene of bat coronavirus strain
+      BtCoV/4991 (GenBank KP876546, 370 nt sequence of RdRp and lack of other genome
+      sequence) and 87.9% nucleotide identity to bat coronavirus strain bat-SL-CoVZC45 
+      and bat-SL-CoVZXC21. Evolutionary analysis based on ORF1a/1b, S, and N genes also
+      suggests 2019-nCoV is more likely a novel CoV independently introduced from
+      animals to humans.
+FAU - Chen, Liangjun
+AU  - Chen L
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+AD  - Department of Laboratory Medicine, Zhongnan Hospital of Wuhan University, Wuhan, 
+      People's Republic of China.
+FAU - Liu, Weiyong
+AU  - Liu W
+AD  - Department of Laboratory Medicine, Tongji Hospital, Tongji Medical College,
+      Huazhong University of Science and Technology, Wuhan, People's Republic of China.
+FAU - Zhang, Qi
+AU  - Zhang Q
+AUID- ORCID: 0000-0003-2868-1816
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+FAU - Xu, Ke
+AU  - Xu K
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+FAU - Ye, Guangming
+AU  - Ye G
+AD  - Department of Laboratory Medicine, Zhongnan Hospital of Wuhan University, Wuhan, 
+      People's Republic of China.
+FAU - Wu, Weichen
+AU  - Wu W
+AD  - School of Medicine, Sun yat-Sen University, Guangzhou, People's Republic of
+      China.
+FAU - Sun, Ziyong
+AU  - Sun Z
+AD  - Department of Laboratory Medicine, Tongji Hospital, Tongji Medical College,
+      Huazhong University of Science and Technology, Wuhan, People's Republic of China.
+FAU - Liu, Fang
+AU  - Liu F
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+FAU - Wu, Kailang
+AU  - Wu K
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+FAU - Zhong, Bo
+AU  - Zhong B
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+FAU - Mei, Yi
+AU  - Mei Y
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+FAU - Zhang, Wenxia
+AU  - Zhang W
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+FAU - Chen, Yu
+AU  - Chen Y
+AUID- ORCID: 0000-0003-1300-4652
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+FAU - Li, Yirong
+AU  - Li Y
+AD  - Department of Laboratory Medicine, Zhongnan Hospital of Wuhan University, Wuhan, 
+      People's Republic of China.
+FAU - Shi, Mang
+AU  - Shi M
+AD  - School of Medicine, Sun yat-Sen University, Guangzhou, People's Republic of
+      China.
+FAU - Lan, Ke
+AU  - Lan K
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+FAU - Liu, Yingle
+AU  - Liu Y
+AD  - State Key Laboratory of Virology, Modern Virology Research Center, College of
+      Life Sciences, Wuhan University, Wuhan, People's Republic of China.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20200205
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - 0 (RNA, Viral)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Adult
+MH  - Betacoronavirus/*genetics
+MH  - China
+MH  - Coronavirus Infections/*epidemiology
+MH  - *Disease Outbreaks
+MH  - Female
+MH  - Genome, Viral
+MH  - Humans
+MH  - Male
+MH  - Phylogeny
+MH  - Pneumonia, Viral/*epidemiology
+MH  - RNA, Viral/genetics
+MH  - Young Adult
+PMC - PMC7033720
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *Wuhan pneumonia
+OT  - *metagenomic next-generation sequencing
+OT  - *phylogenetic analyses
+OT  - *virus evolution
+EDAT- 2020/02/06 06:00
+MHDA- 2020/03/17 06:00
+CRDT- 2020/02/06 06:00
+PHST- 2020/02/06 06:00 [entrez]
+PHST- 2020/02/06 06:00 [pubmed]
+PHST- 2020/03/17 06:00 [medline]
+AID - 10.1080/22221751.2020.1725399 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Feb 5;9(1):313-319. doi:
+      10.1080/22221751.2020.1725399. eCollection 2020.
+
+PMID- 32160942
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200316
+LR  - 20200325
+IS  - 1749-9216 (Print)
+IS  - 1749-9216 (Linking)
+VI  - 13
+IP  - 4
+DP  - 2020 Jan 1
+TI  - Novel coronavirus disease (COVID-19) outbreak: Now is the time to refresh
+      pandemic plans.
+PG  - 1-15
+AB  - This article outlines practical steps that businesses can take now to prepare for
+      a pandemic. Given the current growing spread of coronavirus disease 2019
+      (COVID-19) around the world, it is imperative that businesses review their
+      pandemic plans and be prepared in case this epidemic expands and affects more
+      people and communities. Preparing for a potential infectious disease pandemic
+      from influenza or a novel corona virus is an essential component of a business
+      continuity plan, especially for businesses that provide critical healthcare and
+      infrastructure services. Although many businesses and organisations have a
+      pandemic plan or address pandemic preparedness in their business continuity
+      plans, few have recently tested and updated their plans. Pandemics can not only
+      interrupt an organisation's operations and compromise long-term viability of an
+      enterprise, but also disrupt the provision of critical functions. Businesses that
+      regularly test and update their pandemic plan can significantly reduce harmful
+      impacts to the business, play a key role in protecting employees' and customers' 
+      health and safety, and limit the negative impact of a pandemic on the community
+      and economy.
+FAU - Koonin, Lisa M
+AU  - Koonin LM
+AD  - Health Preparedness Partners.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Bus Contin Emer Plan
+JT  - Journal of business continuity & emergency planning
+JID - 101509784
+RN  - COVID-19
+SB  - IM
+MH  - *Commerce/organization & administration
+MH  - *Coronavirus
+MH  - *Coronavirus Infections/epidemiology/prevention & control
+MH  - Delivery of Health Care
+MH  - *Disaster Planning
+MH  - Disease Outbreaks
+MH  - Humans
+MH  - Influenza, Human
+MH  - Pandemics
+MH  - *Pneumonia, Viral/epidemiology/prevention & control
+EDAT- 2020/03/13 06:00
+MHDA- 2020/03/17 06:00
+CRDT- 2020/03/13 06:00
+PHST- 2020/03/13 06:00 [entrez]
+PHST- 2020/03/13 06:00 [pubmed]
+PHST- 2020/03/17 06:00 [medline]
+PST - ppublish
+SO  - J Bus Contin Emer Plan. 2020 Jan 1;13(4):1-15.
+
+PMID- 32151613
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200319
+LR  - 20200325
+IS  - 2531-0437 (Electronic)
+IS  - 2531-0429 (Linking)
+VI  - 26
+IP  - 2
+DP  - 2020 Mar - Apr
+TI  - And now for something completely different: from 2019-nCoV and COVID-19 to
+      2020-nMan.
+PG  - 114-115
+LID - S2531-0437(20)30039-8 [pii]
+LID - 10.1016/j.pulmoe.2020.02.010 [doi]
+FAU - Froes, F
+AU  - Froes F
+AD  - ICU, Thorax Department, Lisboa, Portugal. Electronic address:
+      filipe.froes@gmail.com.
+LA  - eng
+PT  - Editorial
+DEP - 20200306
+PL  - Spain
+TA  - Pulmonology
+JT  - Pulmonology
+JID - 101723786
+RN  - 0 (Vaccines)
+RN  - COVID-19
+SB  - IM
+MH  - *Communicable Diseases, Emerging
+MH  - Coronavirus Infections/diagnosis/*epidemiology
+MH  - *Disease Outbreaks
+MH  - *Global Health
+MH  - History
+MH  - Humans
+MH  - Pneumonia, Viral/diagnosis/*epidemiology
+MH  - Social Conditions
+MH  - Vaccines
+EDAT- 2020/03/11 06:00
+MHDA- 2020/03/20 06:00
+CRDT- 2020/03/11 06:00
+PHST- 2020/03/11 06:00 [pubmed]
+PHST- 2020/03/20 06:00 [medline]
+PHST- 2020/03/11 06:00 [entrez]
+AID - S2531-0437(20)30039-8 [pii]
+AID - 10.1016/j.pulmoe.2020.02.010 [doi]
+PST - ppublish
+SO  - Pulmonology. 2020 Mar - Apr;26(2):114-115. doi: 10.1016/j.pulmoe.2020.02.010.
+      Epub 2020 Mar 6.
+
+PMID- 32117569
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20200325
+IS  - 2046-1402 (Electronic)
+IS  - 2046-1402 (Linking)
+VI  - 9
+DP  - 2020
+TI  - Therapeutic strategies in an outbreak scenario to treat the novel coronavirus
+      originating in Wuhan, China.
+PG  - 72
+LID - 10.12688/f1000research.22211.2 [doi]
+AB  - A novel coronavirus (2019-nCoV) originating in Wuhan, China presents a potential 
+      respiratory viral pandemic to the world population. Current efforts are focused
+      on containment and quarantine of infected individuals. Ultimately, the outbreak
+      could be controlled with a protective vaccine to prevent 2019-nCoV infection.
+      While vaccine research should be pursued intensely, there exists today no therapy
+      to treat 2019-nCoV upon infection, despite an urgent need to find options to help
+      these patients and preclude potential death. Herein, I review the potential
+      options to treat 2019-nCoV in patients, with an emphasis on the necessity for
+      speed and timeliness in developing new and effective therapies in this outbreak. 
+      I consider the options of drug repurposing, developing neutralizing monoclonal
+      antibody therapy, and an oligonucleotide strategy targeting the viral RNA genome,
+      emphasizing the promise and pitfalls of these approaches. Finally, I advocate for
+      the fastest strategy to develop a treatment now, which could be resistant to any 
+      mutations the virus may have in the future. The proposal is a biologic that
+      blocks 2019-nCoV entry using a soluble version of the viral receptor,
+      angiotensin-converting enzyme 2 (ACE2), fused to an immunoglobulin Fc domain,
+      providing a neutralizing antibody with maximal breath to avoid any viral escape, 
+      while also helping to recruit the immune system to build lasting immunity. The
+      sequence of the ACE2-Fc protein is provided to investigators, allowing its
+      possible use in recombinant protein expression systems to start producing drug
+      today to treat patients under compassionate use, while formal clinical trials are
+      later undertaken. Such a treatment could help infected patients before a
+      protective vaccine is developed and widely available in the coming months to
+      year(s).
+CI  - Copyright: (c) 2020 Kruse RL.
+FAU - Kruse, Robert L
+AU  - Kruse RL
+AUID- ORCID: 0000-0002-8669-6242
+AD  - Department of Pathology, Johns Hopkins Hospital, Baltimore, Maryland, 21287, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200131
+PL  - England
+TA  - F1000Res
+JT  - F1000Research
+JID - 101594320
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Antibodies, Neutralizing)
+RN  - 0 (Oligonucleotides)
+RN  - EC 3.4.15.1 (Peptidyl-Dipeptidase A)
+RN  - EC 3.4.17.- (angiotensin converting enzyme 2)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - *Antibodies, Monoclonal/therapeutic use
+MH  - Antibodies, Neutralizing/*therapeutic use
+MH  - *Betacoronavirus/drug effects
+MH  - China/epidemiology
+MH  - Compassionate Use Trials
+MH  - Coronavirus Infections/*drug therapy
+MH  - Disease Outbreaks
+MH  - *Drug Repositioning
+MH  - Humans
+MH  - Oligonucleotides/therapeutic use
+MH  - Peptidyl-Dipeptidase A/*drug effects
+MH  - Pneumonia, Viral/*drug therapy
+PMC - PMC7029759
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *ACE2
+OT  - *Wuhan
+OT  - *coronavirus
+OT  - *neutralizing antibody
+OT  - *outbreak
+COIS- No competing interests were disclosed.
+EDAT- 2020/03/03 06:00
+MHDA- 2020/03/21 06:00
+CRDT- 2020/03/03 06:00
+PHST- 2020/01/29 00:00 [accepted]
+PHST- 2020/03/03 06:00 [entrez]
+PHST- 2020/03/03 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+AID - 10.12688/f1000research.22211.2 [doi]
+PST - epublish
+SO  - F1000Res. 2020 Jan 31;9:72. doi: 10.12688/f1000research.22211.2. eCollection
+      2020.
+
+PMID- 32158961
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200313
+IS  - 2397-0642 (Electronic)
+IS  - 2397-0642 (Linking)
+VI  - 5
+DP  - 2020
+TI  - First two months of the 2019 Coronavirus Disease (COVID-19) epidemic in China:
+      real-time surveillance and evaluation with a second derivative model.
+PG  - 7
+LID - 10.1186/s41256-020-00137-4 [doi]
+AB  - Background: Similar to outbreaks of many other infectious diseases, success in
+      controlling the novel 2019 coronavirus infection requires a timely and accurate
+      monitoring of the epidemic, particularly during its early period with rather
+      limited data while the need for information increases explosively. Methods: In
+      this study, we used a second derivative model to characterize the coronavirus
+      epidemic in China with cumulatively diagnosed cases during the first 2 months.
+      The analysis was further enhanced by an exponential model with a close-population
+      assumption. This model was built with the data and used to assess the detection
+      rate during the study period, considering the differences between the true
+      infections, detectable and detected cases. Results: Results from the second
+      derivative modeling suggest the coronavirus epidemic as nonlinear and chaotic in 
+      nature. Although it emerged gradually, the epidemic was highly responsive to
+      massive interventions initiated on January 21, 2020, as indicated by results from
+      both second derivative and exponential modeling analyses. The epidemic started to
+      decelerate immediately after the massive actions. The results derived from our
+      analysis signaled the decline of the epidemic 14 days before it eventually
+      occurred on February 4, 2020. Study findings further signaled an accelerated
+      decline in the epidemic starting in 14 days on February 18, 2020. Conclusions:
+      The coronavirus epidemic appeared to be nonlinear and chaotic, and was responsive
+      to effective interventions. The methods used in this study can be applied in
+      surveillance to inform and encourage the general public, public health
+      professionals, clinicians and decision-makers to take coordinative and
+      collaborative efforts to control the epidemic.
+CI  - (c) The Author(s) 2020.
+FAU - Chen, Xinguang
+AU  - Chen X
+AD  - 1Department of Epidemiology, University of Florida, 2004 Mowry Road, Gainesville,
+      FL USA.grid.15276.370000 0004 1936 8091
+AD  - 2Global Health Institute, Wuhan University, Wuhan, Hubei Provinces
+      China.grid.49470.3e0000 0001 2331 6153
+FAU - Yu, Bin
+AU  - Yu B
+AD  - 1Department of Epidemiology, University of Florida, 2004 Mowry Road, Gainesville,
+      FL USA.grid.15276.370000 0004 1936 8091
+LA  - eng
+PT  - Journal Article
+DEP - 20200302
+PL  - England
+TA  - Glob Health Res Policy
+JT  - Global health research and policy
+JID - 101705789
+PMC - PMC7050133
+OTO - NOTNLM
+OT  - 2019-nCoV, outbreak
+OT  - COVID-19
+OT  - Dynamic modeling
+OT  - Infectious disease epidemic
+OT  - Second derivative
+COIS- Competing interestsThe authors declare that they have no competing interests.
+EDAT- 2020/03/12 06:00
+MHDA- 2020/03/12 06:01
+CRDT- 2020/03/12 06:00
+PHST- 2020/02/13 00:00 [received]
+PHST- 2020/02/20 00:00 [accepted]
+PHST- 2020/03/12 06:00 [entrez]
+PHST- 2020/03/12 06:00 [pubmed]
+PHST- 2020/03/12 06:01 [medline]
+AID - 10.1186/s41256-020-00137-4 [doi]
+AID - 137 [pii]
+PST - epublish
+SO  - Glob Health Res Policy. 2020 Mar 2;5:7. doi: 10.1186/s41256-020-00137-4.
+      eCollection 2020.
+
+PMID- 31992390
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200219
+LR  - 20200219
+IS  - 1560-7917 (Electronic)
+IS  - 1025-496X (Linking)
+VI  - 25
+IP  - 3
+DP  - 2020 Jan
+TI  - Note from the editors: novel coronavirus (2019-nCoV).
+LID - 10.2807/1560-7917.ES.2020.25.3.2001231 [doi]
+FAU - Eurosurveillance Editorial Team
+AU  - Eurosurveillance Editorial Team
+AD  - European Centre for Disease Prevention and Control (ECDC), Stockholm, Sweden.
+LA  - eng
+PT  - Journal Article
+PL  - Sweden
+TA  - Euro Surveill
+JT  - Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 
+      communicable disease bulletin
+JID - 100887452
+SB  - IM
+MH  - China/epidemiology
+MH  - *Communicable Diseases, Emerging
+MH  - Coronavirus/*classification
+MH  - Coronavirus Infections/diagnosis/epidemiology/transmission/*virology
+MH  - *Disease Outbreaks
+MH  - Humans
+PMC - PMC6988271
+OTO - NOTNLM
+OT  - coronavirus
+OT  - public health event
+EDAT- 2020/01/30 06:00
+MHDA- 2020/02/20 06:00
+CRDT- 2020/01/30 06:00
+PHST- 2020/01/30 06:00 [entrez]
+PHST- 2020/01/30 06:00 [pubmed]
+PHST- 2020/02/20 06:00 [medline]
+AID - 10.2807/1560-7917.ES.2020.25.3.2001231 [doi]
+PST - ppublish
+SO  - Euro Surveill. 2020 Jan;25(3). doi: 10.2807/1560-7917.ES.2020.25.3.2001231.
+
+PMID- 32187288
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200323
+LR  - 20200325
+IS  - 1678-4464 (Electronic)
+IS  - 0102-311X (Linking)
+VI  - 36
+IP  - 3
+DP  - 2020
+TI  - The novel coronavirus (SARS-CoV-2) emergency and the role of timely and effective
+      national health surveillance.
+PG  - e00019620
+LID - S0102-311X2020000300301 [pii]
+LID - 10.1590/0102-311x00019620 [doi]
+FAU - Lana, Raquel Martins
+AU  - Lana RM
+AD  - Programa de Computacao Cientifica, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil.
+FAU - Coelho, Flavio Codeco
+AU  - Coelho FC
+AD  - Escola de Matematica Aplicada, Fundacao Getulio Vargas, Rio de Janeiro, Brazil.
+FAU - Gomes, Marcelo Ferreira da Costa
+AU  - Gomes MFDC
+AD  - Programa de Computacao Cientifica, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil.
+FAU - Cruz, Oswaldo Goncalves
+AU  - Cruz OG
+AD  - Programa de Computacao Cientifica, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil.
+FAU - Bastos, Leonardo Soares
+AU  - Bastos LS
+AD  - Programa de Computacao Cientifica, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil.
+FAU - Villela, Daniel Antunes Maciel
+AU  - Villela DAM
+AD  - Programa de Computacao Cientifica, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil.
+FAU - Codeco, Claudia Torres
+AU  - Codeco CT
+AD  - Programa de Computacao Cientifica, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil.
+LA  - eng
+LA  - por
+PT  - Journal Article
+TT  - Emergencia do novo coronavirus (SARS-CoV-2) e o papel de uma vigilancia nacional 
+      em saude oportuna e efetiva.
+DEP - 20200313
+PL  - Brazil
+TA  - Cad Saude Publica
+JT  - Cadernos de saude publica
+JID - 8901573
+RN  - COVID-19
+SB  - IM
+MH  - Brazil
+MH  - *Coronavirus Infections/diagnosis/epidemiology/therapy/transmission/virology
+MH  - *Disease Outbreaks
+MH  - Humans
+MH  - *Pneumonia, Viral/diagnosis/epidemiology/therapy/transmission
+MH  - *Public Health Surveillance
+EDAT- 2020/03/19 06:00
+MHDA- 2020/03/24 06:00
+CRDT- 2020/03/19 06:00
+PHST- 2020/02/04 00:00 [received]
+PHST- 2020/02/13 00:00 [accepted]
+PHST- 2020/03/19 06:00 [entrez]
+PHST- 2020/03/19 06:00 [pubmed]
+PHST- 2020/03/24 06:00 [medline]
+AID - S0102-311X2020000300301 [pii]
+AID - 10.1590/0102-311x00019620 [doi]
+PST - ppublish
+SO  - Cad Saude Publica. 2020;36(3):e00019620. doi: 10.1590/0102-311x00019620. Epub
+      2020 Mar 13.
+
+PMID- 32023775
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200213
+LR  - 20200325
+IS  - 2092-7193 (Electronic)
+IS  - 2092-7193 (Linking)
+VI  - 42
+DP  - 2020
+TI  - An interim review of the epidemiological characteristics of 2019 novel
+      coronavirus.
+PG  - e2020006
+LID - 10.4178/epih.e2020006 [doi]
+AB  - OBJECTIVES: The 2019 novel coronavirus (2019-nCoV) from Wuhan, China is currently
+      recognized as a public health emergency of global concern. METHODS: We reviewed
+      the currently available literature to provide up-to-date guidance on control
+      measures to be implemented by public health authorities. RESULTS: Some of the
+      epidemiological characteristics of 2019-nCoV have been identified. However, there
+      remain considerable uncertainties, which should be considered when providing
+      guidance to public health authorities on control measures. CONCLUSIONS:
+      Additional studies incorporating more detailed information from confirmed cases
+      would be valuable.
+FAU - Ryu, Sukhyun
+AU  - Ryu S
+AD  - Department of Preventive Medicine, Konyang University College of Medicine,
+      Daejeon, Korea.
+FAU - Chun, Byung Chul
+AU  - Chun BC
+AD  - Department of Preventive Medicine, Korea University College of Medicine, Seoul,
+      Korea.
+CN  - Korean Society of Epidemiology 2019-nCoV Task Force Team
+AD  - Department of Preventive Medicine, Konyang University College of Medicine,
+      Daejeon, Korea.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200206
+PL  - Korea (South)
+TA  - Epidemiol Health
+JT  - Epidemiology and health
+JID - 101519472
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Betacoronavirus/*isolation & purification
+MH  - China/epidemiology
+MH  - Coronavirus Infections/*epidemiology/prevention & control/*virology
+MH  - Emergencies
+MH  - Global Health
+MH  - Humans
+MH  - Public Health
+PMC - PMC7011107
+OTO - NOTNLM
+OT  - Characteristics
+OT  - Coronavirus
+OT  - Epidemiology
+OT  - Public health
+EDAT- 2020/02/07 06:00
+MHDA- 2020/02/14 06:00
+CRDT- 2020/02/07 06:00
+PHST- 2020/02/03 00:00 [received]
+PHST- 2020/02/06 00:00 [accepted]
+PHST- 2020/02/07 06:00 [pubmed]
+PHST- 2020/02/14 06:00 [medline]
+PHST- 2020/02/07 06:00 [entrez]
+AID - epih.e2020006 [pii]
+AID - 10.4178/epih.e2020006 [doi]
+PST - ppublish
+SO  - Epidemiol Health. 2020;42:e2020006. doi: 10.4178/epih.e2020006. Epub 2020 Feb 6.
+
+PMID- 32044387
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1873-0442 (Electronic)
+IS  - 1477-8939 (Linking)
+VI  - 33
+DP  - 2020 Jan - Feb
+TI  - Maps, masks and media - Traveller and practitioner resources for 2019 novel
+      coronavirus (2019-nCoV) acute respiratory virus.
+PG  - 101574
+LID - S1477-8939(20)30024-7 [pii]
+LID - 10.1016/j.tmaid.2020.101574 [doi]
+FAU - Chiodini, Jane
+AU  - Chiodini J
+AD  - Amersham Vale Practice, London, UK. Electronic address: jane.chiodini@nhs.net.
+LA  - eng
+PT  - Journal Article
+DEP - 20200207
+PL  - Netherlands
+TA  - Travel Med Infect Dis
+JT  - Travel medicine and infectious disease
+JID - 101230758
+RN  - COVID-19
+SB  - IM
+MH  - Access to Information
+MH  - Centers for Disease Control and Prevention, U.S.
+MH  - *Consumer Health Information
+MH  - *Coronavirus Infections/epidemiology/prevention & control/transmission
+MH  - Humans
+MH  - Masks
+MH  - *Patient Education as Topic
+MH  - *Pneumonia, Viral/epidemiology/prevention & control/transmission
+MH  - Travel
+MH  - *Travel Medicine
+MH  - United States
+MH  - *World Health Organization
+EDAT- 2020/02/12 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/12 06:00
+PHST- 2020/02/04 00:00 [received]
+PHST- 2020/02/04 00:00 [accepted]
+PHST- 2020/02/12 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+PHST- 2020/02/12 06:00 [entrez]
+AID - S1477-8939(20)30024-7 [pii]
+AID - 10.1016/j.tmaid.2020.101574 [doi]
+PST - ppublish
+SO  - Travel Med Infect Dis. 2020 Jan - Feb;33:101574. doi:
+      10.1016/j.tmaid.2020.101574. Epub 2020 Feb 7.
+
+PMID- 32148172
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - Timely development of vaccines against SARS-CoV-2.
+PG  - 542-544
+LID - 10.1080/22221751.2020.1737580 [doi]
+FAU - Lu, Shan
+AU  - Lu S
+AD  - Laboratory of Nucleic Acid Vaccines, Department of Medicine, University of
+      Massachusetts Medical School, Worcester, MA, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20200308
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - 0 (Viral Vaccines)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Animals
+MH  - Betacoronavirus/*immunology
+MH  - Coronavirus Infections/epidemiology/immunology/*prevention & control
+MH  - Disease Outbreaks
+MH  - Drug Design
+MH  - Humans
+MH  - Pneumonia, Viral/epidemiology/immunology/*prevention & control
+MH  - Viral Vaccines/*immunology
+EDAT- 2020/03/10 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/03/10 06:00
+PHST- 2020/03/10 06:00 [entrez]
+PHST- 2020/03/10 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - 10.1080/22221751.2020.1737580 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Mar 8;9(1):542-544. doi:
+      10.1080/22221751.2020.1737580. eCollection 2020.
+
+PMID- 32044389
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1873-0442 (Electronic)
+IS  - 1477-8939 (Linking)
+VI  - 33
+DP  - 2020 Jan - Feb
+TI  - Going global - Travel and the 2019 novel coronavirus.
+PG  - 101578
+LID - S1477-8939(20)30028-4 [pii]
+LID - 10.1016/j.tmaid.2020.101578 [doi]
+FAU - Rodriguez-Morales, Alfonso J
+AU  - Rodriguez-Morales AJ
+AD  - Public Health and Infection Research Group, Faculty of Health Sciences,
+      Universidad Tecnologica de Pereira, Pereira, Risaralda, Colombia; Grupo de
+      Investigacion Biomedicina, Faculty of Medicine, Fundacion Universitaria Autonoma 
+      de las Americas, Pereira, Risaralda, 660004, Colombia. Electronic address:
+      arodriguezm@utp.edu.co.
+FAU - MacGregor, Kirsten
+AU  - MacGregor K
+AD  - National Travel Health Network and Centre (NaTHNaC), UCLH NHS Foundation Trust,
+      London, NW1 2PG, United Kingdom.
+FAU - Kanagarajah, Sanch
+AU  - Kanagarajah S
+AD  - National Travel Health Network and Centre (NaTHNaC), UCLH NHS Foundation Trust,
+      London, NW1 2PG, United Kingdom.
+FAU - Patel, Dipti
+AU  - Patel D
+AD  - National Travel Health Network and Centre (NaTHNaC), UCLH NHS Foundation Trust,
+      London, NW1 2PG, United Kingdom.
+FAU - Schlagenhauf, Patricia
+AU  - Schlagenhauf P
+AD  - University of Zurich Centre for Travel Medicine, WHO Collaborating Centre for
+      Travellers' Health, Institute for Epidemiology, Biostatistics and Prevention,
+      Hirschengraben 84, 8001, Zurich, Switzerland.
+LA  - eng
+PT  - Editorial
+DEP - 20200208
+PL  - Netherlands
+TA  - Travel Med Infect Dis
+JT  - Travel medicine and infectious disease
+JID - 101230758
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Betacoronavirus/*pathogenicity
+MH  - Communication
+MH  - *Coronavirus Infections/epidemiology/prevention & control/transmission
+MH  - *Disease Outbreaks
+MH  - Europe/epidemiology
+MH  - Global Health
+MH  - Guidelines as Topic
+MH  - Humans
+MH  - *Infection Control
+MH  - Latin America/epidemiology
+MH  - *Pneumonia, Viral/epidemiology/prevention & control/transmission
+MH  - *Travel
+MH  - *Travel Medicine
+MH  - United Kingdom/epidemiology
+MH  - United States/epidemiology
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *Coronaviruses
+OT  - *Epidemic
+OT  - *Travelers
+COIS- Declaration of competing interest None.
+EDAT- 2020/02/12 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/12 06:00
+PHST- 2020/02/06 00:00 [received]
+PHST- 2020/02/07 00:00 [accepted]
+PHST- 2020/02/12 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+PHST- 2020/02/12 06:00 [entrez]
+AID - S1477-8939(20)30028-4 [pii]
+AID - 10.1016/j.tmaid.2020.101578 [doi]
+PST - ppublish
+SO  - Travel Med Infect Dis. 2020 Jan - Feb;33:101578. doi:
+      10.1016/j.tmaid.2020.101578. Epub 2020 Feb 8.
+
+PMID- 32056509
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200319
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - HIV-1 did not contribute to the 2019-nCoV genome.
+PG  - 378-381
+LID - 10.1080/22221751.2020.1727299 [doi]
+FAU - Xiao, Chuan
+AU  - Xiao C
+AD  - Department of Chemistry and Biochemistry, The University of Texas at El Paso, El 
+      Paso, TX, USA.
+FAU - Li, Xiaojun
+AU  - Li X
+AUID- ORCID: 0000-0002-5780-0880
+AD  - Department of Medicine, Duke University Medical Center, Durham, NC, USA.
+FAU - Liu, Shuying
+AU  - Liu S
+AD  - NA BioTech Corp, M2D2 Incubator, University of Massachusetts Medical School,
+      Worcester, MA, USA.
+FAU - Sang, Yongming
+AU  - Sang Y
+AD  - Department of Agricultural and Environmental Sciences, Tennessee State
+      University, Nashville, TN, USA.
+FAU - Gao, Shou-Jiang
+AU  - Gao SJ
+AD  - UPMC Hillman Cancer Center, Department of Microbiology and Molecular Genetics,
+      University of Pittsburgh, Pittsburgh, PA, USA.
+FAU - Gao, Feng
+AU  - Gao F
+AUID- ORCID: 0000-0001-8903-0203
+AD  - Department of Medicine, Duke University Medical Center, Durham, NC, USA.
+AD  - National Engineering Laboratory for AIDS Vaccine, School of Life Sciences, Jilin 
+      University, Changchun, People's Republic of China.
+LA  - eng
+PT  - Journal Article
+DEP - 20200214
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Animals
+MH  - Betacoronavirus/*genetics
+MH  - *Coronavirus Infections/epidemiology
+MH  - Databases, Genetic
+MH  - *Genome, Viral
+MH  - HIV-1/*genetics
+MH  - Humans
+MH  - Phylogeny
+MH  - *Pneumonia, Viral/epidemiology
+PMC - PMC7033698
+EDAT- 2020/02/15 06:00
+MHDA- 2020/03/20 06:00
+CRDT- 2020/02/15 06:00
+PHST- 2020/02/15 06:00 [entrez]
+PHST- 2020/02/15 06:00 [pubmed]
+PHST- 2020/03/20 06:00 [medline]
+AID - 10.1080/22221751.2020.1727299 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Feb 14;9(1):378-381. doi:
+      10.1080/22221751.2020.1727299. eCollection 2020.
+
+PMID- 32148173
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - Is SARS-CoV-2 originated from laboratory? A rebuttal to the claim of formation
+      via laboratory recombination.
+PG  - 545-547
+LID - 10.1080/22221751.2020.1738279 [doi]
+FAU - Hao, Pei
+AU  - Hao P
+AD  - Key Laboratory of Molecular Virology and Immunology, Institute Pasteur of
+      Shanghai, Center for Biosafety Mega-Science, Chinese Academy of Sciences,
+      Shanghai, People's Republic of China.
+FAU - Zhong, Wu
+AU  - Zhong W
+AD  - National Engineering Research Center For the Emergence Drugs, Beijing Institute
+      of Pharmacology and Toxicology, Beijing, People's Republic of China.
+FAU - Song, Shiyang
+AU  - Song S
+AD  - Key Laboratory of Molecular Virology and Immunology, Institute Pasteur of
+      Shanghai, Center for Biosafety Mega-Science, Chinese Academy of Sciences,
+      Shanghai, People's Republic of China.
+FAU - Fan, Shiyong
+AU  - Fan S
+AUID- ORCID: 0000-0003-4216-8226
+AD  - National Engineering Research Center For the Emergence Drugs, Beijing Institute
+      of Pharmacology and Toxicology, Beijing, People's Republic of China.
+FAU - Li, Xuan
+AU  - Li X
+AD  - Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant
+      Sciences, Chinese Academy of Sciences, Shanghai, People's Republic of China.
+LA  - eng
+PT  - Journal Article
+DEP - 20200308
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Base Sequence
+MH  - Betacoronavirus/*genetics/isolation & purification
+MH  - Coronavirus Infections/epidemiology
+MH  - Disease Outbreaks
+MH  - Genetic Engineering
+MH  - Humans
+MH  - Pneumonia, Viral/epidemiology
+MH  - Recombination, Genetic
+EDAT- 2020/03/10 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/03/10 06:00
+PHST- 2020/03/10 06:00 [entrez]
+PHST- 2020/03/10 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - 10.1080/22221751.2020.1738279 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Mar 8;9(1):545-547. doi:
+      10.1080/22221751.2020.1738279. eCollection 2020.
+
+PMID- 32102621
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - No credible evidence supporting claims of the laboratory engineering of
+      SARS-CoV-2.
+PG  - 505-507
+LID - 10.1080/22221751.2020.1733440 [doi]
+FAU - Liu, Shan-Lu
+AU  - Liu SL
+AD  - Center for Retrovirus Research, The Ohio State University, Columbus, OH, USA.
+AD  - Department of Veterinary Biosciences, The Ohio State University, Columbus, OH,
+      USA.
+AD  - Department of Microbial Infection and Immunity, The Ohio State University,
+      Columbus, OH, USA.
+AD  - Viruses and Emerging Pathogens Program, Infectious Diseases Institute, The Ohio
+      State University, Columbus, OH, USA.
+FAU - Saif, Linda J
+AU  - Saif LJ
+AD  - Viruses and Emerging Pathogens Program, Infectious Diseases Institute, The Ohio
+      State University, Columbus, OH, USA.
+AD  - Food Animal Health Research Program, Ohio Agricultural Research and Development
+      Center, CFAES, Department of Veterinary Preventive Medicine, The Ohio State
+      University, Wooster, OH, USA.
+FAU - Weiss, Susan R
+AU  - Weiss SR
+AUID- ORCID: 0000-0002-8155-4528
+AD  - Department of Microbiology, Perelman School of Medicine, University of
+      Pennsylvania, Philadelphia, PA, USA.
+FAU - Su, Lishan
+AU  - Su L
+AD  - Lineberger Comprehensive Cancer Center, Department of Microbiology and
+      Immunology, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20200226
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Animals
+MH  - Betacoronavirus/*genetics
+MH  - *Coronavirus Infections/epidemiology
+MH  - Genetic Engineering
+MH  - Humans
+MH  - *Pneumonia, Viral/epidemiology
+PMC - PMC7054935
+EDAT- 2020/02/28 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/02/28 06:00
+PHST- 2020/02/28 06:00 [entrez]
+PHST- 2020/02/28 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - 10.1080/22221751.2020.1733440 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Feb 26;9(1):505-507. doi:
+      10.1080/22221751.2020.1733440. eCollection 2020.
+
+PMID- 32065221
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200316
+LR  - 20200325
+IS  - 2049-632X (Electronic)
+IS  - 2049-632X (Linking)
+VI  - 77
+IP  - 9
+DP  - 2019 Dec 1
+TI  - Coronaviruses: a paradigm of new emerging zoonotic diseases.
+LID - ftaa006 [pii]
+LID - 10.1093/femspd/ftaa006 [doi]
+AB  - A novel type of coronavirus (2019-nCoV) infecting humans appeared in Wuhan,
+      China, at the end of December 2019. Since the identification of the outbreak the 
+      infection quickly spread involving in one month more than 31,000 confirmed cases 
+      with 638 death. Molecular analysis suggest that 2019-nCoV could be originated
+      from bats after passaging in intermediate hosts, highlighting the high zoonotic
+      potential of coronaviruses.
+CI  - (c) FEMS 2020.
+FAU - Salata, Cristiano
+AU  - Salata C
+AD  - Department of Molecular Medicine, University of Padova, Via Gabelli 63, 35121,
+      Padova, Italy.
+FAU - Calistri, Arianna
+AU  - Calistri A
+AD  - Department of Molecular Medicine, University of Padova, Via Gabelli 63, 35121,
+      Padova, Italy.
+FAU - Parolin, Cristina
+AU  - Parolin C
+AD  - Department of Molecular Medicine, University of Padova, Via Gabelli 63, 35121,
+      Padova, Italy.
+FAU - Palu, Giorgio
+AU  - Palu G
+AD  - Department of Molecular Medicine, University of Padova, Via Gabelli 63, 35121,
+      Padova, Italy.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Pathog Dis
+JT  - Pathogens and disease
+JID - 101595366
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Animals
+MH  - *Betacoronavirus/genetics
+MH  - China
+MH  - Chiroptera
+MH  - *Coronavirus Infections/epidemiology/mortality/virology
+MH  - Evolution, Molecular
+MH  - Humans
+MH  - Pandemics
+MH  - *Pneumonia, Viral/epidemiology/mortality/virology
+MH  - *Zoonoses
+OTO - NOTNLM
+OT  - *2019-nCoV
+OT  - *MERS
+OT  - *SARS
+OT  - *coronavirus
+OT  - *zoonosis
+EDAT- 2020/02/18 06:00
+MHDA- 2020/03/17 06:00
+CRDT- 2020/02/18 06:00
+PHST- 2020/02/07 00:00 [received]
+PHST- 2020/02/13 00:00 [accepted]
+PHST- 2020/02/18 06:00 [pubmed]
+PHST- 2020/03/17 06:00 [medline]
+PHST- 2020/02/18 06:00 [entrez]
+AID - 5739327 [pii]
+AID - 10.1093/femspd/ftaa006 [doi]
+PST - ppublish
+SO  - Pathog Dis. 2019 Dec 1;77(9). pii: 5739327. doi: 10.1093/femspd/ftaa006.
+
+PMID- 32035269
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1873-0442 (Electronic)
+IS  - 1477-8939 (Linking)
+VI  - 33
+DP  - 2020 Jan - Feb
+TI  - What goes on board aircraft? Passengers include Aedes, Anopheles, 2019-nCoV,
+      dengue, Salmonella, Zika, et al.
+PG  - 101572
+LID - S1477-8939(20)30022-3 [pii]
+LID - 10.1016/j.tmaid.2020.101572 [doi]
+FAU - Wilson, Mary E
+AU  - Wilson ME
+AD  - Clinical Professor of Epidemiology and Biostatistics, School of Medicine,
+      University of California, San Francisco, USA; Adjunct Professor of Global Health 
+      and Population, Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+      Electronic address: mewilson@hsph.harvard.edu.
+LA  - eng
+PT  - Editorial
+DEP - 20200205
+PL  - Netherlands
+TA  - Travel Med Infect Dis
+JT  - Travel medicine and infectious disease
+JID - 101230758
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Aedes
+MH  - *Aircraft
+MH  - Animals
+MH  - Anopheles
+MH  - Betacoronavirus/isolation & purification/pathogenicity
+MH  - *Coronavirus Infections/transmission
+MH  - Dengue/transmission
+MH  - Environmental Exposure
+MH  - Humans
+MH  - Hygiene
+MH  - *Infection Control
+MH  - Mass Screening
+MH  - *Pneumonia, Viral/transmission
+MH  - Salmonella
+MH  - *Travel Medicine
+MH  - Zika Virus
+MH  - Zika Virus Infection/transmission
+EDAT- 2020/02/09 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/09 06:00
+PHST- 2020/02/04 00:00 [received]
+PHST- 2020/02/04 00:00 [accepted]
+PHST- 2020/02/09 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+PHST- 2020/02/09 06:00 [entrez]
+AID - S1477-8939(20)30022-3 [pii]
+AID - 10.1016/j.tmaid.2020.101572 [doi]
+PST - ppublish
+SO  - Travel Med Infect Dis. 2020 Jan - Feb;33:101572. doi:
+      10.1016/j.tmaid.2020.101572. Epub 2020 Feb 5.
+
+PMID- 32178547
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200323
+LR  - 20200325
+IS  - 1552-695X (Electronic)
+IS  - 1534-7354 (Linking)
+VI  - 19
+DP  - 2020 Jan-Dec
+TI  - Challenges and Countermeasures of Integrative Cancer Therapy in the Epidemic of
+      COVID-19.
+PG  - 1534735420912811
+LID - 10.1177/1534735420912811 [doi]
+FAU - Yang, Geliang
+AU  - Yang G
+AUID- ORCID: 0000-0002-3878-2066
+AD  - Department of Traditional Chinese Medicine and Acupuncture, The Second Medical
+      Centre, Chinese People Liberation Army General Hospital, National Clinical
+      Research Center for Geriatric Diseases, Beijing, China.
+FAU - Zhang, Huiqing
+AU  - Zhang H
+AD  - Department of Traditional Chinese Medicine, Changhai Hospital, Naval Medical
+      University, Shanghai, China.
+FAU - Yang, Yufei
+AU  - Yang Y
+AD  - Department of Oncology Diagnosis and Treatment, Xiyuan Hospital of China Academy 
+      of Chinese Medical Sciences, Beijing, China.
+LA  - eng
+PT  - Letter
+PL  - United States
+TA  - Integr Cancer Ther
+JT  - Integrative cancer therapies
+JID - 101128834
+RN  - 0 (Drugs, Chinese Herbal)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - *Acupuncture Therapy
+MH  - Betacoronavirus/pathogenicity
+MH  - Comorbidity
+MH  - Coronavirus Infections/diagnosis/*epidemiology/therapy
+MH  - Disease Outbreaks
+MH  - *Drugs, Chinese Herbal
+MH  - Humans
+MH  - Integrative Oncology/*methods
+MH  - Lung Neoplasms/diagnosis/epidemiology/*therapy
+MH  - *Massage
+MH  - Medicine, Chinese Traditional
+MH  - Pandemics
+MH  - Pneumonia, Viral/*epidemiology/therapy
+PMC - PMC7079301
+EDAT- 2020/03/18 06:00
+MHDA- 2020/03/24 06:00
+CRDT- 2020/03/18 06:00
+PHST- 2020/03/18 06:00 [entrez]
+PHST- 2020/03/18 06:00 [pubmed]
+PHST- 2020/03/24 06:00 [medline]
+AID - 10.1177/1534735420912811 [doi]
+PST - ppublish
+SO  - Integr Cancer Ther. 2020 Jan-Dec;19:1534735420912811. doi:
+      10.1177/1534735420912811.
+
+PMID- 32166128
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200320
+IS  - 2397-0642 (Electronic)
+IS  - 2397-0642 (Linking)
+VI  - 5
+DP  - 2020
+TI  - The novel coronavirus outbreak: what can be learned from China in public
+      reporting?
+PG  - 9
+LID - 10.1186/s41256-020-00140-9 [doi]
+AB  - The new coronavirus outbreak gets everyone's attention. China's national actions 
+      against the outbreak have contributed great contributions to the world. China has
+      been learning from practice for better reporting and is fast to adapt itself. In 
+      this article we discuss China's practice in public reporting and its implications
+      to global health. Confirmed cases, dynamic suspected cases, recovered cases, and 
+      deaths have been reported both in accumulative numbers and their daily updates.
+      Some ratio indictors reporting (fatality rate, recovery rate, etc.), trend
+      reporting, and global surveillance have been applied as well. Some improvements
+      can still be made. It is necessary to further explore the influential factors
+      behind the indicators for interventions. Recommendations are made to the World
+      Health Organization and other countries for better public reporting and
+      surveillance.
+CI  - (c) The Author(s) 2020.
+FAU - Li, Hao
+AU  - Li H
+AD  - 1Global Health Institute, Wuhan University, Wuhan, 430072 China.grid.49470.3e0000
+      0001 2331 6153
+FAU - Chen, Xinguang
+AU  - Chen X
+AD  - 1Global Health Institute, Wuhan University, Wuhan, 430072 China.grid.49470.3e0000
+      0001 2331 6153
+AD  - 2Department of Epidemiology, University of Florida, Gainesville, 32610
+      USA.grid.15276.370000 0004 1936 8091
+FAU - Huang, Hao
+AU  - Huang H
+AD  - 3School of Political Science and Public Administration, Wuhan University, Wuhan, 
+      430072 China.grid.49470.3e0000 0001 2331 6153
+LA  - eng
+PT  - Journal Article
+DEP - 20200309
+PL  - England
+TA  - Glob Health Res Policy
+JT  - Global health research and policy
+JID - 101705789
+PMC - PMC7061470
+OTO - NOTNLM
+OT  - 2019-nCoV
+OT  - COVID-19
+OT  - China
+OT  - Coronavirus outbreak
+OT  - Epidemic
+OT  - Indicators
+OT  - Pandemic
+OT  - Public reporting
+OT  - SARS-CoV-2
+OT  - Surveillance
+COIS- Competing interestsThe authors declare that they have no competing interests.
+EDAT- 2020/03/14 06:00
+MHDA- 2020/03/14 06:01
+CRDT- 2020/03/14 06:00
+PHST- 2020/02/21 00:00 [received]
+PHST- 2020/03/02 00:00 [accepted]
+PHST- 2020/03/14 06:00 [entrez]
+PHST- 2020/03/14 06:00 [pubmed]
+PHST- 2020/03/14 06:01 [medline]
+AID - 10.1186/s41256-020-00140-9 [doi]
+AID - 140 [pii]
+PST - epublish
+SO  - Glob Health Res Policy. 2020 Mar 9;5:9. doi: 10.1186/s41256-020-00140-9.
+      eCollection 2020.
+
+PMID- 31992388
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200219
+LR  - 20200219
+IS  - 1560-7917 (Electronic)
+IS  - 1025-496X (Linking)
+VI  - 25
+IP  - 3
+DP  - 2020 Jan
+TI  - Real-time tentative assessment of the epidemiological characteristics of novel
+      coronavirus infections in Wuhan, China, as at 22 January 2020.
+LID - 10.2807/1560-7917.ES.2020.25.3.2000044 [doi]
+AB  - A novel coronavirus (2019-nCoV) causing severe acute respiratory disease emerged 
+      recently in Wuhan, China. Information on reported cases strongly indicates
+      human-to-human spread, and the most recent information is increasingly indicative
+      of sustained human-to-human transmission. While the overall severity profile
+      among cases may change as more mild cases are identified, we estimate a risk of
+      fatality among hospitalised cases at 14% (95% confidence interval: 3.9-32%).
+FAU - Wu, Peng
+AU  - Wu P
+AD  - World Health Organization (WHO) Collaborating Centre for Infectious Disease
+      Epidemiology and Control, School of Public Health, Li Ka Shing Faculty of
+      Medicine, The University of Hong Kong, Hong Kong Special Administrative Region,
+      China.
+FAU - Hao, Xinxin
+AU  - Hao X
+AD  - World Health Organization (WHO) Collaborating Centre for Infectious Disease
+      Epidemiology and Control, School of Public Health, Li Ka Shing Faculty of
+      Medicine, The University of Hong Kong, Hong Kong Special Administrative Region,
+      China.
+FAU - Lau, Eric H Y
+AU  - Lau EHY
+AD  - World Health Organization (WHO) Collaborating Centre for Infectious Disease
+      Epidemiology and Control, School of Public Health, Li Ka Shing Faculty of
+      Medicine, The University of Hong Kong, Hong Kong Special Administrative Region,
+      China.
+FAU - Wong, Jessica Y
+AU  - Wong JY
+AD  - World Health Organization (WHO) Collaborating Centre for Infectious Disease
+      Epidemiology and Control, School of Public Health, Li Ka Shing Faculty of
+      Medicine, The University of Hong Kong, Hong Kong Special Administrative Region,
+      China.
+FAU - Leung, Kathy S M
+AU  - Leung KSM
+AD  - World Health Organization (WHO) Collaborating Centre for Infectious Disease
+      Epidemiology and Control, School of Public Health, Li Ka Shing Faculty of
+      Medicine, The University of Hong Kong, Hong Kong Special Administrative Region,
+      China.
+FAU - Wu, Joseph T
+AU  - Wu JT
+AD  - World Health Organization (WHO) Collaborating Centre for Infectious Disease
+      Epidemiology and Control, School of Public Health, Li Ka Shing Faculty of
+      Medicine, The University of Hong Kong, Hong Kong Special Administrative Region,
+      China.
+FAU - Cowling, Benjamin J
+AU  - Cowling BJ
+AD  - These authors are joint senior authors with equal contribution.
+AD  - World Health Organization (WHO) Collaborating Centre for Infectious Disease
+      Epidemiology and Control, School of Public Health, Li Ka Shing Faculty of
+      Medicine, The University of Hong Kong, Hong Kong Special Administrative Region,
+      China.
+FAU - Leung, Gabriel M
+AU  - Leung GM
+AD  - These authors are joint senior authors with equal contribution.
+AD  - World Health Organization (WHO) Collaborating Centre for Infectious Disease
+      Epidemiology and Control, School of Public Health, Li Ka Shing Faculty of
+      Medicine, The University of Hong Kong, Hong Kong Special Administrative Region,
+      China.
+LA  - eng
+PT  - Journal Article
+PL  - Sweden
+TA  - Euro Surveill
+JT  - Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 
+      communicable disease bulletin
+JID - 100887452
+SB  - IM
+MH  - China/epidemiology
+MH  - Communicable Diseases, Emerging/epidemiology/transmission
+MH  - Coronavirus/classification/*isolation & purification
+MH  - Coronavirus Infections/*epidemiology/mortality/*transmission
+MH  - *Disease Outbreaks
+MH  - Hospital Mortality
+MH  - Hospitalization
+MH  - Humans
+MH  - Public Health
+MH  - Respiratory Tract Infections/*epidemiology/*transmission
+MH  - Risk Assessment
+PMC - PMC6988272
+OTO - NOTNLM
+OT  - Coronavirus
+OT  - public health
+EDAT- 2020/01/30 06:00
+MHDA- 2020/02/20 06:00
+CRDT- 2020/01/30 06:00
+PHST- 2020/01/30 06:00 [entrez]
+PHST- 2020/01/30 06:00 [pubmed]
+PHST- 2020/02/20 06:00 [medline]
+AID - 10.2807/1560-7917.ES.2020.25.3.2000044 [doi]
+PST - ppublish
+SO  - Euro Surveill. 2020 Jan;25(3). doi: 10.2807/1560-7917.ES.2020.25.3.2000044.
+
+PMID- 32190785
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200322
+IS  - 2468-0427 (Electronic)
+IS  - 2468-0427 (Linking)
+VI  - 5
+DP  - 2020
+TI  - Transmission potential of the novel coronavirus (COVID-19) onboard the diamond
+      Princess Cruises Ship, 2020.
+PG  - 264-270
+LID - 10.1016/j.idm.2020.02.003 [doi]
+AB  - An outbreak of COVID-19 developed aboard the Princess Cruises Ship during
+      January-February 2020. Using mathematical modeling and time-series incidence data
+      describing the trajectory of the outbreak among passengers and crew members, we
+      characterize how the transmission potential varied over the course of the
+      outbreak. Our estimate of the mean reproduction number in the confined setting
+      reached values as high as ~11, which is higher than mean estimates reported from 
+      community-level transmission dynamics in China and Singapore (approximate range: 
+      1.1-7). Our findings suggest that R t decreased substantially compared to values 
+      during the early phase after the Japanese government implemented an enhanced
+      quarantine control. Most recent estimates of R t reached values largely below the
+      epidemic threshold, indicating that a secondary outbreak of the novel coronavirus
+      was unlikely to occur aboard the Diamond Princess Ship.
+CI  - (c) 2020 The Authors. Production and hosting by Elsevier B.V. on behalf of KeAi
+      Communications Co., Ltd.
+FAU - Mizumoto, Kenji
+AU  - Mizumoto K
+AD  - Graduate School of Advanced Integrated Studies in Human Survivability, Kyoto
+      University Yoshida-Nakaadachi-cho, Sakyo-ku, Kyoto, Japan.
+AD  - Hakubi Center for Advanced Research, Kyoto University, Yoshidahonmachi, Sakyo-ku,
+      Kyoto, Japan.
+AD  - Department of Population Health Sciences, School of Public Health, Georgia State 
+      University, Atlanta, Georgia, USA.
+FAU - Chowell, Gerardo
+AU  - Chowell G
+AD  - Department of Population Health Sciences, School of Public Health, Georgia State 
+      University, Atlanta, Georgia, USA.
+AD  - Division of International Epidemiology and Population Studies, Fogarty
+      International Center, National Institutes of Health, Bethesda, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20200229
+PL  - China
+TA  - Infect Dis Model
+JT  - Infectious Disease Modelling
+JID - 101692406
+PMC - PMC7068636
+OTO - NOTNLM
+OT  - Confined settings
+OT  - Corona
+OT  - Cruise
+OT  - Epidemic
+OT  - Next generation matrix
+COIS- None.
+EDAT- 2020/03/20 06:00
+MHDA- 2020/03/20 06:01
+CRDT- 2020/03/20 06:00
+PHST- 2020/02/25 00:00 [received]
+PHST- 2020/02/27 00:00 [revised]
+PHST- 2020/02/27 00:00 [accepted]
+PHST- 2020/03/20 06:00 [entrez]
+PHST- 2020/03/20 06:00 [pubmed]
+PHST- 2020/03/20 06:01 [medline]
+AID - 10.1016/j.idm.2020.02.003 [doi]
+AID - S2468-0427(20)30006-3 [pii]
+PST - epublish
+SO  - Infect Dis Model. 2020 Feb 29;5:264-270. doi: 10.1016/j.idm.2020.02.003.
+      eCollection 2020.
+
+PMID- 31992880
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+VI  - 577
+IP  - 7792
+DP  - 2020 Jan
+TI  - China coronavirus: Six questions scientists are asking.
+PG  - 605-607
+LID - 10.1038/d41586-020-00166-6 [doi]
+FAU - Callaway, Ewen
+AU  - Callaway E
+FAU - Cyranoski, David
+AU  - Cyranoski D
+LA  - eng
+PT  - News
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (Anti-HIV Agents)
+RN  - 0 (Antiviral Agents)
+RN  - 0 (Viral Vaccines)
+RN  - COVID-19
+SB  - IM
+MH  - Animals
+MH  - Anti-HIV Agents/pharmacology/therapeutic use
+MH  - *Antiviral Agents/pharmacology/supply & distribution/therapeutic use
+MH  - Asymptomatic Infections/epidemiology
+MH  - Basic Reproduction Number/*statistics & numerical data
+MH  - China/epidemiology
+MH  - Coronavirus/*genetics/isolation & purification/*pathogenicity
+MH  - Coronavirus Infections/drug therapy/mortality/*transmission/*virology
+MH  - Europe/epidemiology
+MH  - Humans
+MH  - Pneumonia, Viral/drug therapy/mortality/*transmission/*virology
+MH  - Quarantine/methods
+MH  - Severe Acute Respiratory Syndrome/drug therapy/virology
+MH  - United States/epidemiology
+MH  - *Viral Vaccines/supply & distribution
+MH  - World Health Organization/organization & administration
+MH  - Zoonoses/diagnosis/epidemiology/*transmission/virology
+OTO - NOTNLM
+OT  - *Epidemiology
+OT  - *Medical research
+OT  - *Virology
+EDAT- 2020/01/30 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/01/30 06:00
+PHST- 2020/01/30 06:00 [entrez]
+PHST- 2020/01/30 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - 10.1038/d41586-020-00166-6 [doi]
+AID - 10.1038/d41586-020-00166-6 [pii]
+PST - ppublish
+SO  - Nature. 2020 Jan;577(7792):605-607. doi: 10.1038/d41586-020-00166-6.
+
+PMID- 32191764
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200325
+LR  - 20200325
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 15
+IP  - 3
+DP  - 2020
+TI  - Association of radiologic findings with mortality of patients infected with 2019 
+      novel coronavirus in Wuhan, China.
+PG  - e0230548
+LID - 10.1371/journal.pone.0230548 [doi]
+AB  - Radiologic characteristics of 2019 novel coronavirus (2019-nCoV) infected
+      pneumonia (NCIP) which had not been fully understood are especially important for
+      diagnosing and predicting prognosis. We retrospective studied 27 consecutive
+      patients who were confirmed NCIP, the clinical characteristics and CT image
+      findings were collected, and the association of radiologic findings with
+      mortality of patients was evaluated. 27 patients included 12 men and 15 women,
+      with median age of 60 years (IQR 47-69). 17 patients discharged in recovered
+      condition and 10 patients died in hospital. The median age of mortality group was
+      higher compared to survival group (68 (IQR 63-73) vs 55 (IQR 35-60), P = 0.003). 
+      The comorbidity rate in mortality group was significantly higher than in survival
+      group (80% vs 29%, P = 0.018). The predominant CT characteristics consisted of
+      ground glass opacity (67%), bilateral sides involved (86%), both peripheral and
+      central distribution (74%), and lower zone involvement (96%). The median CT score
+      of mortality group was higher compared to survival group (30 (IQR 7-13) vs 12
+      (IQR 11-43), P = 0.021), with more frequency of consolidation (40% vs 6%, P =
+      0.047) and air bronchogram (60% vs 12%, P = 0.025). An optimal cutoff value of a 
+      CT score of 24.5 had a sensitivity of 85.6% and a specificity of 84.5% for the
+      prediction of mortality. 2019-nCoV was more likely to infect elderly people with 
+      chronic comorbidities. CT findings of NCIP were featured by predominant ground
+      glass opacities mixed with consolidations, mainly peripheral or combined
+      peripheral and central distributions, bilateral and lower lung zones being mostly
+      involved. A simple CT scoring method was capable to predict mortality.
+FAU - Yuan, Mingli
+AU  - Yuan M
+AUID- ORCID: 0000-0003-0960-5156
+AD  - Department of Pulmonary and Critical Care Medicine, Central Hospital of Wuhan,
+      Tongji Medical College, Huazhong University of Science and Technology, Wuhan,
+      Hubei, China.
+FAU - Yin, Wen
+AU  - Yin W
+AD  - Department of Pulmonary and Critical Care Medicine, Central Hospital of Wuhan,
+      Tongji Medical College, Huazhong University of Science and Technology, Wuhan,
+      Hubei, China.
+FAU - Tao, Zhaowu
+AU  - Tao Z
+AD  - Department of Pulmonary and Critical Care Medicine, Central Hospital of Wuhan,
+      Tongji Medical College, Huazhong University of Science and Technology, Wuhan,
+      Hubei, China.
+FAU - Tan, Weijun
+AU  - Tan W
+AD  - Department of Pulmonary and Critical Care Medicine, Central Hospital of Wuhan,
+      Tongji Medical College, Huazhong University of Science and Technology, Wuhan,
+      Hubei, China.
+FAU - Hu, Yi
+AU  - Hu Y
+AD  - Department of Pulmonary and Critical Care Medicine, Central Hospital of Wuhan,
+      Tongji Medical College, Huazhong University of Science and Technology, Wuhan,
+      Hubei, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20200319
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - COVID-19
+SB  - IM
+MH  - Aged
+MH  - China
+MH  - Comorbidity
+MH  - Coronavirus Infections/*diagnostic imaging/*mortality/pathology
+MH  - Female
+MH  - Humans
+MH  - Lung/*diagnostic imaging/pathology
+MH  - Male
+MH  - Middle Aged
+MH  - Pneumonia, Viral/*diagnostic imaging/*mortality/pathology
+MH  - Predictive Value of Tests
+MH  - Prognosis
+MH  - ROC Curve
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+MH  - Tomography, X-Ray Computed
+PMC - PMC7082074
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2020/03/20 06:00
+MHDA- 2020/03/26 06:00
+CRDT- 2020/03/20 06:00
+PHST- 2020/02/12 00:00 [received]
+PHST- 2020/03/03 00:00 [accepted]
+PHST- 2020/03/20 06:00 [entrez]
+PHST- 2020/03/20 06:00 [pubmed]
+PHST- 2020/03/26 06:00 [medline]
+AID - 10.1371/journal.pone.0230548 [doi]
+AID - PONE-D-20-04163 [pii]
+PST - epublish
+SO  - PLoS One. 2020 Mar 19;15(3):e0230548. doi: 10.1371/journal.pone.0230548.
+      eCollection 2020.
+
+PMID- 32005086
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200316
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - An emerging coronavirus causing pneumonia outbreak in Wuhan, China: calling for
+      developing therapeutic and prophylactic strategies.
+PG  - 275-277
+LID - 10.1080/22221751.2020.1723441 [doi]
+FAU - Jiang, Shibo
+AU  - Jiang S
+AUID- ORCID: 0000-0001-8283-7135
+AD  - Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), School of Basic
+      Medical Sciences, Fudan University, Shanghai, People's Republic of China.
+AD  - Lindsley F. Kimball Research Institute, New York Blood Center, New York, NY, USA.
+FAU - Du, Lanying
+AU  - Du L
+AUID- ORCID: 0000-0001-5955-1294
+AD  - Lindsley F. Kimball Research Institute, New York Blood Center, New York, NY, USA.
+FAU - Shi, Zhengli
+AU  - Shi Z
+AUID- ORCID: 0000-0001-8089-163X
+AD  - CAS Key Laboratory of Special Pathogens and Biosafety, Wuhan Institute of
+      Virology, Chinese Academy of Sciences, Wuhan, People's Republic of China.
+LA  - eng
+GR  - R01 AI139092/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+DEP - 20200131
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Antibodies, Neutralizing)
+RN  - 0 (Antibodies, Viral)
+RN  - 0 (Epitopes)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+EIN - Emerg Microbes Infect. 2020 Dec;9(1):539. PMID: 32134367
+MH  - Animals
+MH  - Antibodies, Monoclonal
+MH  - Antibodies, Neutralizing
+MH  - Antibodies, Viral
+MH  - Betacoronavirus/*pathogenicity
+MH  - China/epidemiology
+MH  - Chiroptera/virology
+MH  - Communicable Diseases, Emerging/epidemiology/*virology
+MH  - Coronavirus Infections/*epidemiology/prevention & control/therapy
+MH  - Epitopes
+MH  - Humans
+MH  - Nucleic Acid Amplification Techniques
+MH  - Phylogeny
+MH  - Pneumonia, Viral/*epidemiology/prevention & control/therapy
+PMC - PMC7033706
+EDAT- 2020/02/02 06:00
+MHDA- 2020/03/17 06:00
+CRDT- 2020/02/02 06:00
+PHST- 2020/02/02 06:00 [entrez]
+PHST- 2020/02/02 06:00 [pubmed]
+PHST- 2020/03/17 06:00 [medline]
+AID - 10.1080/22221751.2020.1723441 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Jan 31;9(1):275-277. doi:
+      10.1080/22221751.2020.1723441. eCollection 2020.
+
+PMID- 31992886
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+VI  - 577
+IP  - 7792
+DP  - 2020 Jan
+TI  - This scientist hopes to test coronavirus drugs on animals in locked-down Wuhan.
+PG  - 607
+LID - 10.1038/d41586-020-00190-6 [doi]
+FAU - Cyranoski, David
+AU  - Cyranoski D
+LA  - eng
+PT  - Interview
+PT  - News
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (Antiviral Agents)
+RN  - EC 3.4.15.1 (Peptidyl-Dipeptidase A)
+RN  - EC 3.4.17.- (angiotensin converting enzyme 2)
+RN  - COVID-19
+SB  - IM
+MH  - Animals
+MH  - Antiviral Agents/*pharmacology/supply & distribution/therapeutic use
+MH  - China/epidemiology
+MH  - Clinical Trials as Topic
+MH  - Coronavirus/*drug effects
+MH  - Coronavirus Infections/*drug therapy/epidemiology/veterinary/virology
+MH  - Disease Models, Animal
+MH  - *Drug Evaluation, Preclinical
+MH  - Humans
+MH  - Mice
+MH  - Middle East Respiratory Syndrome Coronavirus/drug effects
+MH  - Patient Selection
+MH  - Peptidyl-Dipeptidase A/genetics/metabolism
+MH  - Pneumonia, Viral/*drug therapy/epidemiology/veterinary/*virology
+MH  - SARS Virus/drug effects
+MH  - Severe Acute Respiratory Syndrome/*drug therapy/virology
+MH  - Time Factors
+OTO - NOTNLM
+OT  - *Diseases
+OT  - *Infection
+OT  - *Virology
+EDAT- 2020/01/30 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/01/30 06:00
+PHST- 2020/01/30 06:00 [entrez]
+PHST- 2020/01/30 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - 10.1038/d41586-020-00190-6 [doi]
+AID - 10.1038/d41586-020-00190-6 [pii]
+PST - ppublish
+SO  - Nature. 2020 Jan;577(7792):607. doi: 10.1038/d41586-020-00190-6.
+
+PMID- 32124733
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200316
+LR  - 20200325
+IS  - 1670-4959 (Electronic)
+IS  - 0023-7213 (Linking)
+VI  - 106
+IP  - 3
+DP  - 2020 Mars
+TI  - [COVID-19. The only certainty is the uncertainty].
+PG  - 119
+LID - 10.17992/lbl.2020.03.469 [doi]
+FAU - Briem, Haraldur
+AU  - Briem H
+AD  - MD, PhD Special Advisor Centre for Health Security and Communicable Disease
+      Control Directorate of Health.
+LA  - ice
+PT  - Editorial
+PL  - Iceland
+TA  - Laeknabladid
+JT  - Laeknabladid
+JID - 7901326
+RN  - COVID-19
+SB  - IM
+MH  - China/epidemiology
+MH  - *Coronavirus Infections/epidemiology/transmission
+MH  - Humans
+MH  - Iceland/epidemiology
+MH  - *Pandemics
+MH  - *Pneumonia, Viral/epidemiology/transmission
+MH  - *Uncertainty
+EDAT- 2020/03/04 06:00
+MHDA- 2020/03/17 06:00
+CRDT- 2020/03/04 06:00
+PHST- 2020/03/04 06:00 [entrez]
+PHST- 2020/03/04 06:00 [pubmed]
+PHST- 2020/03/17 06:00 [medline]
+AID - 10.17992/lbl.2020.03.469 [doi]
+PST - ppublish
+SO  - Laeknabladid. 2020 Mars;106(3):119. doi: 10.17992/lbl.2020.03.469.
+
+PMID- 32200399
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200324
+LR  - 20200325
+IS  - 0304-4602 (Print)
+IS  - 0304-4602 (Linking)
+VI  - 49
+IP  - 1
+DP  - 2020 Jan
+TI  - Mental Health Strategies to Combat the Psychological Impact of COVID-19 Beyond
+      Paranoia and Panic.
+PG  - 1-3
+FAU - Ho, Cyrus Sh
+AU  - Ho CS
+AD  - Department of Psychological Medicine, National University Health System,
+      Singapore.
+FAU - Chee, Cornelia Yi
+AU  - Chee CY
+FAU - Ho, Roger Cm
+AU  - Ho RC
+LA  - eng
+PT  - Journal Article
+PL  - Singapore
+TA  - Ann Acad Med Singapore
+JT  - Annals of the Academy of Medicine, Singapore
+JID - 7503289
+RN  - COVID-19
+SB  - IM
+MH  - *Adaptation, Psychological
+MH  - *Communication
+MH  - Coronavirus Infections/epidemiology/*psychology
+MH  - *Epidemics
+MH  - *Fear
+MH  - Health Personnel/psychology
+MH  - Humans
+MH  - *Mental Health
+MH  - *Mental Health Services
+MH  - Panic
+MH  - Pneumonia, Viral/epidemiology/*psychology
+MH  - Risk Assessment
+EDAT- 2020/03/23 06:00
+MHDA- 2020/03/25 06:00
+CRDT- 2020/03/23 06:00
+PHST- 2020/03/23 06:00 [entrez]
+PHST- 2020/03/23 06:00 [pubmed]
+PHST- 2020/03/25 06:00 [medline]
+PST - ppublish
+SO  - Ann Acad Med Singapore. 2020 Jan;49(1):1-3.
+
+PMID- 32206052
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200326
+IS  - 1617-9625 (Electronic)
+IS  - 1617-9625 (Linking)
+VI  - 18
+DP  - 2020
+TI  - COVID-19 and smoking: A systematic review of the evidence.
+PG  - 20
+LID - 10.18332/tid/119324 [doi]
+FAU - Vardavas, Constantine I
+AU  - Vardavas CI
+AD  - Department of Oral Health Policy and Epidemiology, Harvard School of Dental
+      Medicine, Boston, United States.
+AD  - School of Medicine, University of Crete, Heraklion, Greece.
+FAU - Nikitara, Katerina
+AU  - Nikitara K
+AD  - School of Medicine, University of Crete, Heraklion, Greece.
+LA  - eng
+PT  - Editorial
+DEP - 20200320
+PL  - Greece
+TA  - Tob Induc Dis
+JT  - Tobacco induced diseases
+JID - 101201591
+PMC - PMC7083240
+OTO - NOTNLM
+OT  - COVID-19
+OT  - coronavirus
+OT  - smoking
+OT  - tobacco
+COIS- The authors declare that they have no competing interests, financial or
+      otherwise, related to the current work. C.I. Vardavas reports that he is the
+      Strategic Development Editor of TID and that there are no conflicts of interest
+      with this current work. The authors have each completed and submitted an ICMJE
+      form for disclosure of potential conflicts of interest.
+EDAT- 2020/03/25 06:00
+MHDA- 2020/03/25 06:01
+CRDT- 2020/03/25 06:00
+PHST- 2020/03/19 00:00 [received]
+PHST- 2020/03/20 00:00 [accepted]
+PHST- 2020/03/25 06:00 [entrez]
+PHST- 2020/03/25 06:00 [pubmed]
+PHST- 2020/03/25 06:01 [medline]
+AID - 10.18332/tid/119324 [doi]
+AID - 20 [pii]
+PST - epublish
+SO  - Tob Induc Dis. 2020 Mar 20;18:20. doi: 10.18332/tid/119324. eCollection 2020.
+
+PMID- 32122250
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 2222-1751 (Electronic)
+IS  - 2222-1751 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2020
+TI  - Public's early response to the novel coronavirus-infected pneumonia.
+PG  - 534
+LID - 10.1080/22221751.2020.1732232 [doi]
+FAU - Zhan, Siyi
+AU  - Zhan S
+AD  - From the School of Public Health, Zhejiang Chinese Medical University, Hangzhou, 
+      People's Republic of China.
+FAU - Yang, Ying Ying
+AU  - Yang YY
+AD  - From the School of Public Health, Zhejiang Chinese Medical University, Hangzhou, 
+      People's Republic of China.
+FAU - Fu, Chuanxi
+AU  - Fu C
+AD  - From the School of Public Health, Zhejiang Chinese Medical University, Hangzhou, 
+      People's Republic of China.
+LA  - eng
+PT  - Letter
+DEP - 20200303
+PL  - United States
+TA  - Emerg Microbes Infect
+JT  - Emerging microbes & infections
+JID - 101594885
+RN  - COVID-19
+SB  - IM
+MH  - Anxiety
+MH  - China/epidemiology
+MH  - *Coronavirus Infections/epidemiology
+MH  - Disease Outbreaks
+MH  - Health Behavior
+MH  - Humans
+MH  - *Pneumonia, Viral/epidemiology
+MH  - Public Health
+PMC - PMC7067171
+EDAT- 2020/03/04 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/03/04 06:00
+PHST- 2020/03/04 06:00 [entrez]
+PHST- 2020/03/04 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - 10.1080/22221751.2020.1732232 [doi]
+PST - epublish
+SO  - Emerg Microbes Infect. 2020 Mar 3;9(1):534. doi: 10.1080/22221751.2020.1732232.
+      eCollection 2020.
