@@ -1,4 +1,813 @@
 
+PMID- 32027573
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20200325
+IS  - 1527-1315 (Electronic)
+IS  - 0033-8419 (Linking)
+VI  - 295
+IP  - 1
+DP  - 2020 Apr
+TI  - Emerging 2019 Novel Coronavirus (2019-nCoV) Pneumonia.
+PG  - 210-217
+LID - 10.1148/radiol.2020200274 [doi]
+AB  - BackgroundThe chest CT findings of patients with 2019 Novel Coronavirus
+      (2019-nCoV) pneumonia have not previously been described in detail.PurposeTo
+      investigate the clinical, laboratory, and imaging findings of emerging 2019-nCoV 
+      pneumonia in humans.Materials and MethodsFifty-one patients (25 men and 26 women;
+      age range 16-76 years) with laboratory-confirmed 2019-nCoV infection by using
+      real-time reverse transcription polymerase chain reaction underwent thin-section 
+      CT. The imaging findings, clinical data, and laboratory data were
+      evaluated.ResultsFifty of 51 patients (98%) had a history of contact with
+      individuals from the endemic center in Wuhan, China. Fever (49 of 51, 96%) and
+      cough (24 of 51, 47%) were the most common symptoms. Most patients had a normal
+      white blood cell count (37 of 51, 73%), neutrophil count (44 of 51, 86%), and
+      either normal (17 of 51, 35%) or reduced (33 of 51, 65%) lymphocyte count. CT
+      images showed pure ground-glass opacity (GGO) in 39 of 51 (77%) patients and GGO 
+      with reticular and/or interlobular septal thickening in 38 of 51 (75%) patients. 
+      GGO with consolidation was present in 30 of 51 (59%) patients, and pure
+      consolidation was present in 28 of 51 (55%) patients. Forty-four of 51 (86%)
+      patients had bilateral lung involvement, while 41 of 51 (80%) involved the
+      posterior part of the lungs and 44 of 51 (86%) were peripheral. There were more
+      consolidated lung lesions in patients 5 days or more from disease onset to CT
+      scan versus 4 days or fewer (431 of 712 lesions vs 129 of 612 lesions; P < .001).
+      Patients older than 50 years had more consolidated lung lesions than did those
+      aged 50 years or younger (212 of 470 vs 198 of 854; P < .001). Follow-up CT in 13
+      patients showed improvement in seven (54%) patients and progression in four (31%)
+      patients.ConclusionPatients with fever and/or cough and with conspicuous
+      ground-glass opacity lesions in the peripheral and posterior lungs on CT images, 
+      combined with normal or decreased white blood cells and a history of epidemic
+      exposure, are highly suspected of having 2019 Novel Coronavirus (2019-nCoV)
+      pneumonia.(c) RSNA, 2020.
+FAU - Song, Fengxiang
+AU  - Song F
+AUID- ORCID: 0000-0003-2399-2682
+AD  - From the Departments of Radiology (F. Song, N.S., F. Shan, Z.Z., J.S., Y.S.) and 
+      Infectious Disease (H.L., Y.L.), Shanghai Public Health Clinical Center, No. 2501
+      Caolang Road, Jinshan District, Shanghai 201508, China; Department of the
+      Principal's Office, Fudan University, Shanghai, China (Z.Z.); Cancer Center,
+      University of Michigan, Ann Arbor, Mich (Y.J.); and Shanghai Key Laboratory of
+      Molecular Imaging, Shanghai, China (Y.S.).
+FAU - Shi, Nannan
+AU  - Shi N
+AD  - From the Departments of Radiology (F. Song, N.S., F. Shan, Z.Z., J.S., Y.S.) and 
+      Infectious Disease (H.L., Y.L.), Shanghai Public Health Clinical Center, No. 2501
+      Caolang Road, Jinshan District, Shanghai 201508, China; Department of the
+      Principal's Office, Fudan University, Shanghai, China (Z.Z.); Cancer Center,
+      University of Michigan, Ann Arbor, Mich (Y.J.); and Shanghai Key Laboratory of
+      Molecular Imaging, Shanghai, China (Y.S.).
+FAU - Shan, Fei
+AU  - Shan F
+AD  - From the Departments of Radiology (F. Song, N.S., F. Shan, Z.Z., J.S., Y.S.) and 
+      Infectious Disease (H.L., Y.L.), Shanghai Public Health Clinical Center, No. 2501
+      Caolang Road, Jinshan District, Shanghai 201508, China; Department of the
+      Principal's Office, Fudan University, Shanghai, China (Z.Z.); Cancer Center,
+      University of Michigan, Ann Arbor, Mich (Y.J.); and Shanghai Key Laboratory of
+      Molecular Imaging, Shanghai, China (Y.S.).
+FAU - Zhang, Zhiyong
+AU  - Zhang Z
+AD  - From the Departments of Radiology (F. Song, N.S., F. Shan, Z.Z., J.S., Y.S.) and 
+      Infectious Disease (H.L., Y.L.), Shanghai Public Health Clinical Center, No. 2501
+      Caolang Road, Jinshan District, Shanghai 201508, China; Department of the
+      Principal's Office, Fudan University, Shanghai, China (Z.Z.); Cancer Center,
+      University of Michigan, Ann Arbor, Mich (Y.J.); and Shanghai Key Laboratory of
+      Molecular Imaging, Shanghai, China (Y.S.).
+FAU - Shen, Jie
+AU  - Shen J
+AD  - From the Departments of Radiology (F. Song, N.S., F. Shan, Z.Z., J.S., Y.S.) and 
+      Infectious Disease (H.L., Y.L.), Shanghai Public Health Clinical Center, No. 2501
+      Caolang Road, Jinshan District, Shanghai 201508, China; Department of the
+      Principal's Office, Fudan University, Shanghai, China (Z.Z.); Cancer Center,
+      University of Michigan, Ann Arbor, Mich (Y.J.); and Shanghai Key Laboratory of
+      Molecular Imaging, Shanghai, China (Y.S.).
+FAU - Lu, Hongzhou
+AU  - Lu H
+AD  - From the Departments of Radiology (F. Song, N.S., F. Shan, Z.Z., J.S., Y.S.) and 
+      Infectious Disease (H.L., Y.L.), Shanghai Public Health Clinical Center, No. 2501
+      Caolang Road, Jinshan District, Shanghai 201508, China; Department of the
+      Principal's Office, Fudan University, Shanghai, China (Z.Z.); Cancer Center,
+      University of Michigan, Ann Arbor, Mich (Y.J.); and Shanghai Key Laboratory of
+      Molecular Imaging, Shanghai, China (Y.S.).
+FAU - Ling, Yun
+AU  - Ling Y
+AUID- ORCID: 0000-0002-4289-3594
+AD  - From the Departments of Radiology (F. Song, N.S., F. Shan, Z.Z., J.S., Y.S.) and 
+      Infectious Disease (H.L., Y.L.), Shanghai Public Health Clinical Center, No. 2501
+      Caolang Road, Jinshan District, Shanghai 201508, China; Department of the
+      Principal's Office, Fudan University, Shanghai, China (Z.Z.); Cancer Center,
+      University of Michigan, Ann Arbor, Mich (Y.J.); and Shanghai Key Laboratory of
+      Molecular Imaging, Shanghai, China (Y.S.).
+FAU - Jiang, Yebin
+AU  - Jiang Y
+AUID- ORCID: 0000-0002-9673-7124
+AD  - From the Departments of Radiology (F. Song, N.S., F. Shan, Z.Z., J.S., Y.S.) and 
+      Infectious Disease (H.L., Y.L.), Shanghai Public Health Clinical Center, No. 2501
+      Caolang Road, Jinshan District, Shanghai 201508, China; Department of the
+      Principal's Office, Fudan University, Shanghai, China (Z.Z.); Cancer Center,
+      University of Michigan, Ann Arbor, Mich (Y.J.); and Shanghai Key Laboratory of
+      Molecular Imaging, Shanghai, China (Y.S.).
+FAU - Shi, Yuxin
+AU  - Shi Y
+AD  - From the Departments of Radiology (F. Song, N.S., F. Shan, Z.Z., J.S., Y.S.) and 
+      Infectious Disease (H.L., Y.L.), Shanghai Public Health Clinical Center, No. 2501
+      Caolang Road, Jinshan District, Shanghai 201508, China; Department of the
+      Principal's Office, Fudan University, Shanghai, China (Z.Z.); Cancer Center,
+      University of Michigan, Ann Arbor, Mich (Y.J.); and Shanghai Key Laboratory of
+      Molecular Imaging, Shanghai, China (Y.S.).
+LA  - eng
+PT  - Journal Article
+DEP - 20200206
+PL  - United States
+TA  - Radiology
+JT  - Radiology
+JID - 0401260
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - AIM
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Age Factors
+MH  - Betacoronavirus/*isolation & purification
+MH  - China/epidemiology
+MH  - Coronavirus Infections/complications/*diagnostic imaging/pathology
+MH  - Cough/etiology
+MH  - Female
+MH  - Fever/etiology
+MH  - Humans
+MH  - Leukocyte Count
+MH  - Lung/*diagnostic imaging/pathology
+MH  - Male
+MH  - Middle Aged
+MH  - Pneumonia, Viral/complications/*diagnostic imaging/pathology
+MH  - Real-Time Polymerase Chain Reaction
+MH  - Retrospective Studies
+MH  - *Tomography, X-Ray Computed
+MH  - Young Adult
+EDAT- 2020/02/07 06:00
+MHDA- 2020/03/21 06:00
+CRDT- 2020/02/07 06:00
+PHST- 2020/02/07 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+PHST- 2020/02/07 06:00 [entrez]
+AID - 10.1148/radiol.2020200274 [doi]
+PST - ppublish
+SO  - Radiology. 2020 Apr;295(1):210-217. doi: 10.1148/radiol.2020200274. Epub 2020 Feb
+      6.
+
+PMID- 32151335
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+VI  - 395
+IP  - 10226
+DP  - 2020 Mar 7
+TI  - Clinical characteristics and intrauterine vertical transmission potential of
+      COVID-19 infection in nine pregnant women: a retrospective review of medical
+      records.
+PG  - 809-815
+LID - S0140-6736(20)30360-3 [pii]
+LID - 10.1016/S0140-6736(20)30360-3 [doi]
+AB  - BACKGROUND: Previous studies on the pneumonia outbreak caused by the 2019 novel
+      coronavirus disease (COVID-19) were based on information from the general
+      population. Limited data are available for pregnant women with COVID-19
+      pneumonia. This study aimed to evaluate the clinical characteristics of COVID-19 
+      in pregnancy and the intrauterine vertical transmission potential of COVID-19
+      infection. METHODS: Clinical records, laboratory results, and chest CT scans were
+      retrospectively reviewed for nine pregnant women with laboratory-confirmed
+      COVID-19 pneumonia (ie, with maternal throat swab samples that were positive for 
+      severe acute respiratory syndrome coronavirus 2 [SARS-CoV-2]) who were admitted
+      to Zhongnan Hospital of Wuhan University, Wuhan, China, from Jan 20 to Jan 31,
+      2020. Evidence of intrauterine vertical transmission was assessed by testing for 
+      the presence of SARS-CoV-2 in amniotic fluid, cord blood, and neonatal throat
+      swab samples. Breastmilk samples were also collected and tested from patients
+      after the first lactation. FINDINGS: All nine patients had a caesarean section in
+      their third trimester. Seven patients presented with a fever. Other symptoms,
+      including cough (in four of nine patients), myalgia (in three), sore throat (in
+      two), and malaise (in two), were also observed. Fetal distress was monitored in
+      two cases. Five of nine patients had lymphopenia (<1.0 x 10(9) cells per L).
+      Three patients had increased aminotransferase concentrations. None of the
+      patients developed severe COVID-19 pneumonia or died, as of Feb 4, 2020. Nine
+      livebirths were recorded. No neonatal asphyxia was observed in newborn babies.
+      All nine livebirths had a 1-min Apgar score of 8-9 and a 5-min Apgar score of
+      9-10. Amniotic fluid, cord blood, neonatal throat swab, and breastmilk samples
+      from six patients were tested for SARS-CoV-2, and all samples tested negative for
+      the virus. INTERPRETATION: The clinical characteristics of COVID-19 pneumonia in 
+      pregnant women were similar to those reported for non-pregnant adult patients who
+      developed COVID-19 pneumonia. Findings from this small group of cases suggest
+      that there is currently no evidence for intrauterine infection caused by vertical
+      transmission in women who develop COVID-19 pneumonia in late pregnancy. FUNDING: 
+      Hubei Science and Technology Plan, Wuhan University Medical Development Plan.
+CI  - Copyright (c) 2020 Elsevier Ltd. All rights reserved.
+FAU - Chen, Huijun
+AU  - Chen H
+AD  - Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, 
+      Wuhan, Hubei, China; Clinical Medicine Research Centre of Prenatal Diagnosis and 
+      Birth Health in Hubei Province, Wuhan, Hubei, China.
+FAU - Guo, Juanjuan
+AU  - Guo J
+AD  - Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, 
+      Wuhan, Hubei, China; Clinical Medicine Research Centre of Prenatal Diagnosis and 
+      Birth Health in Hubei Province, Wuhan, Hubei, China.
+FAU - Wang, Chen
+AU  - Wang C
+AD  - Department of Obstetrics and Gynaecology, Peking University First Hospital,
+      Beijing, China.
+FAU - Luo, Fan
+AU  - Luo F
+AD  - State Key Laboratory of Virology/Institute of Medical Virology, School of Basic
+      Medical Sciences, Wuhan University, Wuhan, Hubei, China.
+FAU - Yu, Xuechen
+AU  - Yu X
+AD  - Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, 
+      Wuhan, Hubei, China; Clinical Medicine Research Centre of Prenatal Diagnosis and 
+      Birth Health in Hubei Province, Wuhan, Hubei, China.
+FAU - Zhang, Wei
+AU  - Zhang W
+AD  - Department of Preventive Medicine, Northwestern University Feinberg School of
+      Medicine, Chicago, IL, USA.
+FAU - Li, Jiafu
+AU  - Li J
+AD  - Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, 
+      Wuhan, Hubei, China; Clinical Medicine Research Centre of Prenatal Diagnosis and 
+      Birth Health in Hubei Province, Wuhan, Hubei, China.
+FAU - Zhao, Dongchi
+AU  - Zhao D
+AD  - Department of Paediatrics, Zhongnan Hospital of Wuhan University, Wuhan, Hubei,
+      China.
+FAU - Xu, Dan
+AU  - Xu D
+AD  - Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, 
+      Wuhan, Hubei, China; Clinical Medicine Research Centre of Prenatal Diagnosis and 
+      Birth Health in Hubei Province, Wuhan, Hubei, China.
+FAU - Gong, Qing
+AU  - Gong Q
+AD  - Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, 
+      Wuhan, Hubei, China; Clinical Medicine Research Centre of Prenatal Diagnosis and 
+      Birth Health in Hubei Province, Wuhan, Hubei, China.
+FAU - Liao, Jing
+AU  - Liao J
+AD  - Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, 
+      Wuhan, Hubei, China; Clinical Medicine Research Centre of Prenatal Diagnosis and 
+      Birth Health in Hubei Province, Wuhan, Hubei, China.
+FAU - Yang, Huixia
+AU  - Yang H
+AD  - Department of Obstetrics and Gynaecology, Peking University First Hospital,
+      Beijing, China. Electronic address: yanghuixia@bjmu.edu.cn.
+FAU - Hou, Wei
+AU  - Hou W
+AD  - State Key Laboratory of Virology/Institute of Medical Virology, School of Basic
+      Medical Sciences, Wuhan University, Wuhan, Hubei, China. Electronic address:
+      houwei@whu.edu.cn.
+FAU - Zhang, Yuanzhen
+AU  - Zhang Y
+AD  - Department of Gynaecology and Obstetrics, Zhongnan Hospital of Wuhan University, 
+      Wuhan, Hubei, China; Clinical Medicine Research Centre of Prenatal Diagnosis and 
+      Birth Health in Hubei Province, Wuhan, Hubei, China. Electronic address:
+      zhangyuanzhen@whu.edu.cn.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200212
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - AIM
+SB  - IM
+CIN - J Formos Med Assoc. 2020 Mar;119(3):670-673. PMID: 32139299
+CIN - Lancet. 2020 Mar 7;395(10226):760-762. PMID: 32151334
+CIN - Nat Med. 2020 Mar;26(3):312. PMID: 32161408
+MH  - *Betacoronavirus/isolation & purification/pathogenicity
+MH  - Cesarean Section
+MH  - Coronavirus Infections/complications/*transmission
+MH  - Cough/etiology
+MH  - Dyspepsia/etiology
+MH  - Female
+MH  - Fever/etiology
+MH  - Humans
+MH  - Infant, Newborn
+MH  - *Infectious Disease Transmission, Vertical
+MH  - Myalgia/etiology
+MH  - Pharyngitis/etiology
+MH  - Pneumonia, Viral/complications/diagnosis/*transmission
+MH  - Pregnancy
+MH  - *Pregnancy Complications, Infectious/diagnosis
+MH  - Pregnancy Outcome
+MH  - Pregnancy Trimester, Third
+MH  - Retrospective Studies
+EDAT- 2020/03/11 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/03/11 06:00
+PHST- 2020/02/04 00:00 [received]
+PHST- 2020/02/08 00:00 [revised]
+PHST- 2020/02/08 00:00 [accepted]
+PHST- 2020/03/11 06:00 [entrez]
+PHST- 2020/03/11 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+AID - S0140-6736(20)30360-3 [pii]
+AID - 10.1016/S0140-6736(20)30360-3 [doi]
+PST - ppublish
+SO  - Lancet. 2020 Mar 7;395(10226):809-815. doi: 10.1016/S0140-6736(20)30360-3. Epub
+      2020 Feb 12.
+
+PMID- 32017661
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20200325
+IS  - 1527-1315 (Electronic)
+IS  - 0033-8419 (Linking)
+VI  - 295
+IP  - 1
+DP  - 2020 Apr
+TI  - CT Imaging Features of 2019 Novel Coronavirus (2019-nCoV).
+PG  - 202-207
+LID - 10.1148/radiol.2020200230 [doi]
+AB  - In this retrospective case series, chest CT scans of 21 symptomatic patients from
+      China infected with the 2019 novel coronavirus (2019-nCoV) were reviewed, with
+      emphasis on identifying and characterizing the most common findings. Typical CT
+      findings included bilateral pulmonary parenchymal ground-glass and consolidative 
+      pulmonary opacities, sometimes with a rounded morphology and a peripheral lung
+      distribution. Notably, lung cavitation, discrete pulmonary nodules, pleural
+      effusions, and lymphadenopathy were absent. Follow-up imaging in a subset of
+      patients during the study time window often demonstrated mild or moderate
+      progression of disease, as manifested by increasing extent and density of lung
+      opacities.
+CI  - (c) RSNA, 2020.
+FAU - Chung, Michael
+AU  - Chung M
+AUID- ORCID: 0000-0002-0976-4088
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Bernheim, Adam
+AU  - Bernheim A
+AUID- ORCID: 0000-0001-9847-4498
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Mei, Xueyan
+AU  - Mei X
+AUID- ORCID: 0000-0001-7224-7318
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Zhang, Ning
+AU  - Zhang N
+AUID- ORCID: 0000-0001-8214-7951
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Huang, Mingqian
+AU  - Huang M
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Zeng, Xianjun
+AU  - Zeng X
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Cui, Jiufa
+AU  - Cui J
+AUID- ORCID: 0000-0001-7012-5114
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Xu, Wenjian
+AU  - Xu W
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Yang, Yang
+AU  - Yang Y
+AUID- ORCID: 0000-0002-2841-4243
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Fayad, Zahi A
+AU  - Fayad ZA
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Jacobi, Adam
+AU  - Jacobi A
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Li, Kunwei
+AU  - Li K
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Li, Shaolin
+AU  - Li S
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+FAU - Shan, Hong
+AU  - Shan H
+AUID- ORCID: 0000-0001-6640-1390
+AD  - From the Department of Diagnostic, Molecular, and Interventional Radiology (M.C.,
+      A.B., M.H., Z.A.F., A.J.) and BioMedical Engineering and Imaging Institute (X.M.,
+      Y.Y., Z.A.F.), Icahn School of Medicine at Mount Sinai, New York, NY; Department 
+      of Radiology, The First Affiliated Hospital of Nanchang University, Nanchang,
+      China (N.Z., X.Z.); Department of Radiology, The Affiliated Hospital of Qingdao
+      University, Qingdao, China (J.C., W.X.); and Guangdong Provincial Key Laboratory 
+      of Biomedical Imaging, Department of Radiology, The Fifth Affiliated Hospital,
+      Sun Yat-sen University, 52 East Meihua Rd, New Xiangzhou, Zhuhai, Guangdong
+      Province, China, 519000 (K.L., S.L., H.S.).
+LA  - eng
+PT  - Journal Article
+DEP - 20200204
+PL  - United States
+TA  - Radiology
+JT  - Radiology
+JID - 0401260
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Betacoronavirus/*isolation & purification
+MH  - Coronavirus Infections/complications/*diagnostic imaging/pathology
+MH  - Disease Progression
+MH  - Female
+MH  - Humans
+MH  - Lung/*diagnostic imaging/pathology
+MH  - Male
+MH  - Middle Aged
+MH  - Pneumonia, Viral/complications/*diagnostic imaging/pathology
+MH  - Retrospective Studies
+MH  - Severe Acute Respiratory Syndrome/diagnostic imaging
+MH  - *Tomography, X-Ray Computed
+EDAT- 2020/02/06 06:00
+MHDA- 2020/03/21 06:00
+CRDT- 2020/02/05 06:00
+PHST- 2020/02/06 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+PHST- 2020/02/05 06:00 [entrez]
+AID - 10.1148/radiol.2020200230 [doi]
+PST - ppublish
+SO  - Radiology. 2020 Apr;295(1):202-207. doi: 10.1148/radiol.2020200230. Epub 2020 Feb
+      4.
+
+PMID- 32182811
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200323
+LR  - 20200325
+IS  - 1660-4601 (Electronic)
+IS  - 1660-4601 (Linking)
+VI  - 17
+IP  - 5
+DP  - 2020 Mar 9
+TI  - Reverse Logistics Network Design for Effective Management of Medical Waste in
+      Epidemic Outbreaks: Insights from the Coronavirus Disease 2019 (COVID-19)
+      Outbreak in Wuhan (China).
+LID - E1770 [pii]
+LID - 10.3390/ijerph17051770 [doi]
+AB  - The outbreak of an epidemic disease may pose significant treats to human beings
+      and may further lead to a global crisis. In order to control the spread of an
+      epidemic, the effective management of rapidly increased medical waste through
+      establishing a temporary reverse logistics system is of vital importance.
+      However, no research has been conducted with the focus on the design of an
+      epidemic reverse logistics network for dealing with medical waste during epidemic
+      outbreaks, which, if improperly treated, may accelerate disease spread and pose a
+      significant risk for both medical staffs and patients. Therefore, this paper
+      proposes a novel multi-objective multi-period mixed integer program for reverse
+      logistics network design in epidemic outbreaks, which aims at determining the
+      best locations of temporary facilities and the transportation strategies for
+      effective management of the exponentially increased medical waste within a very
+      short period. The application of the model is illustrated with a case study based
+      on the outbreak of the coronavirus disease 2019 (COVID-19) in Wuhan, China. Even 
+      though the uncertainty of the future COVID-19 spread tendency is very high at the
+      time of this research, several general policy recommendations can still be
+      obtained based on computational experiments and quantitative analyses. Among
+      other insights, the results suggest installing temporary incinerators may be an
+      effective solution for managing the tremendous increase of medical waste during
+      the COVID-19 outbreak in Wuhan, but the location selection of these temporary
+      incinerators is of significant importance. Due to the limitation on available
+      data and knowledge at present stage, more real-world information are needed to
+      assess the effectiveness of the current solution.
+FAU - Yu, Hao
+AU  - Yu H
+AUID- ORCID: 0000-0002-2091-5983
+AD  - Department of Industrial Engineering, UiT The Arctic University of Norway, Lodve 
+      Langesgate 2, 8514 Narvik, Norway.
+FAU - Sun, Xu
+AU  - Sun X
+AD  - Department of Industrial Engineering, UiT The Arctic University of Norway, Lodve 
+      Langesgate 2, 8514 Narvik, Norway.
+FAU - Solvang, Wei Deng
+AU  - Solvang WD
+AUID- ORCID: 0000-0002-3723-9205
+AD  - Department of Industrial Engineering, UiT The Arctic University of Norway, Lodve 
+      Langesgate 2, 8514 Narvik, Norway.
+FAU - Zhao, Xu
+AU  - Zhao X
+AD  - School of Economics and Management, China Three Gorges University, Yichang
+      443002, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20200309
+PL  - Switzerland
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+RN  - 0 (Medical Waste)
+RN  - 0 (Medical Waste Disposal)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Betacoronavirus
+MH  - China/epidemiology
+MH  - Coronavirus Infections/*epidemiology
+MH  - *Disease Outbreaks
+MH  - Epidemics
+MH  - Humans
+MH  - *Medical Waste
+MH  - *Medical Waste Disposal
+MH  - Operations Research
+MH  - Pneumonia, Viral/*epidemiology
+MH  - Problem Solving
+MH  - Uncertainty
+MH  - Waste Management/*methods
+PMC - PMC7084373
+OTO - NOTNLM
+OT  - *epidemic logistics
+OT  - *epidemic outbreak
+OT  - *medical waste
+OT  - *network design
+OT  - *operations research
+OT  - *reverse logistics
+EDAT- 2020/03/19 06:00
+MHDA- 2020/03/24 06:00
+CRDT- 2020/03/19 06:00
+PHST- 2020/02/26 00:00 [received]
+PHST- 2020/03/04 00:00 [revised]
+PHST- 2020/03/07 00:00 [accepted]
+PHST- 2020/03/19 06:00 [entrez]
+PHST- 2020/03/19 06:00 [pubmed]
+PHST- 2020/03/24 06:00 [medline]
+AID - ijerph17051770 [pii]
+AID - 10.3390/ijerph17051770 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2020 Mar 9;17(5). pii: ijerph17051770. doi:
+      10.3390/ijerph17051770.
+
+PMID- 32075786
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200228
+LR  - 20200228
+IS  - 1756-1833 (Electronic)
+IS  - 0959-8138 (Linking)
+VI  - 368
+DP  - 2020 Feb 19
+TI  - Clinical findings in a group of patients infected with the 2019 novel coronavirus
+      (SARS-Cov-2) outside of Wuhan, China: retrospective case series.
+PG  - m606
+LID - 10.1136/bmj.m606 [doi]
+AB  - OBJECTIVE: To study the clinical characteristics of patients in Zhejiang
+      province, China, infected with the 2019 severe acute respiratory syndrome
+      coronavirus 2 (SARS-Cov-2) responsible for coronavirus disease 2019 (covid-2019).
+      DESIGN: Retrospective case series. SETTING: Seven hospitals in Zhejiang province,
+      China. PARTICIPANTS: 62 patients admitted to hospital with laboratory confirmed
+      SARS-Cov-2 infection. Data were collected from 10 January 2020 to 26 January
+      2020. MAIN OUTCOME MEASURES: Clinical data, collected using a standardised case
+      report form, such as temperature, history of exposure, incubation period. If
+      information was not clear, the working group in Hangzhou contacted the doctor
+      responsible for treating the patient for clarification. RESULTS: Of the 62
+      patients studied (median age 41 years), only one was admitted to an intensive
+      care unit, and no patients died during the study. According to research, none of 
+      the infected patients in Zhejiang province were ever exposed to the Huanan
+      seafood market, the original source of the virus; all studied cases were infected
+      by human to human transmission. The most common symptoms at onset of illness were
+      fever in 48 (77%) patients, cough in 50 (81%), expectoration in 35 (56%),
+      headache in 21 (34%), myalgia or fatigue in 32 (52%), diarrhoea in 3 (8%), and
+      haemoptysis in 2 (3%). Only two patients (3%) developed shortness of breath on
+      admission. The median time from exposure to onset of illness was 4 days
+      (interquartile range 3-5 days), and from onset of symptoms to first hospital
+      admission was 2 (1-4) days. CONCLUSION: As of early February 2020, compared with 
+      patients initially infected with SARS-Cov-2 in Wuhan, the symptoms of patients in
+      Zhejiang province are relatively mild.
+CI  - Published by the BMJ Publishing Group Limited. For permission to use (where not
+      already granted under a licence) please go to
+      http://group.bmj.com/group/rights-licensing/permissions.
+FAU - Xu, Xiao-Wei
+AU  - Xu XW
+AD  - State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National
+      Clinical Research Centre for Infectious Diseases, Collaborative Innovation Centre
+      for Diagnosis and Treatment of Infectious Diseases, the First Affiliated
+      Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang Province, 
+      310003, China.
+FAU - Wu, Xiao-Xin
+AU  - Wu XX
+AD  - State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National
+      Clinical Research Centre for Infectious Diseases, Collaborative Innovation Centre
+      for Diagnosis and Treatment of Infectious Diseases, the First Affiliated
+      Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang Province, 
+      310003, China.
+FAU - Jiang, Xian-Gao
+AU  - Jiang XG
+AD  - Department of Infectious Disease, Wenzhou Central Hospital, Wenzhou, Zhejiang
+      Province, China.
+FAU - Xu, Kai-Jin
+AU  - Xu KJ
+AD  - State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National
+      Clinical Research Centre for Infectious Diseases, Collaborative Innovation Centre
+      for Diagnosis and Treatment of Infectious Diseases, the First Affiliated
+      Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang Province, 
+      310003, China.
+FAU - Ying, Ling-Jun
+AU  - Ying LJ
+AD  - Department of Infectious Disease, Taizhou Enze Medical Centre (Group), Enze
+      Hospital, Taizhou, Zhejiang Province, China.
+FAU - Ma, Chun-Lian
+AU  - Ma CL
+AD  - Department of Infectious Disease, First People's Hospital of Wenling, Wenling,
+      Zhejiang Province, China.
+FAU - Li, Shi-Bo
+AU  - Li SB
+AD  - Department of Infectious Disease, Affiliated Zhoushan Hospital, Wenzhou Medical
+      University, Zhoushan, Zhejiang Province, China ljli@zju.edu.cn.
+FAU - Wang, Hua-Ying
+AU  - Wang HY
+AD  - Department of Respiratory and Critical Care Medicine, Yinzhou People's Hospital, 
+      Affiliated Yinzhou Hospital, College of Medicine, Ningbo University, Ningbo City,
+      Zhejiang Province, China.
+FAU - Zhang, Sheng
+AU  - Zhang S
+AD  - Department of Infectious Disease, Taizhou Hospital, Taizhou, Zhejiang Province,
+      China.
+FAU - Gao, Hai-Nv
+AU  - Gao HN
+AD  - Department of Infectious Disease, ShuLan (Hangzhou) Hospital affiliated to
+      Zhejiang Shuren University Shulan International Medical College, Hangzhou,
+      Zhejiang Province, China.
+FAU - Sheng, Ji-Fang
+AU  - Sheng JF
+AD  - State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National
+      Clinical Research Centre for Infectious Diseases, Collaborative Innovation Centre
+      for Diagnosis and Treatment of Infectious Diseases, the First Affiliated
+      Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang Province, 
+      310003, China.
+FAU - Cai, Hong-Liu
+AU  - Cai HL
+AD  - State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National
+      Clinical Research Centre for Infectious Diseases, Collaborative Innovation Centre
+      for Diagnosis and Treatment of Infectious Diseases, the First Affiliated
+      Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang Province, 
+      310003, China.
+FAU - Qiu, Yun-Qing
+AU  - Qiu YQ
+AD  - State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National
+      Clinical Research Centre for Infectious Diseases, Collaborative Innovation Centre
+      for Diagnosis and Treatment of Infectious Diseases, the First Affiliated
+      Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang Province, 
+      310003, China.
+FAU - Li, Lan-Juan
+AU  - Li LJ
+AUID- ORCID: https://orcid.org/0000-0001-6945-0593
+AD  - State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National
+      Clinical Research Centre for Infectious Diseases, Collaborative Innovation Centre
+      for Diagnosis and Treatment of Infectious Diseases, the First Affiliated
+      Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang Province, 
+      310003, China ljli@zju.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+DEP - 20200219
+PL  - England
+TA  - BMJ
+JT  - BMJ (Clinical research ed.)
+JID - 8900488
+SB  - AIM
+SB  - IM
+CIN - BMJ. 2020 Feb 19;368:m627. PMID: 32075791
+CIN - BMJ. 2020 Mar 20;368:m1113. PMID: 32198267
+EIN - BMJ. 2020 Feb 27;368:m792. PMID: 32107200
+MH  - Adolescent
+MH  - Adult
+MH  - Child
+MH  - China/epidemiology
+MH  - Coronavirus Infections/*diagnosis/epidemiology/transmission
+MH  - Cough/virology
+MH  - Female
+MH  - Fever/virology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Radiography, Thoracic
+MH  - Retrospective Studies
+MH  - Severe Acute Respiratory Syndrome/*diagnosis/epidemiology/transmission/virology
+MH  - Tomography, X-Ray Computed
+MH  - Young Adult
+COIS- Competing interests: All authors have completed the ICMJE uniform disclosure form
+      at www.icmje.org/coi_disclosure.pdf and declare: no support from any organisation
+      for the submitted work; no financial relationships with any organisations that
+      might have an interest in the submitted work in the previous three years; no
+      other relationships or activities that could appear to have influenced the
+      submitted work.
+EDAT- 2020/02/23 06:00
+MHDA- 2020/02/29 06:00
+CRDT- 2020/02/21 06:00
+PHST- 2020/02/21 06:00 [entrez]
+PHST- 2020/02/23 06:00 [pubmed]
+PHST- 2020/02/29 06:00 [medline]
+AID - 10.1136/bmj.m606 [doi]
+PST - epublish
+SO  - BMJ. 2020 Feb 19;368:m606. doi: 10.1136/bmj.m606.
+
 PMID- 32102625
 OWN - NLM
 STAT- MEDLINE
@@ -146,6 +955,1107 @@ PST - epublish
 SO  - Emerg Microbes Infect. 2020 Feb 26;9(1):469-473. doi:
       10.1080/22221751.2020.1732837. eCollection 2020.
 
+PMID- 32164089
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20200325
+IS  - 1001-0939 (Print)
+IS  - 1001-0939 (Linking)
+VI  - 43
+IP  - 3
+DP  - 2020 Mar 12
+TI  - [Analysis of clinical features of 29 patients with 2019 novel coronavirus
+      pneumonia].
+PG  - 203-208
+LID - 10.3760/cma.j.issn.1001-0939.2020.03.013 [doi]
+AB  - Objective: To analyze the clinical characteristics of 2019 novel coronavirus
+      (2019-nCoV) pneumonia and to investigate the correlation between serum
+      inflammatory cytokines and severity of the disease. Methods: 29 patients with
+      2019-ncov admitted to the isolation ward of Tongji hospital affiliated to Tongji 
+      medical college of Huazhong University of Science and Technology in January 2020 
+      were selected as the study subjects. Clinical data were collected and the general
+      information, clinical symptoms, blood test and CT imaging characteristics were
+      analyzed. According to the relevant diagnostic criteria, the patients were
+      divided into three groups: mild (15 cases), severe (9 cases) and critical (5
+      cases). The expression levels of inflammatory cytokines and other markers in the 
+      serum of each group were detected, and the changes of these indicators of the
+      three groups were compared and analyzed, as well as their relationship with the
+      clinical classification of the disease. Results: (1) The main symptoms of
+      2019-nCoV pneumonia was fever (28/29) with or without respiratory and other
+      systemic symptoms. Two patients died with underlying disease and co-bacterial
+      infection, respectively. (2) The blood test of the patients showed normal or
+      decreased white blood cell count (23/29), decreased lymphocyte count (20/29),
+      increased hypersensitive C reactive protein (hs-CRP) (27/29), and normal
+      procalcitonin. In most patients, serum lactate dehydrogenase (LDH) was
+      significantly increased (20/29), while albumin was decreased (15/29). Alanine
+      aminotransferase (ALT), aspartate aminotransferase (AST), total bilirubin (Tbil),
+      serum creatinine (Scr) and other items showed no significant changes. (3) CT
+      findings of typical cases were single or multiple patchy ground glass shadows
+      accompanied by septal thickening. When the disease progresses, the lesion
+      increases and the scope expands, and the ground glass shadow coexists with the
+      solid shadow or the stripe shadow. (4) There were statistically significant
+      differences in the expression levels of interleukin-2 receptor (IL-2R) and IL-6
+      in the serum of the three groups (P<0.05), among which the critical group was
+      higher than the severe group and the severe group was higher than the mild group.
+      However, there were no statistically significant differences in serum levels of
+      tumor necrosis factor-alpha (TNF-alpha), IL-1, IL-8, IL-10, hs-CRP, lymphocyte
+      count and LDH among the three groups (P>0.05). Conclusion: The clinical
+      characteristics of 2019-nCoV pneumonia are similar to those of common viral
+      pneumonia. High resolution CT is of great value in the differential diagnosis of 
+      this disease. The increased expression of IL-2R and IL-6 in serum is expected to 
+      predict the severity of the 2019-nCoV pneumonia and the prognosis of patients.
+FAU - Chen, L
+AU  - Chen L
+AD  - Department of Respiratory and Critical Care Medicine, Tongji Hospital, Tongji
+      Medical College Huazhong University of Science and Technology, Wuhan 430030,
+      China.
+FAU - Liu, H G
+AU  - Liu HG
+AD  - Department of Respiratory and Critical Care Medicine, Tongji Hospital, Tongji
+      Medical College Huazhong University of Science and Technology, Wuhan 430030,
+      China.
+FAU - Liu, W
+AU  - Liu W
+AD  - Department of Respiratory and Critical Care Medicine, the Central Hospital of
+      Wuhan, Tongji Medical College, Huazhong University of Science and Technology,
+      Wuhan 430014, China.
+FAU - Liu, J
+AU  - Liu J
+AD  - Department of Radiology, Wuhan Pulmonary Hospital, Tongji Medical College,
+      Huazhong University of Science and Technology, Wuhan 430030, China.
+FAU - Liu, K
+AU  - Liu K
+AD  - Department of Respiratory and Critical Care Medicine, Tongji Hospital, Tongji
+      Medical College Huazhong University of Science and Technology, Wuhan 430030,
+      China.
+FAU - Shang, J
+AU  - Shang J
+AD  - Department of Respiratory and Critical Care Medicine, Tongji Hospital, Tongji
+      Medical College Huazhong University of Science and Technology, Wuhan 430030,
+      China.
+FAU - Deng, Y
+AU  - Deng Y
+AD  - Department of Respiratory and Critical Care Medicine, Tongji Hospital, Tongji
+      Medical College Huazhong University of Science and Technology, Wuhan 430030,
+      China.
+FAU - Wei, S
+AU  - Wei S
+AD  - Department of Respiratory and Critical Care Medicine, Tongji Hospital, Tongji
+      Medical College Huazhong University of Science and Technology, Wuhan 430030,
+      China.
+LA  - chi
+PT  - Journal Article
+PL  - China
+TA  - Zhonghua Jie He He Hu Xi Za Zhi
+JT  - Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal 
+      of tuberculosis and respiratory diseases
+JID - 8712226
+RN  - 0 (Biomarkers)
+RN  - 0 (Cytokines)
+RN  - 0 (IL6 protein, human)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Receptors, Interleukin-2)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Betacoronavirus/*isolation & purification
+MH  - *Biomarkers/blood
+MH  - Coronavirus Infections/*diagnosis/metabolism
+MH  - Cytokines/blood
+MH  - Humans
+MH  - Interleukin-6/*metabolism
+MH  - Lung/diagnostic imaging
+MH  - Pneumonia, Viral/*diagnosis/metabolism
+MH  - Prognosis
+MH  - Receptors, Interleukin-2/*metabolism
+MH  - Retrospective Studies
+MH  - Severity of Illness Index
+MH  - Tomography, X-Ray Computed
+OTO - NOTNLM
+OT  - 2019 novel coronavirus pneumonia
+OT  - Clinical features
+OT  - Disease severity
+OT  - Inflammatory cytokines
+EDAT- 2020/03/14 06:00
+MHDA- 2020/03/21 06:00
+CRDT- 2020/03/13 06:00
+PHST- 2020/03/13 06:00 [entrez]
+PHST- 2020/03/14 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+AID - 10.3760/cma.j.issn.1001-0939.2020.03.013 [doi]
+PST - ppublish
+SO  - Zhonghua Jie He He Hu Xi Za Zhi. 2020 Mar 12;43(3):203-208. doi:
+      10.3760/cma.j.issn.1001-0939.2020.03.013.
+
+PMID- 32037389
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1881-7823 (Electronic)
+IS  - 1881-7815 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2020 Mar 16
+TI  - Clinical characteristics and therapeutic procedure for four cases with 2019 novel
+      coronavirus pneumonia receiving combined Chinese and Western medicine treatment.
+PG  - 64-68
+LID - 10.5582/bst.2020.01030 [doi]
+AB  - Pneumonia associated with the 2019 novel coronavirus (2019-nCoV) is continuously 
+      and rapidly circulating at present. No effective antiviral treatment has been
+      verified thus far. We report here the clinical characteristics and therapeutic
+      procedure for four patients with mild or severe 2019-nCoV pneumonia admitted to
+      Shanghai Public Health Clinical Center. All the patients were given antiviral
+      treatment including lopinavir/ritonavir (Kaletra((R))), arbidol, and Shufeng
+      Jiedu Capsule (SFJDC, a traditional Chinese medicine) and other necessary support
+      care. After treatment, three patients gained significant improvement in pneumonia
+      associated symptoms, two of whom were confirmed 2019-nCoV negative and
+      discharged, and one of whom was virus negative at the first test. The remaining
+      patient with severe pneumonia had shown signs of improvement by the cutoff date
+      for data collection. Results obtained in the current study may provide clues for 
+      treatment of 2019-nCoV pneumonia. The efficacy of antiviral treatment including
+      lopinavir/ritonavir, arbidol, and SFJDC warrants further verification in future
+      study.
+FAU - Wang, Zhenwei
+AU  - Wang Z
+AD  - Department of Respiratory Disease, Yueyang Hospital of Integrated Traditional
+      Chinese and Western Medicine, Shanghai University of Traditional Chinese
+      Medicine, Shanghai, China.
+FAU - Chen, Xiaorong
+AU  - Chen X
+AD  - Department of Traditional Chinese Medicine, Shanghai Public Health Clinical
+      Center, Shanghai, China.
+FAU - Lu, Yunfei
+AU  - Lu Y
+AD  - Department of Traditional Chinese Medicine, Shanghai Public Health Clinical
+      Center, Shanghai, China.
+FAU - Chen, Feifei
+AU  - Chen F
+AD  - Department of Respiratory Disease, Shuguang Hospital Affiliated to Shanghai
+      University of Traditional Chinese Medicine, Shanghai, China.
+FAU - Zhang, Wei
+AU  - Zhang W
+AD  - Department of Respiratory Disease, Shuguang Hospital Affiliated to Shanghai
+      University of Traditional Chinese Medicine, Shanghai, China.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20200209
+PL  - Japan
+TA  - Biosci Trends
+JT  - Bioscience trends
+JID - 101502754
+RN  - 0 (Antiviral Agents)
+RN  - 0 (Drug Combinations)
+RN  - 0 (Drugs, Chinese Herbal)
+RN  - 0 (Indoles)
+RN  - 0 (lopinavir-ritonavir drug combination)
+RN  - 0 (shufeng jiedu)
+RN  - 2494G1JF75 (Lopinavir)
+RN  - 93M09WW4RU (arbidol)
+RN  - O3J8G9O825 (Ritonavir)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Adult
+MH  - Antiviral Agents/*therapeutic use
+MH  - *Betacoronavirus
+MH  - China
+MH  - Coronavirus Infections/*drug therapy
+MH  - Drug Combinations
+MH  - Drugs, Chinese Herbal/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Indoles/*therapeutic use
+MH  - Lopinavir/*therapeutic use
+MH  - Male
+MH  - Middle Aged
+MH  - Pneumonia, Viral/*drug therapy
+MH  - Retrospective Studies
+MH  - Ritonavir/*therapeutic use
+MH  - Young Adult
+OTO - NOTNLM
+OT  - 2019-nCoV
+OT  - Shufeng Jiedu Capsule
+OT  - arbidol
+OT  - lopinavir
+OT  - ritonavir
+EDAT- 2020/02/11 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/02/11 06:00
+PHST- 2020/02/11 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+PHST- 2020/02/11 06:00 [entrez]
+AID - 10.5582/bst.2020.01030 [doi]
+PST - ppublish
+SO  - Biosci Trends. 2020 Mar 16;14(1):64-68. doi: 10.5582/bst.2020.01030. Epub 2020
+      Feb 9.
+
+PMID- 32198267
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200324
+LR  - 20200325
+IS  - 1756-1833 (Electronic)
+IS  - 0959-8138 (Linking)
+VI  - 368
+DP  - 2020 Mar 20
+TI  - Covid-19 fatality is likely overestimated.
+PG  - m1113
+LID - 10.1136/bmj.m1113 [doi]
+FAU - Niforatos, Joshua D
+AU  - Niforatos JD
+AD  - Department of Emergency Medicine, Johns Hopkins School of Medicine, 1830 E
+      Monument Street, Suite 6-100, Baltimore, MD 21205, USA.
+FAU - Melnick, Edward R
+AU  - Melnick ER
+AD  - Department of Emergency Medicine, Yale School of Medicine, New Haven, CT, USA.
+FAU - Faust, Jeremy S
+AU  - Faust JS
+AD  - Department of Emergency Medicine, Brigham and Women's Hospital, Boston, MA, USA.
+LA  - eng
+PT  - Letter
+PT  - Comment
+DEP - 20200320
+PL  - England
+TA  - BMJ
+JT  - BMJ (Clinical research ed.)
+JID - 8900488
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - AIM
+SB  - IM
+CON - BMJ. 2020 Feb 19;368:m606. PMID: 32075786
+MH  - Betacoronavirus
+MH  - China
+MH  - *Coronavirus
+MH  - Coronavirus Infections
+MH  - Humans
+MH  - Pneumonia, Viral
+MH  - Retrospective Studies
+MH  - *SARS Virus
+COIS- Competing interests: None declared.
+EDAT- 2020/03/22 06:00
+MHDA- 2020/03/25 06:00
+CRDT- 2020/03/22 06:00
+PHST- 2020/03/22 06:00 [entrez]
+PHST- 2020/03/22 06:00 [pubmed]
+PHST- 2020/03/25 06:00 [medline]
+AID - 10.1136/bmj.m1113 [doi]
+PST - epublish
+SO  - BMJ. 2020 Mar 20;368:m1113. doi: 10.1136/bmj.m1113.
+
+PMID- 32161968
+OWN - NLM
+STAT- Publisher
+LR  - 20200312
+IS  - 1537-6591 (Electronic)
+IS  - 1058-4838 (Linking)
+DP  - 2020 Mar 12
+TI  - A comparative study on the clinical features of COVID-19 pneumonia to other
+      pneumonias.
+LID - ciaa247 [pii]
+LID - 10.1093/cid/ciaa247 [doi]
+AB  - BACKGROUND: A novel coronavirus (2019-nCoV) has raised world concern since it
+      emerged in Wuhan Hubei China in December, 2019. The infection may result into
+      severe pneumonia with clusters illness onsets. Its impacts on public health make 
+      it paramount to clarify the clinical features with other pneumonias. METHODS:
+      Nineteen 2019-nCoV pneumonia (NCOVID-19) and fifteen other pneumonia patients
+      (NON-NCOVID-19) in out of Hubei places were involved in this study. Both
+      NCOVID-19 and NON-NCOVID-19 patients were confirmed to be infected in throat
+      swabs or/and sputa with or without 2019-nCoV by real-time RT-PCR. We analyzed the
+      demographic, epidemiological, clinical, and radiological features from those
+      patients, and compared the difference between NCOVID-19 and NON-NCOVID-19.
+      RESULTS: All patients had a history of exposure to confirmed case of 2019-nCoV or
+      travel to Hubei before illness. The median duration, respectively, was 8
+      (IQR:6~11) and 5 (IQR:4~11) days from exposure to onset in NCOVID-19 and
+      NON-NCOVID-19. The clinical symptoms were similar between NCOVID-19 and
+      NON-NCOVID-19. The most common symptoms were fever and cough. Fifteen (78.95%)
+      NCOVID-19 but 4 (26.67%) NON-NCOVID-19 patients had bilateral involvement while
+      17 (89.47%) NCOVID-19 but 1 (6.67%) NON-NCOVID-19 patients had multiple mottling 
+      and ground-glass opacity of chest CT images. Compared to NON-NCOVID-19, NCOVID-19
+      present remarkably more abnormal laboratory tests including AST, ALT, gamma-GT,
+      LDH and alpha-HBDH. CONCLUSION: The 2019-nCoV infection caused similar onsets to 
+      other pneumonias. CT scan may be a reliable test for screening NCOVID-19 cases.
+      Liver function damage is more frequent in NCOVID-19 than NON-NCOVID-19 patients. 
+      LDH and alpha-HBDH may be considerable markers for evaluation of NCOVID-19.
+CI  - (c) The Author(s) 2020. Published by Oxford University Press for the Infectious
+      Diseases Society of America. All rights reserved. For permissions, e-mail:
+      journals.permissions@oup.com.
+FAU - Zhao, Dahai
+AU  - Zhao D
+AD  - Department of Respiratory and Critical Care Medicine, the Second Affiliated
+      Hospital, Anhui Medical University, Hefei, Anhui Province, China.
+FAU - Yao, Feifei
+AU  - Yao F
+AD  - Department of Respiratory Medicine, Suzhou Municipal Hospital, Suzhou, Anhui,
+      China.
+FAU - Wang, Lijie
+AU  - Wang L
+AD  - State Key Laboratory of Infectious Disease Prevention and Control, National
+      Center for AIDS/STD Control and Prevention, Collaborative Innovation Center for
+      Diagnosis and Treatment of Infectious Diseases, Chinese Center for Disease
+      Control and Prevention, Beijing, China.
+FAU - Zheng, Ling
+AU  - Zheng L
+AD  - Department of Respiratory and Critical Care Medicine, the Second Affiliated
+      Hospital, Anhui Medical University, Hefei, Anhui Province, China.
+FAU - Gao, Yongjun
+AU  - Gao Y
+AD  - National Institute for Viral Disease Control and Prevention, Chinese Center for
+      Disease Control and Prevention, Key Laboratory for Medical Virology, National
+      Health and Family Planning Commission, Beijing, China.
+FAU - Ye, Jun
+AU  - Ye J
+AD  - Infectious disease department, the Second Affiliated Hospital, Anhui Medical
+      University, Hefei, Anhui Province, China.
+FAU - Guo, Feng
+AU  - Guo F
+AD  - Department of Respiratory Medicine, Suzhou Municipal Hospital, Suzhou, Anhui,
+      China.
+FAU - Zhao, Hui
+AU  - Zhao H
+AD  - Department of Respiratory and Critical Care Medicine, the Second Affiliated
+      Hospital, Anhui Medical University, Hefei, Anhui Province, China.
+FAU - Gao, Rongbao
+AU  - Gao R
+AD  - National Institute for Viral Disease Control and Prevention, Chinese Center for
+      Disease Control and Prevention, Key Laboratory for Medical Virology, National
+      Health and Family Planning Commission, Beijing, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20200312
+PL  - United States
+TA  - Clin Infect Dis
+JT  - Clinical infectious diseases : an official publication of the Infectious Diseases
+      Society of America
+JID - 9203213
+SB  - IM
+OTO - NOTNLM
+OT  - Clinical features
+OT  - Infectious diseases
+OT  - Novel coronavirus pneumonia
+OT  - Respiratory infection
+EDAT- 2020/03/13 06:00
+MHDA- 2020/03/13 06:00
+CRDT- 2020/03/13 06:00
+PHST- 2020/02/14 00:00 [received]
+PHST- 2020/03/13 06:00 [entrez]
+PHST- 2020/03/13 06:00 [pubmed]
+PHST- 2020/03/13 06:00 [medline]
+AID - 5803302 [pii]
+AID - 10.1093/cid/ciaa247 [doi]
+PST - aheadofprint
+SO  - Clin Infect Dis. 2020 Mar 12. pii: 5803302. doi: 10.1093/cid/ciaa247.
+
+PMID- 32007143
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200313
+LR  - 20200325
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+VI  - 395
+IP  - 10223
+DP  - 2020 Feb 15
+TI  - Epidemiological and clinical characteristics of 99 cases of 2019 novel
+      coronavirus pneumonia in Wuhan, China: a descriptive study.
+PG  - 507-513
+LID - S0140-6736(20)30211-7 [pii]
+LID - 10.1016/S0140-6736(20)30211-7 [doi]
+AB  - BACKGROUND: In December, 2019, a pneumonia associated with the 2019 novel
+      coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed to further clarify the 
+      epidemiological and clinical characteristics of 2019-nCoV pneumonia. METHODS: In 
+      this retrospective, single-centre study, we included all confirmed cases of
+      2019-nCoV in Wuhan Jinyintan Hospital from Jan 1 to Jan 20, 2020. Cases were
+      confirmed by real-time RT-PCR and were analysed for epidemiological, demographic,
+      clinical, and radiological features and laboratory data. Outcomes were followed
+      up until Jan 25, 2020. FINDINGS: Of the 99 patients with 2019-nCoV pneumonia, 49 
+      (49%) had a history of exposure to the Huanan seafood market. The average age of 
+      the patients was 55.5 years (SD 13.1), including 67 men and 32 women. 2019-nCoV
+      was detected in all patients by real-time RT-PCR. 50 (51%) patients had chronic
+      diseases. Patients had clinical manifestations of fever (82 [83%] patients),
+      cough (81 [82%] patients), shortness of breath (31 [31%] patients), muscle ache
+      (11 [11%] patients), confusion (nine [9%] patients), headache (eight [8%]
+      patients), sore throat (five [5%] patients), rhinorrhoea (four [4%] patients),
+      chest pain (two [2%] patients), diarrhoea (two [2%] patients), and nausea and
+      vomiting (one [1%] patient). According to imaging examination, 74 (75%) patients 
+      showed bilateral pneumonia, 14 (14%) patients showed multiple mottling and
+      ground-glass opacity, and one (1%) patient had pneumothorax. 17 (17%) patients
+      developed acute respiratory distress syndrome and, among them, 11 (11%) patients 
+      worsened in a short period of time and died of multiple organ failure.
+      INTERPRETATION: The 2019-nCoV infection was of clustering onset, is more likely
+      to affect older males with comorbidities, and can result in severe and even fatal
+      respiratory diseases such as acute respiratory distress syndrome. In general,
+      characteristics of patients who died were in line with the MuLBSTA score, an
+      early warning model for predicting mortality in viral pneumonia. Further
+      investigation is needed to explore the applicability of the MuLBSTA score in
+      predicting the risk of mortality in 2019-nCoV infection. FUNDING: National Key
+      R&D Program of China.
+CI  - Copyright (c) 2020 Elsevier Ltd. All rights reserved.
+FAU - Chen, Nanshan
+AU  - Chen N
+AD  - Tuberculosis and Respiratory Department, Wuhan Jinyintan Hospital, Wuhan, China.
+FAU - Zhou, Min
+AU  - Zhou M
+AD  - Department of Respiratory and Critical Care Medicine, Ruijin Hospital, Shanghai
+      Jiaotong University School of Medicine, Shanghai, China; Institute of Respiratory
+      Diseases, Shanghai Jiaotong University School of Medicine, Shanghai, China.
+FAU - Dong, Xuan
+AU  - Dong X
+AD  - Tuberculosis and Respiratory Department, Wuhan Jinyintan Hospital, Wuhan, China.
+FAU - Qu, Jieming
+AU  - Qu J
+AD  - Department of Respiratory and Critical Care Medicine, Ruijin Hospital, Shanghai
+      Jiaotong University School of Medicine, Shanghai, China; Institute of Respiratory
+      Diseases, Shanghai Jiaotong University School of Medicine, Shanghai, China.
+FAU - Gong, Fengyun
+AU  - Gong F
+AD  - Infection Disease Department, Wuhan Jinyintan Hospital, Wuhan, China.
+FAU - Han, Yang
+AU  - Han Y
+AD  - Science and Education Department, Wuhan Jinyintan Hospital, Wuhan, China; State
+      Key Laboratory of Virology, Wuhan Institute of Virology, Center for Biosafety
+      Mega-Science, Chinese Academy of Sciences, Wuhan, China.
+FAU - Qiu, Yang
+AU  - Qiu Y
+AD  - State Key Laboratory of Virology, Wuhan Institute of Virology, Center for
+      Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, China.
+FAU - Wang, Jingli
+AU  - Wang J
+AD  - Infection Disease Department, Wuhan Jinyintan Hospital, Wuhan, China.
+FAU - Liu, Ying
+AU  - Liu Y
+AD  - The Office of Drug Clinical Trial Institution, Wuhan Jinyintan Hospital, Wuhan,
+      China.
+FAU - Wei, Yuan
+AU  - Wei Y
+AD  - Tuberculosis and Respiratory Department, Wuhan Jinyintan Hospital, Wuhan, China.
+FAU - Xia, Jia'an
+AU  - Xia J
+AD  - Tuberculosis and Respiratory Department, Wuhan Jinyintan Hospital, Wuhan, China.
+FAU - Yu, Ting
+AU  - Yu T
+AD  - Tuberculosis and Respiratory Department, Wuhan Jinyintan Hospital, Wuhan, China.
+FAU - Zhang, Xinxin
+AU  - Zhang X
+AD  - Research Laboratory of Clinical Virology, Ruijin Hospital and Ruijin Hospital
+      North, Shanghai Jiaotong University School of Medicine, Shanghai, China; Clinical
+      Research Center, Ruijin Hospital North, Shanghai Jiaotong University School of
+      Medicine, Shanghai, China. Electronic address: zhangx@shsmu.edu.cn.
+FAU - Zhang, Li
+AU  - Zhang L
+AD  - Tuberculosis and Respiratory Department, Wuhan Jinyintan Hospital, Wuhan, China. 
+      Electronic address: zhangli080806@163.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200130
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+RN  - COVID-19
+SB  - AIM
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - China/epidemiology
+MH  - Comorbidity
+MH  - Coronavirus Infections/complications/*diagnosis/*epidemiology/therapy
+MH  - Cough/epidemiology/virology
+MH  - Disease Outbreaks
+MH  - Dyspnea/epidemiology/virology
+MH  - Female
+MH  - Fever/epidemiology/virology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Pneumonia, Viral/complications/*diagnosis/*epidemiology/therapy
+MH  - Prognosis
+MH  - Radiography, Thoracic
+MH  - Retrospective Studies
+MH  - Severe Acute Respiratory Syndrome/epidemiology/virology
+MH  - Tomography, X-Ray Computed
+MH  - Young Adult
+EDAT- 2020/02/03 06:00
+MHDA- 2020/03/14 06:00
+CRDT- 2020/02/03 06:00
+PHST- 2020/01/21 00:00 [received]
+PHST- 2020/01/25 00:00 [revised]
+PHST- 2020/01/26 00:00 [accepted]
+PHST- 2020/02/03 06:00 [pubmed]
+PHST- 2020/03/14 06:00 [medline]
+PHST- 2020/02/03 06:00 [entrez]
+AID - S0140-6736(20)30211-7 [pii]
+AID - 10.1016/S0140-6736(20)30211-7 [doi]
+PST - ppublish
+SO  - Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 
+      2020 Jan 30.
+
+PMID- 32015508
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20200325
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+VI  - 579
+IP  - 7798
+DP  - 2020 Mar
+TI  - A new coronavirus associated with human respiratory disease in China.
+PG  - 265-269
+LID - 10.1038/s41586-020-2008-3 [doi]
+AB  - Emerging infectious diseases, such as severe acute respiratory syndrome (SARS)
+      and Zika virus disease, present a major threat to public health(1-3). Despite
+      intense research efforts, how, when and where new diseases appear are still a
+      source of considerable uncertainty. A severe respiratory disease was recently
+      reported in Wuhan, Hubei province, China. As of 25 January 2020, at least 1,975
+      cases had been reported since the first patient was hospitalized on 12 December
+      2019. Epidemiological investigations have suggested that the outbreak was
+      associated with a seafood market in Wuhan. Here we study a single patient who was
+      a worker at the market and who was admitted to the Central Hospital of Wuhan on
+      26 December 2019 while experiencing a severe respiratory syndrome that included
+      fever, dizziness and a cough. Metagenomic RNA sequencing(4) of a sample of
+      bronchoalveolar lavage fluid from the patient identified a new RNA virus strain
+      from the family Coronaviridae, which is designated here 'WH-Human 1' coronavirus 
+      (and has also been referred to as '2019-nCoV'). Phylogenetic analysis of the
+      complete viral genome (29,903 nucleotides) revealed that the virus was most
+      closely related (89.1% nucleotide similarity) to a group of SARS-like
+      coronaviruses (genus Betacoronavirus, subgenus Sarbecovirus) that had previously 
+      been found in bats in China(5). This outbreak highlights the ongoing ability of
+      viral spill-over from animals to cause severe disease in humans.
+FAU - Wu, Fan
+AU  - Wu F
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+FAU - Zhao, Su
+AU  - Zhao S
+AD  - Department of Pulmonary and Critical Care Medicine, The Central Hospital of
+      Wuhan, Tongji Medical College, Huazhong University of Science and Technology,
+      Wuhan, China.
+FAU - Yu, Bin
+AU  - Yu B
+AD  - Wuhan Center for Disease Control and Prevention, Wuhan, China.
+FAU - Chen, Yan-Mei
+AU  - Chen YM
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+FAU - Wang, Wen
+AU  - Wang W
+AD  - Department of Zoonosis, National Institute for Communicable Disease Control and
+      Prevention, China Center for Disease Control and Prevention, Beijing, China.
+FAU - Song, Zhi-Gang
+AU  - Song ZG
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+FAU - Hu, Yi
+AU  - Hu Y
+AUID- ORCID: http://orcid.org/0000-0002-2882-5210
+AD  - Department of Pulmonary and Critical Care Medicine, The Central Hospital of
+      Wuhan, Tongji Medical College, Huazhong University of Science and Technology,
+      Wuhan, China.
+FAU - Tao, Zhao-Wu
+AU  - Tao ZW
+AD  - Department of Pulmonary and Critical Care Medicine, The Central Hospital of
+      Wuhan, Tongji Medical College, Huazhong University of Science and Technology,
+      Wuhan, China.
+FAU - Tian, Jun-Hua
+AU  - Tian JH
+AD  - Wuhan Center for Disease Control and Prevention, Wuhan, China.
+FAU - Pei, Yuan-Yuan
+AU  - Pei YY
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+FAU - Yuan, Ming-Li
+AU  - Yuan ML
+AD  - Department of Pulmonary and Critical Care Medicine, The Central Hospital of
+      Wuhan, Tongji Medical College, Huazhong University of Science and Technology,
+      Wuhan, China.
+FAU - Zhang, Yu-Ling
+AU  - Zhang YL
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+FAU - Dai, Fa-Hui
+AU  - Dai FH
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+FAU - Liu, Yi
+AU  - Liu Y
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+FAU - Wang, Qi-Min
+AU  - Wang QM
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+FAU - Zheng, Jiao-Jiao
+AU  - Zheng JJ
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+FAU - Xu, Lin
+AU  - Xu L
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+FAU - Holmes, Edward C
+AU  - Holmes EC
+AUID- ORCID: http://orcid.org/0000-0001-9596-3552
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+AD  - Marie Bashir Institute for Infectious Diseases and Biosecurity, School of Life
+      and Environmental Sciences and School of Medical Sciences, The University of
+      Sydney, Sydney, New South Wales, Australia.
+FAU - Zhang, Yong-Zhen
+AU  - Zhang YZ
+AD  - Shanghai Public Health Clinical Center, Fudan University, Shanghai, China.
+      zhangyongzhen@shphc.org.cn.
+AD  - Department of Zoonosis, National Institute for Communicable Disease Control and
+      Prevention, China Center for Disease Control and Prevention, Beijing, China.
+      zhangyongzhen@shphc.org.cn.
+AD  - School of Public Health, Fudan University, Shanghai, China.
+      zhangyongzhen@shphc.org.cn.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20200203
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (RNA, Viral)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+CIN - Nature. 2020 Feb;578(7793):7. PMID: 32020126
+MH  - Adult
+MH  - Betacoronavirus/*classification/genetics
+MH  - China
+MH  - Communicable Diseases, Emerging/*complications/diagnostic
+      imaging/pathology/*virology
+MH  - Coronavirus Infections/*complications/diagnostic imaging/pathology/*virology
+MH  - Genome, Viral/genetics
+MH  - Humans
+MH  - Lung/diagnostic imaging
+MH  - Male
+MH  - Phylogeny
+MH  - Pneumonia, Viral/*complications/diagnostic imaging/pathology/*virology
+MH  - RNA, Viral/genetics
+MH  - Recombination, Genetic/genetics
+MH  - Severe Acute Respiratory Syndrome/diagnostic
+      imaging/*etiology/pathology/*virology
+MH  - Tomography, X-Ray Computed
+MH  - Whole Genome Sequencing
+EDAT- 2020/02/06 06:00
+MHDA- 2020/03/21 06:00
+CRDT- 2020/02/05 06:00
+PHST- 2020/01/07 00:00 [received]
+PHST- 2020/01/28 00:00 [accepted]
+PHST- 2020/02/06 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+PHST- 2020/02/05 06:00 [entrez]
+AID - 10.1038/s41586-020-2008-3 [doi]
+AID - 10.1038/s41586-020-2008-3 [pii]
+PST - ppublish
+SO  - Nature. 2020 Mar;579(7798):265-269. doi: 10.1038/s41586-020-2008-3. Epub 2020 Feb
+      3.
+
+PMID- 32149037
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200320
+IS  - 2210-9099 (Print)
+IS  - 2210-9099 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2020 Feb
+TI  - Early Epidemiological and Clinical Characteristics of 28 Cases of Coronavirus
+      Disease in South Korea.
+PG  - 8-14
+LID - 10.24171/j.phrp.2020.11.1.03 [doi]
+AB  - Objectives: The first confirmed case of coronavirus disease 2019 (COVID-19) in
+      South Korea was reported in January 2020, with 28 confirmed cases reported as of 
+      February 14(th), 2020. The epidemiological and clinical characteristics of all 28
+      cases were analyzed in response to this disease. Methods: The epidemiological
+      characteristics and early clinical features of the 28 patients from Korea with
+      confirmed COVID-19 were analyzed using COVID-19 reporting and surveillance data
+      and the epidemiological investigation reports prepared by the rapid response
+      team. Results: There were 16 patients that entered Korea from foreign countries: 
+      Wuhan, China (11 patients), Zhuhai, China, (1 patient), Singapore (2 patients),
+      Japan (1 patient), and Thailand (1 patient). The early symptoms were fever, sore 
+      throat, cough or sputum production, chills, and muscle ache. Three patients were 
+      asymptomatic, however, 18 developed pneumonia. Of the 28 cases, 16 were index
+      cases imported from abroad, with 10 cases of secondary infection originating in
+      Korea, and the route of transmission still under investigation for 2 patients.
+      The 10 patients with secondary infection were infected from contact with family
+      members or acquaintances of primary patients, and the suspected sites of
+      transmission were mostly at home. Conclusion: COVID-19 in Korea was spread by 16 
+      infected individuals traveling from other countries, leading to second-generation
+      cases. The initial symptoms were mostly minor, but the disease was infectious at 
+      this stage, resulting from close contact, particularly at home. Establishing an
+      early detection strategy for COVID-19 is crucial for managing the transmission of
+      the disease.
+CI  - Copyright (c)2020, Korea Centers for Disease Control and Prevention.
+CN  - COVID-19 National Emergency Response Center, Epidemiology and Case Management
+      Team, Korea Centers for Disease Control and Prevention
+LA  - eng
+PT  - Journal Article
+PL  - Korea (South)
+TA  - Osong Public Health Res Perspect
+JT  - Osong public health and research perspectives
+JID - 101563309
+PMC - PMC7045878
+OTO - NOTNLM
+OT  - COVID-19
+OT  - SARS-CoV-2
+OT  - epidemiologic study
+COIS- Conflicts of Interest The authors have no conflicts of interest to declare.
+EDAT- 2020/03/10 06:00
+MHDA- 2020/03/10 06:01
+CRDT- 2020/03/10 06:00
+PHST- 2020/03/10 06:00 [entrez]
+PHST- 2020/03/10 06:00 [pubmed]
+PHST- 2020/03/10 06:01 [medline]
+AID - 10.24171/j.phrp.2020.11.1.03 [doi]
+AID - ophrp-11-8 [pii]
+PST - ppublish
+SO  - Osong Public Health Res Perspect. 2020 Feb;11(1):8-14. doi:
+      10.24171/j.phrp.2020.11.1.03.
+
+PMID- 32164090
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20200325
+IS  - 1001-0939 (Print)
+IS  - 1001-0939 (Linking)
+VI  - 43
+IP  - 3
+DP  - 2020 Mar 12
+TI  - [Clinical characteristics of 30 medical workers infected with new coronavirus
+      pneumonia].
+PG  - 209-214
+LID - 10.3760/cma.j.issn.1001-0939.2020.03.014 [doi]
+AB  - Objective: To investigate the clinical characteristics of medical staff with
+      novel coronavirus pneumonia(NCP). Methods: 30 patients infected with novel
+      coronavirus referred to jianghan university hospital between January 11, 2020 and
+      January 3, 2020 were studied. The data reviewed included those of clinical
+      manifestations, laboratory investigation and Radiographic features. Results: The 
+      patients consisted of 10 men and 20 women, including 22 doctors and 8 nurses,aged
+      21~59 years(mean 35+/-8 years).They were divided to 26 common type and 4 severe
+      cases, all of whom had close(within 1m) contact with patients infected of novel
+      coronavirus pneumonia. The average contact times were 12 (7,16) and the average
+      cumulative contact time was 2 (1.5,2.7) h.Clinical symptoms of these patients
+      were fever in 23 patients (76.67%) , headache in 16 petients (53.33%) , fatigue
+      or myalgia in 21patients (70%) , nausea, vomiting or diarrhea in 9 petients (30%)
+      , cough in 25 petients (83.33%) , and dyspnea in 14 petients (46.67%) .Routine
+      blood test revealed WBC<4.0x10(9)/L in 8 petients (26.67%) , (4-10) x10(9)/L in
+      22 petients (73.33%) , and WBC>4.0x10(9)/L in 4 petients (13.33%) during the
+      disease.Lymphocyte count<1.0x10(9)/L occurred in 12 petients (40%),abnormal liver
+      function in 7 petients (23.33%) ,myocardial damage in 5 petients(16.67%),
+      elevated D-dimer (>0.5mg/l) in 5 patients (16.67%). Compared with normal
+      patients, the average exposure times, cumulative exposure time, BMI, Fever time, 
+      white blood cell count, liver enzyme, LDH, myoenzyme and D-dimer were
+      significantly increased in severe patients, while the lymphocyte count and
+      albumin levels in peripheral blood were significantly decreased.Chest CT mainly
+      showed patchy shadows and interstitial changes.According to imaging examination, 
+      11 patients (36.67%) showed Unilateral pneumonia and 19 patients (63.33%) showed 
+      bilateral pneumonia,4 patients (13.33%) showed bilateral multiple mottling and
+      ground-glass opacity.Compared with the patients infected in the protected period,
+      the proportion of severe infection and bilateral pneumonia were both increased in
+      the patients infected in unprotected period. Conclusion: Medical staffs are at
+      higher risk of infection.Infection rates are associated with contact time, the
+      amount of suction virus. Severe patients had BMI increased, heating time
+      prolonged, white blood cell count, lymphocyte count, D-dimer and albumin level
+      significantly changed and were prone to be complicated with liver damage and
+      myocardial damage.Strict protection measures is important to prevent infection
+      for medical workers.
+FAU - Liu, M
+AU  - Liu M
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Hospital of 
+      Jianghan University, Wuhan430015, China.
+FAU - He, P
+AU  - He P
+AD  - Department of geriatrics, the Affiliated Hospital of Jianghan University,
+      Wuhan430015, China.
+FAU - Liu, H G
+AU  - Liu HG
+AD  - Department of Respiratory and Critical Care Medicine, Tongji Hospital Affiliated 
+      to Tongji Medical College of HUST, Wuhan430030, China.
+FAU - Wang, X J
+AU  - Wang XJ
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Hospital of 
+      Jianghan University, Wuhan430015, China.
+FAU - Li, F J
+AU  - Li FJ
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Hospital of 
+      Jianghan University, Wuhan430015, China.
+FAU - Chen, S
+AU  - Chen S
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Hospital of 
+      Jianghan University, Wuhan430015, China.
+FAU - Lin, J
+AU  - Lin J
+AD  - Department of generalization, the Affiliated Hospital of Jianghan University,
+      Wuhan430015, China.
+FAU - Chen, P
+AU  - Chen P
+AD  - Department of generalization, the Affiliated Hospital of Jianghan University,
+      Wuhan430015, China.
+FAU - Liu, J H
+AU  - Liu JH
+AD  - Department of generalization, the Affiliated Hospital of Jianghan University,
+      Wuhan430015, China.
+FAU - Li, C H
+AU  - Li CH
+AD  - Department of Respiratory and Critical Care Medicine, the Affiliated Hospital of 
+      Jianghan University, Wuhan430015, China.
+LA  - chi
+PT  - Journal Article
+PL  - China
+TA  - Zhonghua Jie He He Hu Xi Za Zhi
+JT  - Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal 
+      of tuberculosis and respiratory diseases
+JID - 8712226
+RN  - 0 (Fibrin Fibrinogen Degradation Products)
+RN  - 0 (Serum Albumin)
+RN  - 0 (fibrin fragment D)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Adult
+MH  - Betacoronavirus/*pathogenicity
+MH  - Body Mass Index
+MH  - *Coronavirus Infections/complications/diagnosis/transmission
+MH  - Cough/etiology
+MH  - Dyspnea/etiology
+MH  - Female
+MH  - *Fever/classification/etiology
+MH  - Fibrin Fibrinogen Degradation Products/analysis
+MH  - *Health Personnel
+MH  - Humans
+MH  - *Infectious Disease Transmission, Patient-to-Professional
+MH  - Leukocyte Count
+MH  - Liver/pathology
+MH  - Lymphocyte Count
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardium/pathology
+MH  - *Pneumonia, Viral/complications/diagnosis/transmission
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Serum Albumin
+MH  - Time Factors
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Medical workers
+OT  - Novel coronavirus
+OT  - Pneumonia
+EDAT- 2020/03/14 06:00
+MHDA- 2020/03/21 06:00
+CRDT- 2020/03/13 06:00
+PHST- 2020/03/13 06:00 [entrez]
+PHST- 2020/03/14 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+AID - 10.3760/cma.j.issn.1001-0939.2020.03.014 [doi]
+PST - ppublish
+SO  - Zhonghua Jie He He Hu Xi Za Zhi. 2020 Mar 12;43(3):209-214. doi:
+      10.3760/cma.j.issn.1001-0939.2020.03.014.
+
+PMID- 32164091
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20200325
+IS  - 1001-0939 (Print)
+IS  - 1001-0939 (Linking)
+VI  - 43
+IP  - 3
+DP  - 2020 Mar 12
+TI  - [Clinical features of 2019 novel coronavirus pneumonia in the early stage from a 
+      fever clinic in Beijing].
+PG  - 215-218
+LID - 10.3760/cma.j.issn.1001-0939.2020.03.015 [doi]
+AB  - Objective: To summarize and analyze the clinical and imaging characteristics of
+      patients with 2019 novel coronavirus pneumonia in the early stage in Beijing.
+      Methods: A retrospective analysis of clinical and imaging data of 9 patients with
+      2019 novel coronavirus infection diagnosed in one fever clinicic in Beijing from 
+      January 18, 2020 to February 3, 2020. Results: 5 male and 4 female was included
+      in those 9 patients, whose median age was 36 years, and the age range from 15 to 
+      49 years. 8 of these patients had no underlying disease and one suffered from
+      diabetes. 7 patients had a history of travel to Wuhan City or Hubei Province, and
+      one patient was a medical staff. Two family clustered was found. The incubation
+      period was 1 to 6 days. The clinical manifestations were fever in 8 cases (8/9) ,
+      dry cough in 5 cases (5/9) , pharyngalgia in 4 cases (4/9) , fatigue in 4 cases
+      (4/9) , body soreness in 4 cases (4/9) , and blocked or watery nose in 1 case
+      (1/9) . Six patients (6/9) had abnormal cell peripheral blood, of which 3 (3/9)
+      had an increased monocyte count, 2 (2/9) had a reduced lymphocyte, and 1 (1/9)
+      had an increased leukocyte count, while the 3 patients had normal cell blood
+      routines. The median of CRP was 16.3 mg/L, including 5 patients with slightly
+      elevated (5/9) , 4 patients with normal values (4/9) . the results of
+      procalcitonin test were negative in5 patients. Three patients were examined by
+      chest X-ray examination, one of which was normal, one case showed infiltrates of 
+      right upper lung, and another showed in right lower lung. All patients underwent 
+      chest HRCT. And 7 cases (7/9) showed multiple ground glass exudation, including 5
+      cases (5/7) involved bilateral lungs, 2 cases (2/7) involved unilateral lung, 3
+      cases (3/7) with patchy consolidation, and 2 cases (2/9) showed no abnormality.
+      Conclusions: The patents with 2019 novel coronavirus pneumonia in this study
+      generally have an epidemiological history. The clinical manifestations are fever 
+      and cough. Peripheral white blood cell counts were most normal And PCT were all
+      negative. Chest HRCT manifested as multiple ground-glass opacities with partly
+      consolidation. Some patients had normal chest radiographs but HRCT showed
+      pneumonia. Some patients had no pneumonia on chest HRCT.
+FAU - Zhang, M Q
+AU  - Zhang MQ
+AD  - Department of Respiratory Medicine, Peking University First Hospital, Beijing
+      100034, China.
+FAU - Wang, X H
+AU  - Wang XH
+AD  - Department of kidney surgery, Peking University First Hospital, Beijing 100034,
+      China.
+FAU - Chen, Y L
+AU  - Chen YL
+AD  - Department of kidney surgery, Peking University First Hospital, Beijing 100034,
+      China.
+FAU - Zhao, K L
+AU  - Zhao KL
+AD  - Department of Respiratory Medicine, Peking University First Hospital, Beijing
+      100034, China.
+FAU - Cai, Y Q
+AU  - Cai YQ
+AD  - Department of Respiratory Medicine, Peking University First Hospital, Beijing
+      100034, China.
+FAU - An, C L
+AU  - An CL
+AD  - Department of Respiratory Medicine, Peking University First Hospital, Beijing
+      100034, China.
+FAU - Lin, M G
+AU  - Lin MG
+AD  - Department of kidney surgery, Peking University First Hospital, Beijing 100034,
+      China.
+FAU - Mu, X D
+AU  - Mu XD
+AD  - Department of Respiratory Medicine, Peking University First Hospital, Beijing
+      100034, China.
+LA  - chi
+GR  - 81900021/National natural science foundation of China
+GR  - PX2020041/Scientific research and cultivation program of Beijing municipal
+      hospital
+PT  - Journal Article
+PL  - China
+TA  - Zhonghua Jie He He Hu Xi Za Zhi
+JT  - Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal 
+      of tuberculosis and respiratory diseases
+JID - 8712226
+RN  - 0 (Biomarkers)
+RN  - COVID-19
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Beijing/epidemiology
+MH  - *Betacoronavirus/isolation & purification/pathogenicity
+MH  - Biomarkers
+MH  - *Coronavirus Infections/complications/diagnostic
+      imaging/epidemiology/transmission
+MH  - Cough/etiology
+MH  - Family Health
+MH  - Fatigue/etiology
+MH  - Female
+MH  - Fever/etiology
+MH  - Humans
+MH  - *Lung/diagnostic imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Pneumonia, Viral/complications/*diagnostic
+      imaging/epidemiology/etiology/transmission
+MH  - Radiography, Thoracic
+MH  - Retrospective Studies
+MH  - Tomography, X-Ray Computed
+MH  - Travel
+MH  - Young Adult
+OTO - NOTNLM
+OT  - 2019 novel coronavirus
+OT  - Clinical characteristics
+OT  - Pneumonia
+EDAT- 2020/03/14 06:00
+MHDA- 2020/03/21 06:00
+CRDT- 2020/03/13 06:00
+PHST- 2020/03/13 06:00 [entrez]
+PHST- 2020/03/14 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+AID - 10.3760/cma.j.issn.1001-0939.2020.03.015 [doi]
+PST - ppublish
+SO  - Zhonghua Jie He He Hu Xi Za Zhi. 2020 Mar 12;43(3):215-218. doi:
+      10.3760/cma.j.issn.1001-0939.2020.03.015.
+
+PMID- 32109273
+OWN - NLM
+STAT- Publisher
+LR  - 20200228
+IS  - 1708-8305 (Electronic)
+IS  - 1195-1982 (Linking)
+DP  - 2020 Feb 28
+TI  - COVID-19 outbreak on the Diamond Princess cruise ship: estimating the epidemic
+      potential and effectiveness of public health countermeasures.
+LID - taaa030 [pii]
+LID - 10.1093/jtm/taaa030 [doi]
+AB  - BACKGROUND: Cruise ships carry a large number of people in confined spaces with
+      relative homogeneous mixing. On 3 February, 2020, an outbreak of COVID-19 on
+      cruise ship Diamond Princess was reported with 10 initial cases, following an
+      index case on board around 21-25 January. By 4 February, public health measures
+      such as removal and isolation of ill passengers and quarantine of non-ill
+      passengers were implemented. By 20 February, 619 of 3,700 passengers and crew
+      (17%) were tested positive. METHODS: We estimated the basic reproduction number
+      from the initial period of the outbreak using (SEIR) models. We calibrated the
+      models with transient functions of countermeasures to incidence data. We
+      additionally estimated a counterfactual scenario in absence of countermeasures,
+      and established a model stratified by crew and guests to study the impact of
+      differential contact rates among the groups. We also compared scenarios of an
+      earlier versus later evacuation of the ship. RESULTS: The basic reproduction rate
+      was initially 4 times higher on-board compared to the ${R}_0$ in the epicentre in
+      Wuhan, but the countermeasures lowered it substantially. Based on the modeled
+      initial ${R}_0$ of 14.8, we estimated that without any interventions within the
+      time period of 21 January to 19 February, 2920 out of the 3700 (79%) would have
+      been infected. Isolation and quarantine therefore prevented 2307 cases, and
+      lowered the ${R}_0$ to 1.78. We showed that an early evacuation of all passengers
+      on 3 February would have been associated with 76 infected persons in their
+      incubation time. CONCLUSIONS: The cruise ship conditions clearly amplified an
+      already highly transmissible disease. The public health measures prevented more
+      than 2000 additional cases compared to no interventions. However, evacuating all 
+      passengers and crew early on in the outbreak would have prevented many more
+      passengers and crew from infection.
+CI  - (c) International Society of Travel Medicine 2019. All rights reserved. For
+      Permissions, please e-mail: journals.permissions@oup.com.
+FAU - Rocklov, J
+AU  - Rocklov J
+AD  - Department of Public Health and Clinical Medicine, Section of Sustainable Health,
+      Umea University, Umea, Sweden.
+FAU - Sjodin, H
+AU  - Sjodin H
+AD  - Department of Public Health and Clinical Medicine, Section of Sustainable Health,
+      Umea University, Umea, Sweden.
+FAU - Wilder-Smith, A
+AU  - Wilder-Smith A
+AD  - Department of Epidemiology and Global Health, Umea University, Umea, Sweden.
+AD  - Department of Disease Control, London School of Hygiene and Tropical Medicine,
+      UK.
+AD  - Heidelberg Institute of Global Health, University of Heidelberg, Germany.
+LA  - eng
+PT  - Journal Article
+DEP - 20200228
+PL  - England
+TA  - J Travel Med
+JT  - Journal of travel medicine
+JID - 9434456
+SB  - IM
+OTO - NOTNLM
+OT  - SARS-CoV-2
+OT  - basic reproduction number
+OT  - coronavirus
+OT  - evacuation
+OT  - incubation time
+OT  - isolation and quarantine
+EDAT- 2020/02/29 06:00
+MHDA- 2020/02/29 06:00
+CRDT- 2020/02/29 06:00
+PHST- 2020/02/29 06:00 [entrez]
+PHST- 2020/02/29 06:00 [pubmed]
+PHST- 2020/02/29 06:00 [medline]
+AID - 5766334 [pii]
+AID - 10.1093/jtm/taaa030 [doi]
+PST - aheadofprint
+SO  - J Travel Med. 2020 Feb 28. pii: 5766334. doi: 10.1093/jtm/taaa030.
+
 PMID- 32191764
 OWN - NLM
 STAT- MEDLINE
@@ -248,3 +2158,1093 @@ AID - PONE-D-20-04163 [pii]
 PST - epublish
 SO  - PLoS One. 2020 Mar 19;15(3):e0230548. doi: 10.1371/journal.pone.0230548.
       eCollection 2020.
+
+PMID- 32075791
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200225
+LR  - 20200325
+IS  - 1756-1833 (Electronic)
+IS  - 0959-8138 (Linking)
+VI  - 368
+DP  - 2020 Feb 19
+TI  - Covid-19: a puzzle with many missing pieces.
+PG  - m627
+LID - 10.1136/bmj.m627 [doi]
+FAU - Vetter, Pauline
+AU  - Vetter P
+AD  - Geneva Centre for Emerging Viral Diseases, Geneva University Hospitals, 1211
+      Geneva 14, Switzerland pauline.vetter@hcuge.ch.
+AD  - Division of Infectious Diseases, Geneva University Hospitals, Geneva,
+      Switzerland.
+FAU - Eckerle, Isabella
+AU  - Eckerle I
+AD  - Geneva Centre for Emerging Viral Diseases, Geneva University Hospitals, 1211
+      Geneva 14, Switzerland.
+AD  - University of Geneva, Faculty of Medicine, 1205 Geneva, Switzerland.
+FAU - Kaiser, Laurent
+AU  - Kaiser L
+AD  - Geneva Centre for Emerging Viral Diseases, Geneva University Hospitals, 1211
+      Geneva 14, Switzerland.
+AD  - Division of Infectious Diseases, Geneva University Hospitals, Geneva,
+      Switzerland.
+AD  - University of Geneva, Faculty of Medicine, 1205 Geneva, Switzerland.
+LA  - eng
+PT  - Editorial
+PT  - Comment
+DEP - 20200219
+PL  - England
+TA  - BMJ
+JT  - BMJ (Clinical research ed.)
+JID - 8900488
+RN  - COVID-19
+SB  - AIM
+SB  - IM
+CON - BMJ. 2020 Feb 19;368:m606. PMID: 32075786
+MH  - China
+MH  - *Coronavirus
+MH  - *Coronavirus Infections
+MH  - Humans
+MH  - *Pneumonia, Viral
+MH  - Retrospective Studies
+MH  - *SARS Virus
+COIS- Competing interests: We have read and understood BMJ policy on declaration of
+      interests and declare that we have no competing interests.
+EDAT- 2020/02/23 06:00
+MHDA- 2020/02/26 06:00
+CRDT- 2020/02/21 06:00
+PHST- 2020/02/21 06:00 [entrez]
+PHST- 2020/02/23 06:00 [pubmed]
+PHST- 2020/02/26 06:00 [medline]
+AID - 10.1136/bmj.m627 [doi]
+PST - epublish
+SO  - BMJ. 2020 Feb 19;368:m627. doi: 10.1136/bmj.m627.
+
+PMID- 32191691
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20200325
+IS  - 1545-861X (Electronic)
+IS  - 0149-2195 (Linking)
+VI  - 69
+IP  - 11
+DP  - 2020 Mar 20
+TI  - Evaluation of the Effectiveness of Surveillance and Containment Measures for the 
+      First 100 Patients with COVID-19 in Singapore - January 2-February 29, 2020.
+PG  - 307-311
+LID - 10.15585/mmwr.mm6911e1 [doi]
+AB  - Coronavirus disease 2019 (COVID-19) was first reported in Wuhan, China, in
+      December 2019, and has since spread globally, resulting in >95,000 confirmed
+      COVID-19 cases worldwide by March 5, 2020 (1). Singapore adopted a multipronged
+      surveillance strategy that included applying the case definition at medical
+      consults, tracing contacts of patients with laboratory-confirmed COVID-19,
+      enhancing surveillance among different patient groups (all patients with
+      pneumonia, hospitalized patients in intensive care units [ICUs] with possible
+      infectious diseases, primary care patients with influenza-like illness, and
+      deaths from possible infectious etiologies), and allowing clinician discretion
+      (i.e., option to order a test based on clinical suspicion, even if the case
+      definition was not met) to identify COVID-19 patients. Containment measures,
+      including patient isolation and quarantine, active monitoring of contacts, border
+      controls, and community education and precautions, were performed to minimize
+      disease spread. As of March 5, 2020, a total of 117 COVID-19 cases had been
+      identified in Singapore. This report analyzes the first 100 COVID-19 patients in 
+      Singapore to determine the effectiveness of the surveillance and containment
+      measures. COVID-19 patients were classified by the primary means by which they
+      were detected. Application of the case definition and contact tracing identified 
+      73 patients, 16 were detected by enhanced surveillance, and 11 were identified by
+      laboratory testing based on providers' clinical discretion. Effectiveness of
+      these measures was assessed by calculating the 7-day moving average of the
+      interval from symptom onset to isolation in hospital or quarantine, which
+      indicated significant decreasing trends for both local and imported COVID-19
+      cases. Rapid identification and isolation of cases, quarantine of close contacts,
+      and active monitoring of other contacts have been effective in suppressing
+      expansion of the outbreak and have implications for other countries experiencing 
+      outbreaks.
+FAU - Ng, Yixiang
+AU  - Ng Y
+FAU - Li, Zongbin
+AU  - Li Z
+FAU - Chua, Yi Xian
+AU  - Chua YX
+FAU - Chaw, Wei Liang
+AU  - Chaw WL
+FAU - Zhao, Zheng
+AU  - Zhao Z
+FAU - Er, Benjamin
+AU  - Er B
+FAU - Pung, Rachael
+AU  - Pung R
+FAU - Chiew, Calvin J
+AU  - Chiew CJ
+FAU - Lye, David C
+AU  - Lye DC
+FAU - Heng, Derrick
+AU  - Heng D
+FAU - Lee, Vernon J
+AU  - Lee VJ
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+DEP - 20200320
+PL  - United States
+TA  - MMWR Morb Mortal Wkly Rep
+JT  - MMWR. Morbidity and mortality weekly report
+JID - 7802429
+RN  - COVID-19
+SB  - IM
+MH  - Adult
+MH  - Coronavirus Infections/*epidemiology/*prevention & control
+MH  - Disease Outbreaks/*prevention & control
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Pneumonia, Viral/*epidemiology/*prevention & control
+MH  - Population Surveillance/*methods
+MH  - Singapore/epidemiology
+COIS- All authors have completed and submitted the International Committee of Medical
+      Journal Editors form for disclosure of potential conflicts of interest. No
+      potential conflicts of interest were disclosed.
+EDAT- 2020/03/20 06:00
+MHDA- 2020/03/21 06:00
+CRDT- 2020/03/20 06:00
+PHST- 2020/03/20 06:00 [entrez]
+PHST- 2020/03/20 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+AID - 10.15585/mmwr.mm6911e1 [doi]
+PST - epublish
+SO  - MMWR Morb Mortal Wkly Rep. 2020 Mar 20;69(11):307-311. doi:
+      10.15585/mmwr.mm6911e1.
+
+PMID- 32161408
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200318
+LR  - 20200325
+IS  - 1546-170X (Electronic)
+IS  - 1078-8956 (Linking)
+VI  - 26
+IP  - 3
+DP  - 2020 Mar
+TI  - Lack of maternal-fetal SARS-CoV-2 transmission.
+PG  - 312
+LID - 10.1038/s41591-020-0810-y [doi]
+FAU - Stower, Hannah
+AU  - Stower H
+AD  - Nature Medicine, . h.stower@us.nature.com.
+LA  - eng
+PT  - Journal Article
+PT  - Comment
+PL  - United States
+TA  - Nat Med
+JT  - Nature medicine
+JID - 9502015
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+CON - Lancet. 2020 Mar 7;395(10226):809-815. PMID: 32151335
+MH  - *Betacoronavirus
+MH  - Female
+MH  - Humans
+MH  - Medical Records
+MH  - Pregnancy
+MH  - Retrospective Studies
+MH  - *Severe Acute Respiratory Syndrome
+EDAT- 2020/03/13 06:00
+MHDA- 2020/03/19 06:00
+CRDT- 2020/03/13 06:00
+PHST- 2020/03/13 06:00 [entrez]
+PHST- 2020/03/13 06:00 [pubmed]
+PHST- 2020/03/19 06:00 [medline]
+AID - 10.1038/s41591-020-0810-y [doi]
+AID - 10.1038/s41591-020-0810-y [pii]
+PST - ppublish
+SO  - Nat Med. 2020 Mar;26(3):312. doi: 10.1038/s41591-020-0810-y.
+
+PMID- 32198088
+OWN - NLM
+STAT- Publisher
+LR  - 20200321
+IS  - 1878-3511 (Electronic)
+IS  - 1201-9712 (Linking)
+DP  - 2020 Mar 17
+TI  - Transmission potential and severity of COVID-19 in South Korea.
+LID - S1201-9712(20)30150-8 [pii]
+LID - 10.1016/j.ijid.2020.03.031 [doi]
+AB  - OBJECTIVES: Since the first case of 2019 novel coronavirus (COVID-19) identified 
+      on Jan 20, 2020 in South Korea, the number of cases rapidly increased, resulting 
+      in 6,284 cases including 42 deaths as of March 6, 2020. To examine the growth
+      rate of the outbreak, we aimed to present the first study to report the
+      reproduction number of COVID-19 in South Korea. METHODS: The daily confirmed
+      cases of COVID-19 in South Korea were extracted from publicly available sources. 
+      By using the empirical reporting delay distribution and simulating the
+      generalized growth model, we estimated the effective reproduction number based on
+      the discretized probability distribution of the generation interval. RESULTS: We 
+      identified four major clusters and estimated the reproduction number at 1.5 (95% 
+      CI: 1.4-1.6). In addition, the intrinsic growth rate was estimated at 0.6 (95%
+      CI: 0.6, 0.7) and the scaling of growth parameter was estimated at 0.8 (95% CI:
+      0.7, 0.8), indicating sub-exponential growth dynamics of COVID-19. The crude case
+      fatality rate is higher among males (1.1%) compared to females (0.4%) and
+      increases with older age. CONCLUSIONS: Our results indicate early sustained
+      transmission of COVID-19 in South Korea and support the implementation of social 
+      distancing measures to rapidly control the outbreak.
+CI  - Copyright (c) 2020. Published by Elsevier Ltd.
+FAU - Shim, Eunha
+AU  - Shim E
+AD  - Department of Mathematics, Soongsil University, 369 Sangdoro, Dongjak-Gu, Seoul, 
+      06978 Republic of Korea. Electronic address: alicia@ssu.ac.kr.
+FAU - Tariq, Amna
+AU  - Tariq A
+AD  - Department of Population Health Sciences, School of Public Health, Georgia State 
+      University, Atlanta, GA, USA. Electronic address: atariq1@student.gsu.edu.
+FAU - Choi, Wongyeong
+AU  - Choi W
+AD  - Department of Mathematics, Soongsil University, 369 Sangdoro, Dongjak-Gu, Seoul, 
+      06978 Republic of Korea. Electronic address: chok10004@soongsil.ac.kr.
+FAU - Lee, Yiseul
+AU  - Lee Y
+AD  - Department of Population Health Sciences, School of Public Health, Georgia State 
+      University, Atlanta, GA, USA. Electronic address: ylee97@student.gsu.edu.
+FAU - Chowell, Gerardo
+AU  - Chowell G
+AD  - Department of Population Health Sciences, School of Public Health, Georgia State 
+      University, Atlanta, GA, USA. Electronic address: gchowell@gsu.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20200317
+PL  - Canada
+TA  - Int J Infect Dis
+JT  - International journal of infectious diseases : IJID : official publication of the
+      International Society for Infectious Diseases
+JID - 9610933
+SB  - IM
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Korea
+OT  - coronavirus
+OT  - reproduction number
+EDAT- 2020/03/22 06:00
+MHDA- 2020/03/22 06:00
+CRDT- 2020/03/22 06:00
+PHST- 2020/03/04 00:00 [received]
+PHST- 2020/03/10 00:00 [revised]
+PHST- 2020/03/10 00:00 [accepted]
+PHST- 2020/03/22 06:00 [entrez]
+PHST- 2020/03/22 06:00 [pubmed]
+PHST- 2020/03/22 06:00 [medline]
+AID - S1201-9712(20)30150-8 [pii]
+AID - 10.1016/j.ijid.2020.03.031 [doi]
+PST - aheadofprint
+SO  - Int J Infect Dis. 2020 Mar 17. pii: S1201-9712(20)30150-8. doi:
+      10.1016/j.ijid.2020.03.031.
+
+PMID- 32139299
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200319
+LR  - 20200325
+IS  - 0929-6646 (Print)
+IS  - 0929-6646 (Linking)
+VI  - 119
+IP  - 3
+DP  - 2020 Mar
+TI  - SARS-CoV-2 infection in children: Transmission dynamics and clinical
+      characteristics.
+PG  - 670-673
+LID - S0929-6646(20)30067-X [pii]
+LID - 10.1016/j.jfma.2020.02.009 [doi]
+FAU - Cao, Qing
+AU  - Cao Q
+AD  - Department of Infectious Diseases, Shanghai Children's Medical Center, Shanghai
+      Jiao Tong University School of Medicine, Shanghai, China.
+FAU - Chen, Yi-Ching
+AU  - Chen YC
+AD  - Division of Pediatric Infectious Diseases, Department of Pediatrics, Chang Gung
+      Memorial Hospital, Chang Gung University College of Medicine, Taoyuan, Taiwan.
+FAU - Chen, Chyi-Liang
+AU  - Chen CL
+AD  - Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital, Chang
+      Gung University College of Medicine, Taoyuan, Taiwan.
+FAU - Chiu, Cheng-Hsun
+AU  - Chiu CH
+AD  - Division of Pediatric Infectious Diseases, Department of Pediatrics, Chang Gung
+      Memorial Hospital, Chang Gung University College of Medicine, Taoyuan, Taiwan;
+      Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital, Chang
+      Gung University College of Medicine, Taoyuan, Taiwan. Electronic address:
+      chchiu@adm.cgmh.org.tw.
+LA  - eng
+PT  - Journal Article
+PT  - Comment
+DEP - 20200302
+PL  - Singapore
+TA  - J Formos Med Assoc
+JT  - Journal of the Formosan Medical Association = Taiwan yi zhi
+JID - 9214933
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - IM
+CON - Lancet. 2020 Mar 7;395(10226):809-815. PMID: 32151335
+MH  - Betacoronavirus
+MH  - Child
+MH  - Female
+MH  - Humans
+MH  - Infectious Disease Transmission, Vertical
+MH  - Medical Records
+MH  - Pregnancy
+MH  - Retrospective Studies
+MH  - *Severe Acute Respiratory Syndrome
+COIS- Declaration of Competing Interest The authors have no conflicts of interest
+      relevant to this article.
+EDAT- 2020/03/07 06:00
+MHDA- 2020/03/20 06:00
+CRDT- 2020/03/07 06:00
+PHST- 2020/02/25 00:00 [received]
+PHST- 2020/02/26 00:00 [revised]
+PHST- 2020/02/26 00:00 [accepted]
+PHST- 2020/03/07 06:00 [pubmed]
+PHST- 2020/03/20 06:00 [medline]
+PHST- 2020/03/07 06:00 [entrez]
+AID - S0929-6646(20)30067-X [pii]
+AID - 10.1016/j.jfma.2020.02.009 [doi]
+PST - ppublish
+SO  - J Formos Med Assoc. 2020 Mar;119(3):670-673. doi: 10.1016/j.jfma.2020.02.009.
+      Epub 2020 Mar 2.
+
+PMID- 32087820
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200326
+LR  - 20200326
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+VI  - 395
+IP  - 10227
+DP  - 2020 Mar 14
+TI  - Preparedness and vulnerability of African countries against importations of
+      COVID-19: a modelling study.
+PG  - 871-877
+LID - S0140-6736(20)30411-6 [pii]
+LID - 10.1016/S0140-6736(20)30411-6 [doi]
+AB  - BACKGROUND: The novel coronavirus disease 2019 (COVID-19) epidemic has spread
+      from China to 25 countries. Local cycles of transmission have already occurred in
+      12 countries after case importation. In Africa, Egypt has so far confirmed one
+      case. The management and control of COVID-19 importations heavily rely on a
+      country's health capacity. Here we evaluate the preparedness and vulnerability of
+      African countries against their risk of importation of COVID-19. METHODS: We used
+      data on the volume of air travel departing from airports in the infected
+      provinces in China and directed to Africa to estimate the risk of importation per
+      country. We determined the country's capacity to detect and respond to cases with
+      two indicators: preparedness, using the WHO International Health Regulations
+      Monitoring and Evaluation Framework; and vulnerability, using the Infectious
+      Disease Vulnerability Index. Countries were clustered according to the Chinese
+      regions contributing most to their risk. FINDINGS: Countries with the highest
+      importation risk (ie, Egypt, Algeria, and South Africa) have moderate to high
+      capacity to respond to outbreaks. Countries at moderate risk (ie, Nigeria,
+      Ethiopia, Sudan, Angola, Tanzania, Ghana, and Kenya) have variable capacity and
+      high vulnerability. We identified three clusters of countries that share the same
+      exposure to the risk originating from the provinces of Guangdong, Fujian, and the
+      city of Beijing, respectively. INTERPRETATION: Many countries in Africa are
+      stepping up their preparedness to detect and cope with COVID-19 importations.
+      Resources, intensified surveillance, and capacity building should be urgently
+      prioritised in countries with moderate risk that might be ill-prepared to detect 
+      imported cases and to limit onward transmission. FUNDING: EU Framework Programme 
+      for Research and Innovation Horizon 2020, Agence Nationale de la Recherche.
+CI  - Copyright (c) 2020 Elsevier Ltd. All rights reserved.
+FAU - Gilbert, Marius
+AU  - Gilbert M
+AD  - Spatial Epidemiology Laboratory, Universite Libre de Bruxelles, Brussels,
+      Belgium; Fonds National de la Recherche Scientifiques, Brussels, Belgium.
+FAU - Pullano, Giulia
+AU  - Pullano G
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, Paris, France; Sociology and Economics of Networks and Services
+      Laboratory at Orange Experience Design Laboratory Chatillion, Paris, France.
+FAU - Pinotti, Francesco
+AU  - Pinotti F
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, Paris, France.
+FAU - Valdano, Eugenio
+AU  - Valdano E
+AD  - Center for Biomedical Modeling, The Semel Institute for Neuroscience and Human
+      Behavior, David Geffen School of Medicine, University of California Los Angeles, 
+      LA, USA.
+FAU - Poletto, Chiara
+AU  - Poletto C
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, Paris, France.
+FAU - Boelle, Pierre-Yves
+AU  - Boelle PY
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, Paris, France.
+FAU - D'Ortenzio, Eric
+AU  - D'Ortenzio E
+AD  - Infection, Antimicrobials, Modelling, Evolution, INSERM, Universite de Paris,
+      Paris, France; Bichat Claude Bernard Hospital, Assistance publique-Hopitaux de
+      Paris, Paris, France.
+FAU - Yazdanpanah, Yazdan
+AU  - Yazdanpanah Y
+AD  - Infection, Antimicrobials, Modelling, Evolution, INSERM, Universite de Paris,
+      Paris, France; Bichat Claude Bernard Hospital, Assistance publique-Hopitaux de
+      Paris, Paris, France.
+FAU - Eholie, Serge Paul
+AU  - Eholie SP
+AD  - Service des Maladies Infectieuses et Tropicales, Centre Hospitalier Universitaire
+      de Treichville, Abidjan, Cote d'Ivoire; Departement de
+      Dermatologie-Infectiologie, Unite de Formation et de Recherche des Sciences
+      Medicales, Universite Felix Houphouet-Boigny, Abidjan, Cote d'Ivoire.
+FAU - Altmann, Mathias
+AU  - Altmann M
+AD  - IDLIC-Maladies Infectieuses Dans Les Pays a Ressources Limitees, INSERM U1219,
+      Bordeaux, France; Bordeaux Population Health, University of Bordeaux, Bordeaux,
+      France.
+FAU - Gutierrez, Bernardo
+AU  - Gutierrez B
+AD  - Department of Zoology, University of Oxford, Oxford, UK.
+FAU - Kraemer, Moritz U G
+AU  - Kraemer MUG
+AD  - Department of Zoology, University of Oxford, Oxford, UK; Harvard Medical School, 
+      Harvard University, Boston, MA, USA; Computational Epidemiology Group, Boston
+      Children's Hospital, Boston, MA, USA.
+FAU - Colizza, Vittoria
+AU  - Colizza V
+AD  - INSERM, Sorbonne Universite, Institut Pierre Louis d'Epidemiologie et de Sante
+      Publique, Paris, France. Electronic address: vittoria.colizza@inserm.fr.
+LA  - eng
+PT  - Journal Article
+DEP - 20200220
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+RN  - COVID-19
+SB  - AIM
+SB  - IM
+CIN - Lancet. 2020 Mar 14;395(10227):841-842. PMID: 32113508
+MH  - Africa/epidemiology
+MH  - China/epidemiology
+MH  - *Civil Defense
+MH  - *Coronavirus Infections/epidemiology/prevention & control/transmission
+MH  - Epidemics/*prevention & control
+MH  - Health Planning
+MH  - *Health Resources
+MH  - Humans
+MH  - *Models, Theoretical
+MH  - *Pneumonia, Viral/epidemiology/prevention & control/transmission
+MH  - *Population Surveillance
+MH  - Risk Assessment
+MH  - Travel
+MH  - *Vulnerable Populations
+EDAT- 2020/02/24 06:00
+MHDA- 2020/02/24 06:00
+CRDT- 2020/02/24 06:00
+PHST- 2020/02/04 00:00 [received]
+PHST- 2020/02/13 00:00 [revised]
+PHST- 2020/02/15 00:00 [accepted]
+PHST- 2020/02/24 06:00 [pubmed]
+PHST- 2020/02/24 06:00 [medline]
+PHST- 2020/02/24 06:00 [entrez]
+AID - S0140-6736(20)30411-6 [pii]
+AID - 10.1016/S0140-6736(20)30411-6 [doi]
+PST - ppublish
+SO  - Lancet. 2020 Mar 14;395(10227):871-877. doi: 10.1016/S0140-6736(20)30411-6. Epub 
+      2020 Feb 20.
+
+PMID- 32164081
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20200325
+IS  - 1001-0939 (Print)
+IS  - 1001-0939 (Linking)
+VI  - 43
+IP  - 3
+DP  - 2020 Mar 12
+TI  - [Pharmacotherapeutics for the new coronavirus pneumonia].
+PG  - 173-176
+LID - 10.3760/cma.j.issn.1001-0939.2020.03.005 [doi]
+AB  - The new coronavirus pneumonia (NCP), also named as COVID-19 by WHO on Feb 11
+      2020, is now causing a severe public health emergency in China since. The number 
+      of diagnosed cases is more than 40,000 until the submission of this manuscript.
+      Coronavirus has caused several epidemic situations world widely, but the present 
+      contagious disease caused by 2019 new coronavirus is unprecedentedly fulminating.
+      The published cohorts of 2019 new coronavirus (n-Cov) are single-center studies, 
+      or retrospective studies. We here share the therapeutic experiences of NCP
+      treatment with literature review. Combination of Ribavirin and interferon-alpha
+      is recommended by the 5(th) edition National Health Commission's Regimen (Revised
+      Edition) because of the effect on Middle East respiratory syndrome (MERS), and
+      the effectiveness of Lopinavir/Ritonavir and Remdisivir needs to be confirmed by 
+      randomized controlled trial (RCT), given the situation of no specific antivirus
+      drug on NCP is unavailable. Systemic glucocorticosteroid is recommended as a
+      short term use (1~2 mg.kg(-1).d(-1), 3~5 d) by the 5(th) edition National Health 
+      Commission's Regimen (Revised Edition) yet RCTs are expected to confirm the
+      effectiveness. Inappropriate application of antibiotics should be avoided,
+      especially the combination of broad-spectrum antibiotics, for the NCP is not
+      often complicated with bacterial infection.
+FAU - Du, B
+AU  - Du B
+AD  - Medical ICU, Peking Union Medical College Hospital, Peking Union Medical College 
+      & Chinese Academy of Medical Sciences, Beijing 100730, China.
+FAU - Qiu, H B
+AU  - Qiu HB
+AD  - Department of Critical Care Medicine, Zhongda Hospital, School of Medicine,
+      Southeast University, Nanjing 210009, China.
+FAU - Zhan, X
+AU  - Zhan X
+AD  - Department of Respiratory and Critical Care Medicine, Beijing Institute of
+      Respiratory Medicine and Beijing Chao-yang Hospital, Capital Medical University, 
+      Beijing 100020, China.
+FAU - Wang, Y S
+AU  - Wang YS
+AD  - Department of Respiratory and Critical Care Medicine, Beijing Institute of
+      Respiratory Medicine and Beijing Chao-yang Hospital, Capital Medical University, 
+      Beijing 100020, China.
+FAU - Kang, H Y J
+AU  - Kang HYJ
+AD  - Department of Respiratory and Critical Care Medicine, Beijing Institute of
+      Respiratory Medicine and Beijing Chao-yang Hospital, Capital Medical University, 
+      Beijing 100020, China.
+FAU - Li, X Y
+AU  - Li XY
+AD  - Department of Respiratory and Critical Care Medicine, Beijing Institute of
+      Respiratory Medicine and Beijing Chao-yang Hospital, Capital Medical University, 
+      Beijing 100020, China.
+FAU - Wang, F
+AU  - Wang F
+AD  - Department of Respiratory and Critical Care Medicine, Beijing Institute of
+      Respiratory Medicine and Beijing Chao-yang Hospital, Capital Medical University, 
+      Beijing 100020, China.
+FAU - Sun, B
+AU  - Sun B
+AD  - Department of Respiratory and Critical Care Medicine, Beijing Institute of
+      Respiratory Medicine and Beijing Chao-yang Hospital, Capital Medical University, 
+      Beijing 100020, China.
+FAU - Tong, Z H
+AU  - Tong ZH
+AD  - Department of Respiratory and Critical Care Medicine, Beijing Institute of
+      Respiratory Medicine and Beijing Chao-yang Hospital, Capital Medical University, 
+      Beijing 100020, China.
+LA  - chi
+GR  - 2020YFC0841300/Ministry of Science and Technology emergency response project to
+      pneumonia pandemic of novel coronavirus infection
+PT  - Journal Article
+PT  - Review
+PL  - China
+TA  - Zhonghua Jie He He Hu Xi Za Zhi
+JT  - Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal 
+      of tuberculosis and respiratory diseases
+JID - 8712226
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Antiviral Agents)
+RN  - 0 (Cytochrome P-450 CYP3A Inhibitors)
+RN  - 0 (Ribonucleotides)
+RN  - 2494G1JF75 (Lopinavir)
+RN  - 3QKI37EEHE (remdesivir)
+RN  - K72T3FS567 (Adenosine)
+RN  - O3J8G9O825 (Ritonavir)
+RN  - OF5P57N2ZX (Alanine)
+RN  - COVID-19
+SB  - IM
+MH  - Adenosine/*analogs & derivatives/therapeutic use
+MH  - Alanine/*analogs & derivatives/therapeutic use
+MH  - Anti-Bacterial Agents/therapeutic use
+MH  - *Antiviral Agents
+MH  - China
+MH  - Coronavirus Infections/*drug therapy
+MH  - Cytochrome P-450 CYP3A Inhibitors/*therapeutic use
+MH  - Drug Therapy, Combination
+MH  - Humans
+MH  - Lopinavir/*therapeutic use
+MH  - Pneumonia, Viral/*drug therapy
+MH  - Retrospective Studies
+MH  - Ribonucleotides/*therapeutic use
+MH  - Ritonavir/*therapeutic use
+OTO - NOTNLM
+OT  - Antibiotics
+OT  - Glucocorticosteroid
+OT  - New coronavirus pneumonia
+OT  - Pharmacotherapeutics
+EDAT- 2020/03/14 06:00
+MHDA- 2020/03/21 06:00
+CRDT- 2020/03/13 06:00
+PHST- 2020/03/13 06:00 [entrez]
+PHST- 2020/03/14 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+AID - 10.3760/cma.j.issn.1001-0939.2020.03.005 [doi]
+PST - ppublish
+SO  - Zhonghua Jie He He Hu Xi Za Zhi. 2020 Mar 12;43(3):173-176. doi:
+      10.3760/cma.j.issn.1001-0939.2020.03.005.
+
+PMID- 32151334
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200325
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+VI  - 395
+IP  - 10226
+DP  - 2020 Mar 7
+TI  - What are the risks of COVID-19 infection in pregnant women?
+PG  - 760-762
+LID - S0140-6736(20)30365-2 [pii]
+LID - 10.1016/S0140-6736(20)30365-2 [doi]
+FAU - Qiao, Jie
+AU  - Qiao J
+AD  - Center for Reproductive Medicine, Department of Obstetrics and Gynecology, Peking
+      University Third Hospital, Beijing 100191, China; National Clinical Research
+      Center for Obstetrics and Gynecology, Beijing 100191, China; Key Laboratory of
+      Assisted Reproduction (Peking University), Ministry of Education, Beijing 100191,
+      China; Beijing Key Laboratory of Reproductive Endocrinology and Assisted
+      Reproductive Technology, Beijing 100191, China. Electronic address:
+      jie.qiao@263.net.
+LA  - eng
+PT  - Journal Article
+PT  - Comment
+DEP - 20200212
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+RN  - severe acute respiratory syndrome coronavirus 2
+SB  - AIM
+SB  - IM
+CON - Lancet. 2020 Mar 7;395(10226):809-815. PMID: 32151335
+MH  - Betacoronavirus
+MH  - Female
+MH  - Humans
+MH  - *Infections
+MH  - *Infectious Disease Transmission, Vertical
+MH  - Medical Records
+MH  - Pregnancy
+MH  - Retrospective Studies
+EDAT- 2020/03/11 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2020/03/11 06:00
+PHST- 2020/02/10 00:00 [received]
+PHST- 2020/02/10 00:00 [accepted]
+PHST- 2020/03/11 06:00 [entrez]
+PHST- 2020/03/11 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+AID - S0140-6736(20)30365-2 [pii]
+AID - 10.1016/S0140-6736(20)30365-2 [doi]
+PST - ppublish
+SO  - Lancet. 2020 Mar 7;395(10226):760-762. doi: 10.1016/S0140-6736(20)30365-2. Epub
+      2020 Feb 12.
+
+PMID- 32112966
+OWN - NLM
+STAT- Publisher
+LR  - 20200323
+IS  - 1878-3511 (Electronic)
+IS  - 1201-9712 (Linking)
+VI  - 93
+DP  - 2020 Feb 26
+TI  - 2019-novel Coronavirus severe adult respiratory distress syndrome in two cases in
+      Italy: An uncommon radiological presentation.
+PG  - 192-197
+LID - S1201-9712(20)30101-6 [pii]
+LID - 10.1016/j.ijid.2020.02.043 [doi]
+AB  - INTRODUCTION: Several recent case reports have described common early chest
+      imaging findings of lung pathology caused by 2019 novel Coronavirus (SARS-COV2)
+      which appear to be similar to those seen previously in SARS-CoV and MERS-CoV
+      infected patients. OBJECTIVE: We present some remarkable imaging findings of the 
+      first two patients identified in Italy with COVID-19 infection travelling from
+      Wuhan, China. The follow-up with chest X-Rays and CT scans was also included,
+      showing a progressive adult respiratory distress syndrome (ARDS). RESULTS:
+      Moderate to severe progression of the lung infiltrates, with increasing
+      percentage of high-density infiltrates sustained by a bilateral and
+      multi-segmental extension of lung opacities, were seen. During the follow-up,
+      apart from pleural effusions, a tubular and enlarged appearance of pulmonary
+      vessels with a sudden caliber reduction was seen, mainly found in the dichotomic 
+      tracts, where the center of a new insurgent pulmonary lesion was seen. It could
+      be an early alert radiological sign to predict initial lung deterioration.
+      Another uncommon element was the presence of mediastinal lymphadenopathy with
+      short-axis oval nodes. CONCLUSIONS: Although only two patients have been studied,
+      these findings are consistent with the radiological pattern described in
+      literature. Finally, the pulmonary vessels enlargement in areas where new lung
+      infiltrates develop in the follow-up CT scan, could describe an early predictor
+      radiological sign of lung impairment.
+CI  - Copyright (c) 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Albarello, Fabrizio
+AU  - Albarello F
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+FAU - Pianura, Elisa
+AU  - Pianura E
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+FAU - Di Stefano, Federica
+AU  - Di Stefano F
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+FAU - Cristofaro, Massimo
+AU  - Cristofaro M
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+FAU - Petrone, Ada
+AU  - Petrone A
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+FAU - Marchioni, Luisa
+AU  - Marchioni L
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+FAU - Palazzolo, Claudia
+AU  - Palazzolo C
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+FAU - Schinina, Vincenzo
+AU  - Schinina V
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy. Electronic address:
+      vincenzo.schinina@inmi.it.
+FAU - Nicastri, Emanuele
+AU  - Nicastri E
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+FAU - Petrosillo, Nicola
+AU  - Petrosillo N
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+FAU - Campioni, Paolo
+AU  - Campioni P
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+FAU - Eskild, Petersen
+AU  - Eskild P
+AD  - Directorate General for Disease Surveillance and Control, Ministry of Health,
+      Muscat, Oman; Institute for Clinical Medicine, Faculty of Health Science,
+      University of Aarhus, Denmark; ESCMID Emerging Infections Task Force, Basel,
+      Switzerland.
+FAU - Zumla, Alimuddin
+AU  - Zumla A
+AD  - Department of Infection, Division of Infection and Immunity, University College
+      London, and NIHR Biomedical Research Centre, University College London Hospitals 
+      NHS Foundation Trust, London, United Kingdom.
+FAU - Ippolito, Giuseppe
+AU  - Ippolito G
+AD  - Lazzaro Spallanzani, National Institute for Infectious Diseases - IRCCS, Via
+      Portuense, 292, cap 00148 Rome, Italy.
+CN  - COVID 19 INMI Study Group
+LA  - eng
+PT  - Journal Article
+DEP - 20200226
+PL  - Canada
+TA  - Int J Infect Dis
+JT  - International journal of infectious diseases : IJID : official publication of the
+      International Society for Infectious Diseases
+JID - 9610933
+SB  - IM
+OTO - NOTNLM
+OT  - COVID-19
+OT  - CT-scan
+OT  - Crazy-paving
+OT  - Enlarged pulmonary vessels
+OT  - Ground glass opacities
+OT  - SARS-COV2
+IR  - Abbonizio MA
+FIR - Abbonizio, Maria Alessandra
+IR  - Agrati C
+FIR - Agrati, Chiara
+IR  - Albarello F
+FIR - Albarello, Fabrizio
+IR  - Amadei G
+FIR - Amadei, Gioia
+IR  - Amendola A
+FIR - Amendola, Alessandra
+IR  - Antonini M
+FIR - Antonini, Mario
+IR  - Barbaro R
+FIR - Barbaro, Raffaella
+IR  - Bartolini B
+FIR - Bartolini, Barbara
+IR  - Benigni M
+FIR - Benigni, Martina
+IR  - Bevilacqua N
+FIR - Bevilacqua, Nazario
+IR  - Bordi L
+FIR - Bordi, Licia
+IR  - Bordoni V
+FIR - Bordoni, Veronica
+IR  - Branca M
+FIR - Branca, Marta
+IR  - Campioni P
+FIR - Campioni, Paolo
+IR  - Capobianchi MR
+FIR - Capobianchi, Maria Rosaria
+IR  - Caporale C
+FIR - Caporale, Cinzia
+IR  - Caravella I
+FIR - Caravella, Ilaria
+IR  - Carletti F
+FIR - Carletti, Fabrizio
+IR  - Castilletti C
+FIR - Castilletti, Concetta
+IR  - Chiappini R
+FIR - Chiappini, Roberta
+IR  - Ciaralli C
+FIR - Ciaralli, Carmine
+IR  - Colavita F
+FIR - Colavita, Francesca
+IR  - Corpolongo A
+FIR - Corpolongo, Angela
+IR  - Cristofaro M
+FIR - Cristofaro, Massimo
+IR  - Curiale S
+FIR - Curiale, Salvatore
+IR  - D'Abramo A
+FIR - D'Abramo, Alessandra
+IR  - Dantimi C
+FIR - Dantimi, Cristina
+IR  - Angelis A
+FIR - Angelis, Alessia De
+IR  - Angelis G
+FIR - Angelis, Giada De
+IR  - Lorenzo RD
+FIR - Lorenzo, Rachele Di
+IR  - Stefano FD
+FIR - Stefano, Federica Di
+IR  - Ferraro F
+FIR - Ferraro, Federica
+IR  - Fiorentini L
+FIR - Fiorentini, Lorena
+IR  - Frustaci A
+FIR - Frustaci, Andrea
+IR  - Galli P
+FIR - Galli, Paola
+IR  - Garotto G
+FIR - Garotto, Gabriele
+IR  - Giancola ML
+FIR - Giancola, Maria Letizia
+IR  - Giansante F
+FIR - Giansante, Filippo
+IR  - Giombini E
+FIR - Giombini, Emanuela
+IR  - Greci MC
+FIR - Greci, Maria Cristina
+IR  - Ippolito G
+FIR - Ippolito, Giuseppe
+IR  - Lalle E
+FIR - Lalle, Eleonora
+IR  - Lanini S
+FIR - Lanini, Simone
+IR  - Lapa D
+FIR - Lapa, Daniele
+IR  - Lepore L
+FIR - Lepore, Luciana
+IR  - Lucia A
+FIR - Lucia, Andrea
+IR  - Lufrani F
+FIR - Lufrani, Franco
+IR  - Macchione M
+FIR - Macchione, Manuela
+IR  - Marani A
+FIR - Marani, Alessandra
+IR  - Marchioni L
+FIR - Marchioni, Luisa
+IR  - Mariano A
+FIR - Mariano, Andrea
+IR  - Marini MC
+FIR - Marini, Maria Cristina
+IR  - Maritti M
+FIR - Maritti, Micaela
+IR  - Matusali G
+FIR - Matusali, Giulia
+IR  - Meschi S
+FIR - Meschi, Silvia
+IR  - Montaldo FMC
+FIR - Montaldo, Francesco Messina Chiara
+IR  - Murachelli S
+FIR - Murachelli, Silvia
+IR  - Nicastri E
+FIR - Nicastri, Emanuele
+IR  - Noto R
+FIR - Noto, Roberto
+IR  - Palazzolo C
+FIR - Palazzolo, Claudia
+IR  - Pallini E
+FIR - Pallini, Emanuele
+IR  - Passeri V
+FIR - Passeri, Virgilio
+IR  - Pelliccioni F
+FIR - Pelliccioni, Federico
+IR  - Petrecchia A
+FIR - Petrecchia, Antonella
+IR  - Petrone A
+FIR - Petrone, Ada
+IR  - Petrosillo N
+FIR - Petrosillo, Nicola
+IR  - Pianura E
+FIR - Pianura, Elisa
+IR  - Pisciotta M
+FIR - Pisciotta, Maria
+IR  - Pittalis S
+FIR - Pittalis, Silvia
+IR  - Proietti C
+FIR - Proietti, Costanza
+IR  - Puro V
+FIR - Puro, Vincenzo
+IR  - Rinonapoli G
+FIR - Rinonapoli, Gabriele
+IR  - Rueca M
+FIR - Rueca, Martina
+IR  - Sacchi A
+FIR - Sacchi, Alessandra
+IR  - Sanasi F
+FIR - Sanasi, Francesco
+IR  - Santagata C
+FIR - Santagata, Carmen
+IR  - Scarcia S
+FIR - Scarcia, Silvana
+IR  - Schinina V
+FIR - Schinina, Vincenzo
+IR  - Scognamiglio P
+FIR - Scognamiglio, Paola
+IR  - Scorzolini L
+FIR - Scorzolini, Laura
+IR  - Stazi G
+FIR - Stazi, Giulia
+IR  - Vaia F
+FIR - Vaia, Francesco
+IR  - Vairo F
+FIR - Vairo, Francesco
+IR  - Valli MB
+FIR - Valli, Maria Beatrice
+EDAT- 2020/03/01 06:00
+MHDA- 2020/03/01 06:00
+CRDT- 2020/03/01 06:00
+PHST- 2020/02/14 00:00 [received]
+PHST- 2020/02/19 00:00 [revised]
+PHST- 2020/02/20 00:00 [accepted]
+PHST- 2020/03/01 06:00 [pubmed]
+PHST- 2020/03/01 06:00 [medline]
+PHST- 2020/03/01 06:00 [entrez]
+AID - S1201-9712(20)30101-6 [pii]
+AID - 10.1016/j.ijid.2020.02.043 [doi]
+PST - aheadofprint
+SO  - Int J Infect Dis. 2020 Feb 26;93:192-197. doi: 10.1016/j.ijid.2020.02.043.
+
+PMID- 32107910
+OWN - NLM
+STAT- Publisher
+LR  - 20200228
+IS  - 0253-9624 (Print)
+IS  - 0253-9624 (Linking)
+VI  - 54
+IP  - 0
+DP  - 2020 Feb 27
+TI  - [Analysis on epidemic situation and spatiotemporal changes of COVID-19 in Anhui].
+PG  - E019
+LID - 10.3760/cma.j.cn112150-20200221-00150 [doi]
+AB  - We used the epidemic data of COVID-19 published on the official website of the
+      municipal health commission in Anhui province. We mapped the spatiotemporal
+      changes of confirmed cases, fitted the epidemic situation by the population
+      growth curve at different stages and took statistical description and analysis of
+      the epidemic situation in Anhui province. It was found that the cumulative
+      incidence of COVID-19 was 156/100 000 by February 18, 2020 and the trend of
+      COVID-19 epidemic declined after February 7, changing from J curve to S curve.
+      The actual number of new cases began to decrease from February 2 to February 4
+      due to the time of case report and actual onset delayed by 3 to 5 days.
+FAU - Liu, M
+AU  - Liu M
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health,
+      Anhui Medical University/Population Health Across Life Cycle, Ministry of
+      Education of the People's Republic of China/NHC Key Laboratory of Study on
+      Abnormal Gametes and Reproductive Tract, Hefei 230032, China.
+FAU - Xu, H L
+AU  - Xu HL
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health,
+      Anhui Medical University/Population Health Across Life Cycle, Ministry of
+      Education of the People's Republic of China/NHC Key Laboratory of Study on
+      Abnormal Gametes and Reproductive Tract, Hefei 230032, China.
+FAU - Yuan, M
+AU  - Yuan M
+AD  - Center for Big Data Science in Health, School of Health Service Management, Anhui
+      Medical University, Hefei 230032, China.
+FAU - Liu, Z R
+AU  - Liu ZR
+AD  - Anhui Provincial Center for Disease Control and Prevention, Hefei 2300601, Anhui,
+      China.
+FAU - Wu, X Y
+AU  - Wu XY
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health,
+      Anhui Medical University/Population Health Across Life Cycle, Ministry of
+      Education of the People's Republic of China/NHC Key Laboratory of Study on
+      Abnormal Gametes and Reproductive Tract, Hefei 230032, China.
+FAU - Zhang, Y
+AU  - Zhang Y
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health,
+      Anhui Medical University/Population Health Across Life Cycle, Ministry of
+      Education of the People's Republic of China/NHC Key Laboratory of Study on
+      Abnormal Gametes and Reproductive Tract, Hefei 230032, China.
+FAU - Ma, L Y
+AU  - Ma LY
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health,
+      Anhui Medical University/Population Health Across Life Cycle, Ministry of
+      Education of the People's Republic of China/NHC Key Laboratory of Study on
+      Abnormal Gametes and Reproductive Tract, Hefei 230032, China.
+FAU - Gong, L
+AU  - Gong L
+AD  - Anhui Provincial Center for Disease Control and Prevention, Hefei 2300601, Anhui,
+      China.
+FAU - Gan, H
+AU  - Gan H
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health,
+      Anhui Medical University/Population Health Across Life Cycle, Ministry of
+      Education of the People's Republic of China/NHC Key Laboratory of Study on
+      Abnormal Gametes and Reproductive Tract, Hefei 230032, China.
+FAU - Zong, W W
+AU  - Zong WW
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health,
+      Anhui Medical University/Population Health Across Life Cycle, Ministry of
+      Education of the People's Republic of China/NHC Key Laboratory of Study on
+      Abnormal Gametes and Reproductive Tract, Hefei 230032, China.
+FAU - Tao, S M
+AU  - Tao SM
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health,
+      Anhui Medical University/Population Health Across Life Cycle, Ministry of
+      Education of the People's Republic of China/NHC Key Laboratory of Study on
+      Abnormal Gametes and Reproductive Tract, Hefei 230032, China.
+FAU - Liu, Q
+AU  - Liu Q
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health,
+      Anhui Medical University/Population Health Across Life Cycle, Ministry of
+      Education of the People's Republic of China/NHC Key Laboratory of Study on
+      Abnormal Gametes and Reproductive Tract, Hefei 230032, China.
+FAU - Du, Y N
+AU  - Du YN
+AD  - Center for Big Data Science in Health, School of Health Service Management, Anhui
+      Medical University, Hefei 230032, China.
+FAU - Tao, F B
+AU  - Tao FB
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health,
+      Anhui Medical University/Population Health Across Life Cycle, Ministry of
+      Education of the People's Republic of China/NHC Key Laboratory of Study on
+      Abnormal Gametes and Reproductive Tract, Hefei 230032, China.
+LA  - chi
+GR  - YJGG202001/Fund Program: Anhui Medical University Emergency Key Research Project 
+      for Novel Coronavirus Pneumonia
+GR  - 202004a07020002/Emergency Research Project, Anhui Provincial Department of
+      Science and Technology, Anhui Provincial Health Commission
+PT  - English Abstract
+PT  - Journal Article
+DEP - 20200227
+PL  - China
+TA  - Zhonghua Yu Fang Yi Xue Za Zhi
+JT  - Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]
+JID - 7904962
+SB  - IM
+OTO - NOTNLM
+OT  - Anhui Province
+OT  - COVID-19
+OT  - Epidemiology
+OT  - Spatiotemporal distribution
+EDAT- 2020/02/29 06:00
+MHDA- 2020/02/29 06:00
+CRDT- 2020/02/29 06:00
+PHST- 2020/02/29 06:00 [entrez]
+PHST- 2020/02/29 06:00 [pubmed]
+PHST- 2020/02/29 06:00 [medline]
+AID - 10.3760/cma.j.cn112150-20200221-00150 [doi]
+PST - aheadofprint
+SO  - Zhonghua Yu Fang Yi Xue Za Zhi. 2020 Feb 27;54(0):E019. doi:
+      10.3760/cma.j.cn112150-20200221-00150.
