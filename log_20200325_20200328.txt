@@ -1,106 +1,106 @@
 Search results for range 2020/03/25 to 2020/03/28
-Number of Records Added: 0
-"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND  AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Number of Records Added: 149
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
 Found 172 results
 Going to download record 1 to 10
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32081636
+Added new PMID: 32209231
+Added new PMID: 32194944
+Added new PMID: 32207910
+Added new PMID: 32174053
+Added new PMID: 32134278
+Added new PMID: 32081569
+Added new PMID: 32207679
+Added new PMID: 32191676
+Added new PMID: 32207377
 Going to download record 11 to 20
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32191830
+Added new PMID: 32216248
+Added new PMID: 32119825
+Added new PMID: 32100486
+Added new PMID: 32215622
+Added new PMID: 32206694
+Added new PMID: 32151324
+Added new PMID: 32191813
+Added new PMID: 32105090
+Added new PMID: 32215956
 Going to download record 21 to 30
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32204750
+Added new PMID: 32200398
+Added new PMID: 32209164
+Added new PMID: 32213786
+Added new PMID: 32213556
+Added new PMID: 32209502
+Added new PMID: 32196628
+Added new PMID: 32213231
+Added new PMID: 32208917
+Added new PMID: 32207591
 Going to download record 31 to 40
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32204754
+Added new PMID: 32213337
+Added new PMID: 32215613
+Added new PMID: 32204757
+Added new PMID: 32204755
+Added new PMID: 32204753
+Added new PMID: 32194290
+Added new PMID: 32205232
+Added new PMID: 32212513
+Added new PMID: 32192233
 Going to download record 41 to 50
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32211279
+Added new PMID: 32204758
+Added new PMID: 32204751
+Added new PMID: 32204752
+Added new PMID: 32205349
+Added new PMID: 32214079
+Added new PMID: 32204987
+Added new PMID: 32196627
+Added new PMID: 32209890
+Added new PMID: 32211911
 Going to download record 51 to 60
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32215548
+Added new PMID: 32151320
+Added new PMID: 32151318
+Added new PMID: 32209163
+Added new PMID: 32212779
+Added new PMID: 32215952
+Added new PMID: 32208987
+Added new PMID: 32119961
+Added new PMID: 32212058
+Added new PMID: 32100485
 Going to download record 61 to 70
 PMID exists
 PMID exists
+Added new PMID: 32207676
+Added new PMID: 32207592
 PMID exists
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32207256
+Added new PMID: 32207255
+Added new PMID: 32207032
 PMID exists
 Going to download record 71 to 80
+Added new PMID: 32206052
+Added new PMID: 32205937
+Added new PMID: 32205822
+Added new PMID: 32205399
 PMID exists
+Added new PMID: 32205268
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32205220
+Added new PMID: 32205186
+Added new PMID: 32205140
 Going to download record 81 to 90
+Added new PMID: 32205138
+Added new PMID: 32205091
+Added new PMID: 32205073
+Added new PMID: 32204990
+PMID exists
+Added new PMID: 32204949
+Added new PMID: 32204922
 PMID exists
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32204756
 Going to download record 91 to 100
 PMID exists
 PMID exists
@@ -108,139 +108,182 @@ PMID exists
 PMID exists
 PMID exists
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32202647
+Added new PMID: 32201449
+Added new PMID: 32201376
+Added new PMID: 32200400
 Going to download record 101 to 110
+Added new PMID: 32200399
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Updated Abstract
+Added new PMID: 32199511
+Added new PMID: 32199510
+Added new PMID: 32199479
+Added new PMID: 32199474
+Added new PMID: 32199457
+Added new PMID: 32199105
+Added new PMID: 32198275
+Added new PMID: 32198267
 Going to download record 111 to 120
+Added new PMID: 32198166
+Added new PMID: 32198163
+Added new PMID: 32198146
+PMID exists
+Updated Abstract
 PMID exists
 PMID exists
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32193330
+Added new PMID: 32193314
+Added new PMID: 32193305
 Going to download record 121 to 130
+Added new PMID: 32193300
+Added new PMID: 32193299
+Added new PMID: 32192247
 PMID exists
 PMID exists
 PMID exists
+Added new PMID: 32191764
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32191675
+Added new PMID: 32187489
 Going to download record 131 to 140
+Added new PMID: 32187257
+Added new PMID: 32179702
 PMID exists
+Added new PMID: 32171075
+Added new PMID: 32171074
+Added new PMID: 32164834
+Added new PMID: 32151326
+Added new PMID: 32151325
 PMID exists
+Updated Abstract
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Updated Abstract
 Going to download record 141 to 150
 PMID exists
+Updated Abstract
+Added new PMID: 32145187
+Added new PMID: 32145186
+Added new PMID: 32142626
+Added new PMID: 32135077
 PMID exists
 PMID exists
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32119824
+Added new PMID: 32113880
 Going to download record 151 to 160
+Added new PMID: 32113507
+Added new PMID: 32113506
+Added new PMID: 32113505
+Added new PMID: 32112714
+Added new PMID: 32109372
+Added new PMID: 32109011
 PMID exists
 PMID exists
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32087820
 Going to download record 161 to 170
+Added new PMID: 32087125
+Added new PMID: 32085843
+Added new PMID: 32085842
+Added new PMID: 32085841
+Added new PMID: 32085840
+Added new PMID: 32085839
 PMID exists
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32074444
+Added new PMID: 32066526
 Going to download record 171 to 172
-PMID exists
-PMID exists
+Added new PMID: 32066525
+Added new PMID: 32064795
 "((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND (NEJM[journal] OR BMJ[journal] OR lancet[journal] OR nature[journal] OR JAMA[journal]) AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
 Found 43 results
 Going to download record 1 to 10
 PMID exists
 PMID exists
+Updated Abstract
 PMID exists
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 Going to download record 11 to 20
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
+Added new PMID: 32213332
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
-PMID exists
+Updated Abstract
 Going to download record 21 to 30
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 Going to download record 31 to 40
 PMID exists
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 Going to download record 41 to 43
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
 "((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND elderly[TITLE] AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
 Found 0 results
@@ -248,14 +291,15 @@ Found 0 results
 Found 2 results
 Going to download record 1 to 2
 PMID exists
-PMID exists
+Added new PMID: 32208840
 "((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND italy[Title/Abstract] AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
 Found 5 results
 Going to download record 1 to 5
 PMID exists
 PMID exists
 PMID exists
-PMID exists
+Updated Abstract
+Added new PMID: 32215977
 PMID exists
 "((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND netherlands[Title/Abstract] AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
 Found 0 results
@@ -263,6 +307,7 @@ Found 0 results
 Found 5 results
 Going to download record 1 to 5
 PMID exists
+Updated Abstract
 PMID exists
 PMID exists
 PMID exists
@@ -276,7 +321,9 @@ PMID exists
 PMID exists
 PMID exists
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
 PMID exists
 PMID exists
@@ -285,47 +332,78 @@ PMID exists
 PMID exists
 PMID exists
 PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
 PMID exists
 PMID exists
 PMID exists
+Updated Abstract
 PMID exists
-PMID exists
-PMID exists
+Updated Abstract
+Added new PMID: 32211799
 Going to download record 21 to 30
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 Going to download record 31 to 40
 PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
 PMID exists
 PMID exists
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
-PMID exists
-PMID exists
+Updated Abstract
 Going to download record 41 to 50
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
+Added new PMID: 32210236
 PMID exists
+Updated Abstract
 PMID exists
-PMID exists
+Updated Abstract
 PMID exists
 Going to download record 51 to 51
 PMID exists
+Updated Abstract
 "((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND mortality AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
 Found 15 results
 Going to download record 1 to 10
@@ -334,17 +412,20 @@ PMID exists
 PMID exists
 PMID exists
 PMID exists
+Updated Abstract
 PMID exists
 PMID exists
+Updated Abstract
 PMID exists
 PMID exists
-PMID exists
+Updated Abstract
+Added new PMID: 32209384
 Going to download record 11 to 15
+Added new PMID: 32210742
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Added new PMID: 32211816
+Added new PMID: 32214286
+Added new PMID: 32207983
 "((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND pregnant[TITLE] AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
 Found 0 results
 "((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND (treatment[All Fields] OR drug[All Fields] OR intervention[All Fields] OR recovery[All Fields]) AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
@@ -371,6 +452,7 @@ PMID exists
 PMID exists
 PMID exists
 PMID exists
+Updated Abstract
 Going to download record 21 to 30
 PMID exists
 PMID exists
@@ -395,59 +477,87 @@ PMID exists
 PMID exists
 Going to download record 41 to 50
 PMID exists
+Updated Abstract
 PMID exists
 PMID exists
+Added new PMID: 32211963
+Added new PMID: 32208140
 PMID exists
 PMID exists
+Added new PMID: 32212378
 PMID exists
+Updated Abstract
 PMID exists
-PMID exists
-PMID exists
-PMID exists
+Updated Abstract
 Going to download record 51 to 60
 PMID exists
+Updated Abstract
+Added new PMID: 32215691
 PMID exists
 PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
 PMID exists
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Updated Abstract
 Going to download record 61 to 70
 PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
 PMID exists
 PMID exists
 PMID exists
 PMID exists
 PMID exists
+Updated Abstract
 PMID exists
+Updated Abstract
 PMID exists
-PMID exists
-PMID exists
+Updated Abstract
 Going to download record 71 to 80
 PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
 PMID exists
 PMID exists
 PMID exists
 PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
-PMID exists
+Updated Abstract
 Going to download record 81 to 90
 PMID exists
+Updated Abstract
+PMID exists
+Updated Abstract
+PMID exists
+PMID exists
+Updated Abstract
 PMID exists
 PMID exists
 PMID exists
 PMID exists
 PMID exists
-PMID exists
-PMID exists
-PMID exists
+Updated Abstract
 PMID exists
 Going to download record 91 to 92
 PMID exists
 PMID exists
+Updated Abstract
