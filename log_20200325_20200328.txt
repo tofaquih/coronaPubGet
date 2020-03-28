@@ -1,0 +1,453 @@
+Search results for range 2020/03/25 to 2020/03/28
+Number of Records Added: 0
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND  AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 172 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 21 to 30
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 31 to 40
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 41 to 50
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 51 to 60
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 61 to 70
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 71 to 80
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 81 to 90
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 91 to 100
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 101 to 110
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 111 to 120
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 121 to 130
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 131 to 140
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 141 to 150
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 151 to 160
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 161 to 170
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 171 to 172
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND (NEJM[journal] OR BMJ[journal] OR lancet[journal] OR nature[journal] OR JAMA[journal]) AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 43 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 21 to 30
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 31 to 40
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 41 to 43
+PMID exists
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND elderly[TITLE] AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 0 results
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND clinical trial[Title/Abstract] AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 2 results
+Going to download record 1 to 2
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND italy[Title/Abstract] AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 5 results
+Going to download record 1 to 5
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND netherlands[Title/Abstract] AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 0 results
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND case control study AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 5 results
+Going to download record 1 to 5
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND epidemiology AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 51 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 21 to 30
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 31 to 40
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 41 to 50
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 51 to 51
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND mortality AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 15 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 15
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND pregnant[TITLE] AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 0 results
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND (treatment[All Fields] OR drug[All Fields] OR intervention[All Fields] OR recovery[All Fields]) AND ""2020/03/25""[MHDA] : ""2020/03/28""[MHDA]"
+Found 92 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 21 to 30
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 31 to 40
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 41 to 50
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 51 to 60
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 61 to 70
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 71 to 80
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 81 to 90
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 91 to 92
+PMID exists
+PMID exists

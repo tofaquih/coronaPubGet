@@ -1,0 +1,5619 @@
+Search results for range 2020/01/27 to 2020/03/28
+Number of Records Added: 3826
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND  AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 1068 results
+Going to download record 1 to 10
+Added new PMID: 32081636
+Added new PMID: 32160889
+Added new PMID: 32106567
+Added new PMID: 32173241
+Added new PMID: 32209231
+Added new PMID: 32100667
+Added new PMID: 32166607
+Added new PMID: 32062645
+Added new PMID: 32194944
+Added new PMID: 32169119
+Going to download record 11 to 20
+Added new PMID: 32070465
+Added new PMID: 32207910
+Added new PMID: 32147628
+Added new PMID: 32172672
+Added new PMID: 32178768
+Added new PMID: 32190290
+Added new PMID: 32172669
+Added new PMID: 32143123
+Added new PMID: 32156648
+Added new PMID: 32092911
+Going to download record 21 to 30
+Added new PMID: 32195311
+Added new PMID: 32171740
+Added new PMID: 32194980
+Added new PMID: 32174053
+Added new PMID: 32074480
+Added new PMID: 32134278
+Added new PMID: 32132521
+Added new PMID: 32180426
+Added new PMID: 32127123
+Added new PMID: 32139372
+Going to download record 31 to 40
+Added new PMID: 32156330
+Added new PMID: 32080991
+Added new PMID: 32146445
+Added new PMID: 32156329
+Added new PMID: 32107577
+Added new PMID: 32156101
+Added new PMID: 32190890
+Added new PMID: 32124990
+Added new PMID: 32022276
+Added new PMID: 32029004
+Going to download record 41 to 50
+Added new PMID: 32131908
+Added new PMID: 32088679
+Added new PMID: 31991541
+Added new PMID: 32151674
+Added new PMID: 32200613
+Added new PMID: 31967321
+Added new PMID: 32187929
+Added new PMID: 32087334
+Added new PMID: 32171867
+Added new PMID: 32046819
+Going to download record 51 to 60
+Added new PMID: 32048815
+Added new PMID: 32019669
+Added new PMID: 32141570
+Added new PMID: 32046815
+Added new PMID: 32027036
+Added new PMID: 32156224
+Added new PMID: 32192424
+Added new PMID: 32127124
+Added new PMID: 32100877
+Added new PMID: 32027573
+Going to download record 61 to 70
+PMID exists
+Added new PMID: 32207679
+Added new PMID: 32207676
+Added new PMID: 32207592
+Added new PMID: 32207591
+Added new PMID: 32207377
+Added new PMID: 32207256
+Added new PMID: 32207255
+Added new PMID: 32207032
+Added new PMID: 32206694
+Going to download record 71 to 80
+Added new PMID: 32206052
+Added new PMID: 32205937
+Added new PMID: 32205822
+Added new PMID: 32205399
+Added new PMID: 32205349
+Added new PMID: 32205268
+Added new PMID: 32205232
+Added new PMID: 32205220
+Added new PMID: 32205186
+Added new PMID: 32205140
+Going to download record 81 to 90
+Added new PMID: 32205138
+Added new PMID: 32205091
+Added new PMID: 32205073
+Added new PMID: 32204990
+Added new PMID: 32204987
+Added new PMID: 32204949
+Added new PMID: 32204922
+Added new PMID: 32204758
+Added new PMID: 32204757
+Added new PMID: 32204756
+Going to download record 91 to 100
+Added new PMID: 32204755
+Added new PMID: 32204754
+Added new PMID: 32204753
+Added new PMID: 32204752
+Added new PMID: 32204751
+Added new PMID: 32204750
+Added new PMID: 32203970
+Added new PMID: 32203757
+Added new PMID: 32203711
+Added new PMID: 32203693
+Going to download record 101 to 110
+Added new PMID: 32203671
+Added new PMID: 32203189
+Added new PMID: 32202993
+Added new PMID: 32202911
+Added new PMID: 32202659
+Added new PMID: 32202647
+Added new PMID: 32202646
+Added new PMID: 32202553
+Added new PMID: 32202420
+Added new PMID: 32202401
+Going to download record 111 to 120
+Added new PMID: 32202343
+Added new PMID: 32202336
+Added new PMID: 32202261
+Added new PMID: 32202258
+Added new PMID: 32202256
+Added new PMID: 32202240
+Added new PMID: 32201983
+Added new PMID: 32201972
+Added new PMID: 32201449
+Added new PMID: 32201376
+Going to download record 121 to 130
+Added new PMID: 32201354
+Added new PMID: 32201353
+Added new PMID: 32201339
+Added new PMID: 32201335
+Added new PMID: 32201156
+Added new PMID: 32200663
+Added new PMID: 32200654
+Added new PMID: 32200634
+PMID exists
+Added new PMID: 32200489
+Going to download record 131 to 140
+Added new PMID: 32200400
+Added new PMID: 32200399
+Added new PMID: 32200398
+Added new PMID: 32199996
+Added new PMID: 32199943
+Added new PMID: 32199938
+Added new PMID: 32199877
+Added new PMID: 32199864
+Added new PMID: 32199792
+Added new PMID: 32199615
+Going to download record 141 to 150
+Added new PMID: 32199511
+Added new PMID: 32199510
+Added new PMID: 32199479
+Added new PMID: 32199474
+Added new PMID: 32199457
+Added new PMID: 32199182
+Added new PMID: 32199105
+Added new PMID: 32199075
+Added new PMID: 32198986
+Added new PMID: 32198915
+Going to download record 151 to 160
+Added new PMID: 32198776
+Added new PMID: 32198754
+Added new PMID: 32198713
+Added new PMID: 32198708
+Added new PMID: 32198501
+Added new PMID: 32198275
+Added new PMID: 32198267
+Added new PMID: 32198191
+Added new PMID: 32198190
+Added new PMID: 32198166
+Going to download record 161 to 170
+Added new PMID: 32198163
+Added new PMID: 32198146
+Added new PMID: 32198130
+Added new PMID: 32198088
+Added new PMID: 32198005
+Added new PMID: 32197957
+Added new PMID: 32197787
+Added new PMID: 32197339
+Added new PMID: 32197238
+Added new PMID: 32197085
+Going to download record 171 to 180
+Added new PMID: 32197060
+Added new PMID: 32197059
+Added new PMID: 32196983
+Added new PMID: 32196933
+Added new PMID: 32196707
+Added new PMID: 32196700
+Added new PMID: 32196678
+Added new PMID: 32196655
+Added new PMID: 32196628
+Added new PMID: 32196627
+Going to download record 181 to 190
+Added new PMID: 32196453
+Added new PMID: 32196430
+Added new PMID: 32196426
+Added new PMID: 32196410
+Added new PMID: 32196406
+Added new PMID: 32196391
+Added new PMID: 32196116
+Added new PMID: 32196083
+Added new PMID: 32195887
+Added new PMID: 32195824
+Going to download record 191 to 200
+Added new PMID: 32195704
+Added new PMID: 32195699
+Added new PMID: 32195698
+PMID exists
+Added new PMID: 32194995
+PMID exists
+PMID exists
+Added new PMID: 32194290
+Added new PMID: 32194253
+Added new PMID: 32194239
+Going to download record 201 to 210
+Added new PMID: 32194152
+Added new PMID: 32193906
+Added new PMID: 32193905
+Added new PMID: 32193904
+Added new PMID: 32193883
+Added new PMID: 32193831
+Added new PMID: 32193638
+Added new PMID: 32193330
+Added new PMID: 32193314
+Added new PMID: 32193305
+Going to download record 211 to 220
+Added new PMID: 32193300
+Added new PMID: 32193299
+Added new PMID: 32193037
+Added new PMID: 32192856
+Added new PMID: 32192711
+Added new PMID: 32192580
+Added new PMID: 32192550
+Added new PMID: 32192541
+PMID exists
+Added new PMID: 32192297
+Going to download record 221 to 230
+Added new PMID: 32192296
+Added new PMID: 32192295
+Added new PMID: 32192294
+Added new PMID: 32192247
+Added new PMID: 32192233
+Added new PMID: 32191830
+Added new PMID: 32191813
+Added new PMID: 32191764
+Added new PMID: 32191691
+Added new PMID: 32191689
+Going to download record 231 to 240
+Added new PMID: 32191676
+Added new PMID: 32191675
+Added new PMID: 32191623
+Added new PMID: 32191588
+Added new PMID: 32191341
+Added new PMID: 32191174
+Added new PMID: 32191173
+Added new PMID: 32190908
+Added new PMID: 32190904
+PMID exists
+Going to download record 241 to 250
+Added new PMID: 32190785
+Added new PMID: 32190575
+PMID exists
+Added new PMID: 32189460
+Added new PMID: 32189175
+Added new PMID: 32189081
+Added new PMID: 32189015
+Added new PMID: 32189010
+Added new PMID: 32188819
+Added new PMID: 32188753
+Going to download record 251 to 260
+Added new PMID: 32188598
+Added new PMID: 32188590
+Added new PMID: 32188484
+Added new PMID: 32188482
+Added new PMID: 32188445
+PMID exists
+Added new PMID: 32187921
+Added new PMID: 32187920
+Added new PMID: 32187834
+Added new PMID: 32187489
+Going to download record 261 to 270
+Added new PMID: 32187458
+Added new PMID: 32187288
+Added new PMID: 32187257
+Added new PMID: 32187007
+Added new PMID: 32186952
+Added new PMID: 32186951
+Added new PMID: 32186894
+Added new PMID: 32186279
+Added new PMID: 32186278
+Added new PMID: 32186277
+Going to download record 271 to 280
+Added new PMID: 32186172
+Added new PMID: 32186171
+Added new PMID: 32185921
+Added new PMID: 32185863
+Added new PMID: 32185669
+Added new PMID: 32185371
+Added new PMID: 32185370
+Added new PMID: 32185369
+Added new PMID: 32184486
+Added new PMID: 32184233
+Going to download record 281 to 290
+Added new PMID: 32184131
+Added new PMID: 32184128
+Added new PMID: 32183941
+Added new PMID: 32183937
+Added new PMID: 32183935
+Added new PMID: 32183934
+Added new PMID: 32183930
+Added new PMID: 32183920
+Added new PMID: 32183901
+Added new PMID: 32183864
+Going to download record 291 to 300
+Added new PMID: 32183357
+Added new PMID: 32183172
+Added new PMID: 32182811
+Added new PMID: 32182131
+Added new PMID: 32181990
+Added new PMID: 32181969
+Added new PMID: 32181904
+Added new PMID: 32181903
+Added new PMID: 32181901
+Added new PMID: 32181874
+Going to download record 301 to 310
+Added new PMID: 32181873
+Added new PMID: 32181864
+Added new PMID: 32181795
+Added new PMID: 32181672
+Added new PMID: 32181577
+Added new PMID: 32181488
+Added new PMID: 32181483
+PMID exists
+Added new PMID: 32180292
+Added new PMID: 32180175
+Going to download record 311 to 320
+Added new PMID: 32180173
+Added new PMID: 32180140
+Added new PMID: 32179910
+Added new PMID: 32179908
+Added new PMID: 32179860
+Added new PMID: 32179702
+Added new PMID: 32179517
+Added new PMID: 32179150
+Added new PMID: 32179137
+Added new PMID: 32179126
+Going to download record 321 to 330
+Added new PMID: 32179125
+Added new PMID: 32179124
+Added new PMID: 32179106
+Added new PMID: 32178975
+Added new PMID: 32178970
+Added new PMID: 32178954
+Added new PMID: 32178769
+PMID exists
+Added new PMID: 32178716
+Added new PMID: 32178711
+Going to download record 331 to 340
+Added new PMID: 32178593
+Added new PMID: 32178547
+Added new PMID: 32176808
+Added new PMID: 32176772
+Added new PMID: 32176356
+Added new PMID: 32176272
+Added new PMID: 32175797
+Added new PMID: 32175703
+Added new PMID: 32175421
+Added new PMID: 32174267
+Going to download record 341 to 350
+Added new PMID: 32174129
+Added new PMID: 32174128
+Added new PMID: 32174095
+Added new PMID: 32174094
+Added new PMID: 32174069
+Added new PMID: 32174057
+Added new PMID: 32174054
+PMID exists
+Added new PMID: 32173725
+Added new PMID: 32173576
+Going to download record 351 to 360
+Added new PMID: 32173574
+Added new PMID: 32173572
+Added new PMID: 32173287
+PMID exists
+Added new PMID: 32173188
+Added new PMID: 32173110
+PMID exists
+PMID exists
+Added new PMID: 32172550
+Added new PMID: 32172546
+Going to download record 361 to 370
+Added new PMID: 32172228
+Added new PMID: 32172227
+Added new PMID: 32172226
+Added new PMID: 32171952
+Added new PMID: 32171951
+Added new PMID: 32171948
+Added new PMID: 32171872
+Added new PMID: 32171869
+PMID exists
+Added new PMID: 32171866
+Going to download record 371 to 380
+Added new PMID: 32171808
+Added new PMID: 32171807
+Added new PMID: 32171806
+PMID exists
+Added new PMID: 32171622
+Added new PMID: 32171450
+Added new PMID: 32171193
+Added new PMID: 32171191
+Added new PMID: 32171190
+Added new PMID: 32171076
+Going to download record 381 to 390
+Added new PMID: 32171075
+Added new PMID: 32171074
+Added new PMID: 32171059
+Added new PMID: 32170865
+Added new PMID: 32170806
+Added new PMID: 32170800
+Added new PMID: 32170560
+Added new PMID: 32170559
+Added new PMID: 32170017
+Added new PMID: 32169830
+Going to download record 391 to 400
+Added new PMID: 32169673
+Added new PMID: 32169574
+Added new PMID: 32169565
+Added new PMID: 32169481
+Added new PMID: 32169400
+PMID exists
+Added new PMID: 32168465
+Added new PMID: 32168464
+Added new PMID: 32168463
+Added new PMID: 32168162
+Going to download record 401 to 410
+Added new PMID: 32167853
+Added new PMID: 32167823
+Added new PMID: 32167816
+Added new PMID: 32167747
+Added new PMID: 32167533
+Added new PMID: 32167524
+Added new PMID: 32167445
+Added new PMID: 32167181
+Added new PMID: 32167180
+Added new PMID: 32167173
+Going to download record 411 to 420
+Added new PMID: 32167166
+Added new PMID: 32167153
+Added new PMID: 32167146
+Added new PMID: 32166939
+PMID exists
+Added new PMID: 32166600
+Added new PMID: 32166350
+Added new PMID: 32166318
+Added new PMID: 32166310
+Added new PMID: 32166128
+Going to download record 421 to 430
+Added new PMID: 32165854
+Added new PMID: 32165541
+Added new PMID: 32165502
+Added new PMID: 32165386
+Added new PMID: 32165352
+Added new PMID: 32165283
+Added new PMID: 32165057
+Added new PMID: 32164834
+Added new PMID: 32164708
+Added new PMID: 32164424
+Going to download record 431 to 440
+Added new PMID: 32164092
+Added new PMID: 32164091
+Added new PMID: 32164090
+Added new PMID: 32164089
+Added new PMID: 32164088
+Added new PMID: 32164087
+Added new PMID: 32164086
+Added new PMID: 32164085
+Added new PMID: 32164084
+Added new PMID: 32164083
+Going to download record 441 to 450
+Added new PMID: 32164082
+Added new PMID: 32164081
+Added new PMID: 32164080
+Added new PMID: 32164079
+Added new PMID: 32164078
+Added new PMID: 32164077
+Added new PMID: 32164053
+Added new PMID: 32163140
+Added new PMID: 32163030
+Added new PMID: 32162995
+Going to download record 451 to 460
+Added new PMID: 32162896
+Added new PMID: 32162702
+Added new PMID: 32162699
+Added new PMID: 32162679
+Added new PMID: 32162604
+Added new PMID: 32162476
+Added new PMID: 32162456
+Added new PMID: 32162212
+Added new PMID: 32162211
+Added new PMID: 32162081
+Going to download record 461 to 470
+Added new PMID: 32161968
+Added new PMID: 32161941
+Added new PMID: 32161940
+Added new PMID: 32161416
+Added new PMID: 32161408
+Added new PMID: 32161107
+Added new PMID: 32161092
+Added new PMID: 32160942
+PMID exists
+Added new PMID: 32160684
+Going to download record 471 to 480
+Added new PMID: 32160299
+Added new PMID: 32160273
+Added new PMID: 32160149
+Added new PMID: 32160148
+Added new PMID: 32159805
+Added new PMID: 32159237
+Added new PMID: 32159234
+Added new PMID: 32158961
+Added new PMID: 32157732
+Added new PMID: 32157235
+Going to download record 481 to 490
+Added new PMID: 32157233
+PMID exists
+Added new PMID: 32156607
+Added new PMID: 32156332
+Added new PMID: 32156331
+PMID exists
+PMID exists
+Added new PMID: 32156327
+PMID exists
+Added new PMID: 32156144
+Going to download record 491 to 500
+PMID exists
+Added new PMID: 32155789
+Added new PMID: 32155444
+Added new PMID: 32155431
+Added new PMID: 32155273
+Added new PMID: 32154505
+Added new PMID: 32154287
+Added new PMID: 32153171
+Added new PMID: 32153170
+Added new PMID: 32153144
+Going to download record 501 to 510
+Added new PMID: 32152612
+Added new PMID: 32152595
+Added new PMID: 32152082
+Added new PMID: 32152059
+PMID exists
+Added new PMID: 32151613
+Added new PMID: 32151335
+Added new PMID: 32151334
+Added new PMID: 32151326
+Added new PMID: 32151325
+Going to download record 511 to 520
+Added new PMID: 32151324
+Added new PMID: 32151320
+Added new PMID: 32151318
+Added new PMID: 32151274
+Added new PMID: 32150796
+Added new PMID: 32150360
+Added new PMID: 32150748
+Added new PMID: 32150618
+Added new PMID: 32150527
+Added new PMID: 32149773
+Going to download record 521 to 530
+Added new PMID: 32149771
+Added new PMID: 32149769
+Added new PMID: 32149768
+Added new PMID: 32149049
+Added new PMID: 32149043
+Added new PMID: 32149037
+Added new PMID: 32149036
+Added new PMID: 32148173
+Added new PMID: 32148172
+Added new PMID: 32147731
+Going to download record 531 to 540
+Added new PMID: 32147715
+PMID exists
+Added new PMID: 32147538
+Added new PMID: 32147516
+Added new PMID: 32147496
+Added new PMID: 32147406
+Added new PMID: 32146924
+Added new PMID: 32146721
+Added new PMID: 32146694
+Added new PMID: 32146554
+Going to download record 541 to 550
+PMID exists
+Added new PMID: 32145772
+Added new PMID: 32145768
+Added new PMID: 32145718
+Added new PMID: 32145466
+Added new PMID: 32145465
+Added new PMID: 32145275
+Added new PMID: 32145216
+Added new PMID: 32145215
+Added new PMID: 32145187
+Going to download record 551 to 560
+Added new PMID: 32145186
+Added new PMID: 32145156
+Added new PMID: 32144127
+Added new PMID: 32144116
+Added new PMID: 32143990
+Added new PMID: 32143519
+Added new PMID: 32143502
+PMID exists
+Added new PMID: 32142972
+Added new PMID: 32142938
+Going to download record 561 to 570
+Added new PMID: 32142928
+Added new PMID: 32142886
+Added new PMID: 32142651
+Added new PMID: 32142626
+Added new PMID: 32142596
+Added new PMID: 32141624
+Added new PMID: 32141619
+Added new PMID: 32141588
+PMID exists
+Added new PMID: 32141569
+Going to download record 571 to 580
+Added new PMID: 32141062
+Added new PMID: 32141058
+Added new PMID: 32140538
+Added new PMID: 32139521
+PMID exists
+Added new PMID: 32139299
+Added new PMID: 32138488
+Added new PMID: 32138266
+Added new PMID: 32135587
+Added new PMID: 32135586
+Going to download record 581 to 590
+Added new PMID: 32135585
+Added new PMID: 32135584
+Added new PMID: 32135077
+Added new PMID: 32134909
+Added new PMID: 32134861
+Added new PMID: 32134800
+Added new PMID: 32134681
+Added new PMID: 32134381
+PMID exists
+Added new PMID: 32134205
+Going to download record 591 to 600
+Added new PMID: 32134116
+Added new PMID: 32134111
+Added new PMID: 32133964
+Added new PMID: 32133962
+Added new PMID: 32133833
+Added new PMID: 32133832
+Added new PMID: 32133578
+Added new PMID: 32133153
+Added new PMID: 32133152
+Added new PMID: 32132747
+Going to download record 601 to 610
+Added new PMID: 32132744
+PMID exists
+Added new PMID: 32132379
+Added new PMID: 32132196
+Added new PMID: 32132184
+Added new PMID: 32131914
+PMID exists
+Added new PMID: 32131906
+Added new PMID: 32131537
+Added new PMID: 32130833
+Going to download record 611 to 620
+Added new PMID: 32130047
+Added new PMID: 32130038
+Added new PMID: 32129843
+Added new PMID: 32129805
+Added new PMID: 32129670
+Added new PMID: 32129583
+Added new PMID: 32129518
+Added new PMID: 32127713
+Added new PMID: 32127711
+Added new PMID: 32127703
+Going to download record 621 to 630
+Added new PMID: 32127666
+Added new PMID: 32127517
+Added new PMID: 32127125
+PMID exists
+PMID exists
+Added new PMID: 32127122
+Added new PMID: 32126292
+Added new PMID: 32126197
+Added new PMID: 32125873
+Added new PMID: 32125458
+Going to download record 631 to 640
+Added new PMID: 32125418
+Added new PMID: 32125362
+Added new PMID: 32125269
+Added new PMID: 32125140
+Added new PMID: 32125132
+Added new PMID: 32125131
+Added new PMID: 32125130
+Added new PMID: 32125126
+Added new PMID: 32124995
+PMID exists
+Going to download record 641 to 650
+Added new PMID: 32124733
+Added new PMID: 32124506
+Added new PMID: 32124179
+Added new PMID: 32124000
+Added new PMID: 32123989
+Added new PMID: 32123347
+Added new PMID: 32122812
+Added new PMID: 32122469
+Added new PMID: 32122468
+Added new PMID: 32122430
+Going to download record 651 to 660
+Added new PMID: 32122250
+Added new PMID: 32122113
+Added new PMID: 32121356
+Added new PMID: 32120965
+Added new PMID: 32120822
+Added new PMID: 32120458
+Added new PMID: 32120312
+Added new PMID: 32119961
+Added new PMID: 32119884
+Added new PMID: 32119825
+Going to download record 661 to 670
+Added new PMID: 32119824
+Added new PMID: 32119647
+Added new PMID: 32119083
+Added new PMID: 32118644
+Added new PMID: 32118640
+Added new PMID: 32118639
+Added new PMID: 32118533
+Added new PMID: 32118394
+Added new PMID: 32118391
+Added new PMID: 32118390
+Going to download record 671 to 680
+Added new PMID: 32118389
+Added new PMID: 32117569
+Added new PMID: 32116147
+Added new PMID: 32115733
+Added new PMID: 32115186
+Added new PMID: 32114755
+Added new PMID: 32114744
+Added new PMID: 32114193
+Added new PMID: 32114094
+Added new PMID: 32114075
+Going to download record 681 to 690
+Added new PMID: 32114074
+Added new PMID: 32113880
+Added new PMID: 32113846
+Added new PMID: 32113824
+Added new PMID: 32113704
+Added new PMID: 32113508
+Added new PMID: 32113507
+Added new PMID: 32113506
+Added new PMID: 32113505
+Added new PMID: 32113495
+Going to download record 691 to 700
+Added new PMID: 32113494
+Added new PMID: 32113198
+Added new PMID: 32113197
+Added new PMID: 32113196
+Added new PMID: 32112977
+Added new PMID: 32112966
+Added new PMID: 32112887
+Added new PMID: 32112886
+Added new PMID: 32112884
+Added new PMID: 32112859
+Going to download record 701 to 710
+Added new PMID: 32112857
+Added new PMID: 32112714
+Added new PMID: 32112549
+Added new PMID: 32112336
+Added new PMID: 32112082
+Added new PMID: 32111649
+Added new PMID: 32111645
+Added new PMID: 32111449
+Added new PMID: 32111295
+Added new PMID: 32111262
+Going to download record 711 to 720
+Added new PMID: 32111114
+Added new PMID: 32111113
+Added new PMID: 32110875
+Added new PMID: 32110742
+Added new PMID: 32109444
+Added new PMID: 32109443
+Added new PMID: 32109372
+Added new PMID: 32109279
+Added new PMID: 32109274
+Added new PMID: 32109273
+Going to download record 721 to 730
+Added new PMID: 32109013
+Added new PMID: 32109011
+Added new PMID: 32108862
+Added new PMID: 32108495
+Added new PMID: 32108460
+Added new PMID: 32108459
+Added new PMID: 32108359
+Added new PMID: 32108352
+Added new PMID: 32108351
+Added new PMID: 32108087
+Going to download record 731 to 740
+Added new PMID: 32108071
+Added new PMID: 32107910
+Added new PMID: 32107909
+PMID exists
+Added new PMID: 32107548
+Added new PMID: 32107200
+Added new PMID: 32107119
+Added new PMID: 32106852
+PMID exists
+Added new PMID: 32106462
+Going to download record 741 to 750
+Added new PMID: 32106216
+Added new PMID: 32105680
+Added new PMID: 32105637
+Added new PMID: 32105632
+Added new PMID: 32105610
+Added new PMID: 32105609
+Added new PMID: 32105090
+Added new PMID: 32105052
+Added new PMID: 32105049
+Added new PMID: 32104917
+Going to download record 751 to 760
+Added new PMID: 32104915
+Added new PMID: 32104911
+Added new PMID: 32104907
+Added new PMID: 32104884
+Added new PMID: 32103652
+Added new PMID: 32102856
+Added new PMID: 32102777
+Added new PMID: 32102726
+Added new PMID: 32102625
+Added new PMID: 32102621
+Going to download record 761 to 770
+Added new PMID: 32102279
+Added new PMID: 32102141
+Added new PMID: 32102140
+Added new PMID: 32101683
+Added new PMID: 32101510
+Added new PMID: 32100979
+PMID exists
+Added new PMID: 32100876
+PMID exists
+Added new PMID: 32100486
+Going to download record 771 to 780
+Added new PMID: 32100485
+Added new PMID: 32099934
+Added new PMID: 32099716
+Added new PMID: 32098616
+Added new PMID: 32098422
+Added new PMID: 32098302
+Added new PMID: 32098289
+Added new PMID: 32098019
+Added new PMID: 32097725
+Added new PMID: 32097202
+Going to download record 781 to 790
+Added new PMID: 32096567
+Added new PMID: 32096566
+Added new PMID: 32096395
+Added new PMID: 32096367
+Added new PMID: 32096366
+Added new PMID: 32096116
+Added new PMID: 32094589
+Added new PMID: 32094336
+Added new PMID: 32094225
+Added new PMID: 32093921
+Going to download record 791 to 800
+Added new PMID: 32093461
+Added new PMID: 32093211
+Added new PMID: 32093043
+PMID exists
+Added new PMID: 32092748
+Added new PMID: 32092539
+Added new PMID: 32092483
+Added new PMID: 32092392
+Added new PMID: 32092391
+Added new PMID: 32092296
+Going to download record 801 to 810
+Added new PMID: 32091533
+Added new PMID: 32091395
+Added new PMID: 32091386
+PMID exists
+Added new PMID: 32088678
+Added new PMID: 32088598
+Added new PMID: 32088339
+Added new PMID: 32088335
+Added new PMID: 32088333
+Added new PMID: 32087820
+Going to download record 811 to 820
+Added new PMID: 32087777
+Added new PMID: 32087623
+PMID exists
+Added new PMID: 32087216
+Added new PMID: 32087125
+Added new PMID: 32087122
+Added new PMID: 32087098
+Added new PMID: 32086938
+Added new PMID: 32086236
+Added new PMID: 32085843
+Going to download record 821 to 830
+Added new PMID: 32085842
+Added new PMID: 32085841
+Added new PMID: 32085840
+Added new PMID: 32085839
+Added new PMID: 32084675
+Added new PMID: 32083985
+Added new PMID: 32083831
+Added new PMID: 32083728
+PMID exists
+Added new PMID: 32081569
+Going to download record 831 to 840
+Added new PMID: 32081428
+Added new PMID: 32080993
+Added new PMID: 32080992
+PMID exists
+Added new PMID: 32080990
+Added new PMID: 32080723
+Added new PMID: 32079150
+Added new PMID: 32078803
+Added new PMID: 32078596
+Added new PMID: 32078595
+Going to download record 841 to 850
+Added new PMID: 32078069
+Added new PMID: 32078048
+Added new PMID: 32077933
+Added new PMID: 32077789
+Added new PMID: 32077661
+Added new PMID: 32077660
+Added new PMID: 32077659
+Added new PMID: 32077441
+Added new PMID: 32077440
+Added new PMID: 32077115
+Going to download record 851 to 860
+Added new PMID: 32075877
+Added new PMID: 32075791
+Added new PMID: 32075786
+Added new PMID: 32075365
+Added new PMID: 32075152
+Added new PMID: 32074719
+Added new PMID: 32074550
+Added new PMID: 32074516
+Added new PMID: 32074487
+PMID exists
+Going to download record 861 to 870
+Added new PMID: 32074444
+Added new PMID: 32073631
+Added new PMID: 32073161
+Added new PMID: 32072794
+Added new PMID: 32072569
+Added new PMID: 32072255
+Added new PMID: 32071427
+Added new PMID: 32071063
+Added new PMID: 32070753
+Added new PMID: 32070466
+Going to download record 871 to 880
+PMID exists
+Added new PMID: 32070391
+Added new PMID: 32068012
+Added new PMID: 32067043
+Added new PMID: 32066541
+Added new PMID: 32066526
+Added new PMID: 32066525
+Added new PMID: 32065221
+Added new PMID: 32065057
+Added new PMID: 32065055
+Going to download record 881 to 890
+Added new PMID: 32064855
+Added new PMID: 32064853
+Added new PMID: 32064795
+Added new PMID: 32062875
+PMID exists
+Added new PMID: 32061335
+Added new PMID: 32061313
+Added new PMID: 32061311
+Added new PMID: 32061284
+Added new PMID: 32061201
+Going to download record 891 to 900
+Added new PMID: 32061200
+Added new PMID: 32061198
+Added new PMID: 32060933
+Added new PMID: 32060789
+Added new PMID: 32059801
+Added new PMID: 32059800
+Added new PMID: 32059799
+Added new PMID: 32059798
+Added new PMID: 32057769
+Added new PMID: 32057212
+Going to download record 901 to 910
+Added new PMID: 32057211
+Added new PMID: 32057209
+Added new PMID: 32056509
+Added new PMID: 32056407
+Added new PMID: 32056397
+Added new PMID: 32056249
+Added new PMID: 32056235
+Added new PMID: 32055945
+Added new PMID: 32054787
+Added new PMID: 32054124
+Going to download record 911 to 920
+Added new PMID: 32054045
+Added new PMID: 32053579
+Added new PMID: 32053479
+Added new PMID: 32053470
+Added new PMID: 32053437
+Added new PMID: 32053389
+Added new PMID: 32053148
+Added new PMID: 32052846
+Added new PMID: 32052841
+Added new PMID: 32052514
+Going to download record 921 to 930
+Added new PMID: 32052466
+Added new PMID: 32052373
+Added new PMID: 32052064
+Added new PMID: 32051073
+Added new PMID: 32051072
+Added new PMID: 32051071
+Added new PMID: 32050635
+Added new PMID: 32050080
+Added new PMID: 32050060
+Added new PMID: 32050059
+Going to download record 931 to 940
+Added new PMID: 32049687
+Added new PMID: 32049602
+Added new PMID: 32049601
+Added new PMID: 32048818
+PMID exists
+Added new PMID: 32048740
+Added new PMID: 32048560
+Added new PMID: 32048163
+Added new PMID: 32047895
+PMID exists
+Going to download record 941 to 950
+Added new PMID: 32046816
+PMID exists
+Added new PMID: 32046814
+Added new PMID: 32046137
+Added new PMID: 32044814
+Added new PMID: 32044389
+Added new PMID: 32044388
+Added new PMID: 32044387
+Added new PMID: 32043983
+Added new PMID: 32043982
+Going to download record 951 to 960
+Added new PMID: 32043978
+Added new PMID: 32040667
+Added new PMID: 32040190
+Added new PMID: 32037389
+Added new PMID: 32036774
+Added new PMID: 32035997
+Added new PMID: 32035538
+Added new PMID: 32035533
+Added new PMID: 32035511
+Added new PMID: 32035510
+Going to download record 961 to 970
+Added new PMID: 32035431
+Added new PMID: 32035428
+Added new PMID: 32035269
+Added new PMID: 32035030
+Added new PMID: 32035028
+Added new PMID: 32035018
+Added new PMID: 32034840
+Added new PMID: 32034659
+Added new PMID: 32033967
+Added new PMID: 32033514
+Going to download record 971 to 980
+Added new PMID: 32033513
+Added new PMID: 32033064
+Added new PMID: 32032682
+Added new PMID: 32032614
+Added new PMID: 32032529
+Added new PMID: 32032497
+Added new PMID: 32031590
+Added new PMID: 32031583
+Added new PMID: 32031570
+Added new PMID: 32031481
+Going to download record 981 to 990
+Added new PMID: 32031264
+Added new PMID: 32031234
+Added new PMID: 32030926
+Added new PMID: 32030925
+PMID exists
+Added new PMID: 32027812
+Added new PMID: 32027631
+PMID exists
+PMID exists
+Added new PMID: 32027035
+Going to download record 991 to 1000
+Added new PMID: 32026671
+Added new PMID: 32026148
+Added new PMID: 32024976
+Added new PMID: 32024089
+Added new PMID: 32023775
+Added new PMID: 32023687
+Added new PMID: 32023686
+Added new PMID: 32023685
+Added new PMID: 32023684
+Added new PMID: 32023682
+Going to download record 1001 to 1010
+Added new PMID: 32023681
+Added new PMID: 32023680
+Added new PMID: 32023427
+Added new PMID: 32023340
+Added new PMID: 32022370
+PMID exists
+Added new PMID: 32022275
+Added new PMID: 32020915
+Added new PMID: 32020836
+Added new PMID: 32020029
+Going to download record 1011 to 1020
+PMID exists
+Added new PMID: 32019667
+Added new PMID: 32019636
+Added new PMID: 32017984
+Added new PMID: 32017662
+Added new PMID: 32017661
+Added new PMID: 32017153
+Added new PMID: 32015508
+Added new PMID: 32015507
+Added new PMID: 32014114
+Going to download record 1021 to 1030
+Added new PMID: 32013795
+Added new PMID: 32010938
+Added new PMID: 32009228
+Added new PMID: 32009128
+Added new PMID: 32007643
+Added new PMID: 32007627
+Added new PMID: 32007145
+Added new PMID: 32007143
+Added new PMID: 32006657
+Added new PMID: 32006656
+Going to download record 1031 to 1040
+Added new PMID: 32005086
+Added new PMID: 32004758
+Added new PMID: 32004427
+Added new PMID: 32004066
+Added new PMID: 32003646
+Added new PMID: 32003551
+Added new PMID: 32003000
+Added new PMID: 32001309
+Added new PMID: 31997618
+Added new PMID: 31997390
+Going to download record 1041 to 1050
+Added new PMID: 31996494
+Added new PMID: 31996437
+Added new PMID: 31995857
+Added new PMID: 31994742
+Added new PMID: 31994738
+Added new PMID: 31992886
+Added new PMID: 31992880
+Added new PMID: 31992390
+Added new PMID: 31992388
+Added new PMID: 31992387
+Going to download record 1051 to 1060
+Added new PMID: 31991628
+PMID exists
+Added new PMID: 31991079
+Added new PMID: 31987001
+Added new PMID: 31986264
+Added new PMID: 31986261
+Added new PMID: 31986259
+Added new PMID: 31986258
+Added new PMID: 31986257
+Added new PMID: 31986242
+Going to download record 1061 to 1068
+Added new PMID: 31985790
+Added new PMID: 31979013
+Added new PMID: 31978945
+Added new PMID: 31978293
+Added new PMID: 31967327
+PMID exists
+Added new PMID: 31944312
+Added new PMID: 31943059
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND NEJM[journal] OR BMJ[journal] OR lancet[journal] OR nature[journal] OR JAMA[journal]  AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 3006 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32112749
+Added new PMID: 32112747
+Added new PMID: 32112745
+Going to download record 21 to 30
+Added new PMID: 32112743
+Added new PMID: 32112741
+Added new PMID: 32035507
+Added new PMID: 31986254
+Added new PMID: 32112750
+Added new PMID: 32112748
+Added new PMID: 32112746
+Added new PMID: 32112744
+Added new PMID: 32112742
+Added new PMID: 31999952
+Going to download record 31 to 40
+Added new PMID: 31999950
+Added new PMID: 31999948
+Added new PMID: 32007135
+Added new PMID: 31999951
+Added new PMID: 31999949
+Added new PMID: 31999947
+Added new PMID: 32174382
+Added new PMID: 32200936
+Added new PMID: 32199080
+Added new PMID: 32197101
+Going to download record 41 to 50
+Added new PMID: 32197099
+PMID exists
+PMID exists
+Added new PMID: 32151316
+Added new PMID: 32119841
+Added new PMID: 32119839
+Added new PMID: 32087768
+Added new PMID: 32087140
+Added new PMID: 32043977
+Added new PMID: 32043975
+Going to download record 51 to 60
+Added new PMID: 32014123
+Added new PMID: 32014121
+Added new PMID: 32004497
+Added new PMID: 32199471
+Added new PMID: 32199083
+Added new PMID: 32197116
+Added new PMID: 32192577
+Added new PMID: 32113520
+Added new PMID: 32113518
+Added new PMID: 32113516
+Going to download record 61 to 70
+Added new PMID: 32213338
+Added new PMID: 32213337
+Added new PMID: 32213336
+Added new PMID: 32213335
+Added new PMID: 32213334
+Added new PMID: 32213333
+Added new PMID: 32213332
+Added new PMID: 32213331
+Added new PMID: 32213330
+Added new PMID: 32213329
+Going to download record 71 to 80
+Added new PMID: 32213327
+Added new PMID: 32213326
+Added new PMID: 32213325
+Added new PMID: 32213320
+Added new PMID: 32211889
+Added new PMID: 32211831
+Added new PMID: 32211830
+Added new PMID: 32211823
+Added new PMID: 32211819
+Added new PMID: 32210389
+Going to download record 81 to 90
+Added new PMID: 32210388
+Added new PMID: 32210387
+Added new PMID: 32210386
+Added new PMID: 32210385
+Added new PMID: 32210384
+Added new PMID: 32210383
+Added new PMID: 32210382
+Added new PMID: 32210381
+Added new PMID: 32210379
+Added new PMID: 32210378
+Going to download record 91 to 100
+Added new PMID: 32210377
+Added new PMID: 32210376
+Added new PMID: 32210375
+Added new PMID: 32210374
+Added new PMID: 32210373
+Added new PMID: 32210372
+Added new PMID: 32210371
+Added new PMID: 32209588
+Added new PMID: 32209559
+Added new PMID: 32209558
+Going to download record 101 to 110
+Added new PMID: 32209552
+Added new PMID: 32209551
+Added new PMID: 32209549
+Added new PMID: 32209548
+Added new PMID: 32209547
+Added new PMID: 32209546
+Added new PMID: 32209545
+Added new PMID: 32209544
+Added new PMID: 32209543
+Added new PMID: 32209542
+Going to download record 111 to 120
+Added new PMID: 32209539
+Added new PMID: 32209450
+Added new PMID: 32209449
+Added new PMID: 32208486
+Added new PMID: 32208485
+Added new PMID: 32207816
+Added new PMID: 32207810
+Added new PMID: 32207809
+Added new PMID: 32207808
+Added new PMID: 32207807
+Going to download record 121 to 130
+Added new PMID: 32207806
+Added new PMID: 32207804
+Added new PMID: 32207802
+Added new PMID: 32207800
+Added new PMID: 32207799
+Added new PMID: 32207798
+Added new PMID: 32207797
+Added new PMID: 32207796
+Added new PMID: 32207795
+Added new PMID: 32207794
+Going to download record 131 to 140
+Added new PMID: 32207793
+Added new PMID: 32207792
+Added new PMID: 32207791
+Added new PMID: 32207790
+Added new PMID: 32207789
+Added new PMID: 32207788
+Added new PMID: 32207787
+Added new PMID: 32207786
+Added new PMID: 32207785
+Added new PMID: 32207783
+Going to download record 141 to 150
+Added new PMID: 32207782
+Added new PMID: 32207781
+Added new PMID: 32207779
+Added new PMID: 32207778
+Added new PMID: 32207777
+Added new PMID: 32207776
+Added new PMID: 32207775
+Added new PMID: 32207774
+Added new PMID: 32207769
+Added new PMID: 32207768
+Going to download record 151 to 160
+Added new PMID: 32207767
+Added new PMID: 32205877
+Added new PMID: 32205876
+Added new PMID: 32205875
+Added new PMID: 32205872
+PMID exists
+Added new PMID: 32205363
+Added new PMID: 32205356
+Added new PMID: 32205355
+Added new PMID: 32205354
+Going to download record 161 to 170
+Added new PMID: 32205342
+Added new PMID: 32205335
+Added new PMID: 32205334
+Added new PMID: 32205322
+Added new PMID: 32205321
+Added new PMID: 32205318
+Added new PMID: 32205317
+Added new PMID: 32205314
+Added new PMID: 32205312
+Added new PMID: 32205309
+Going to download record 171 to 180
+Added new PMID: 32205308
+Added new PMID: 32205307
+Added new PMID: 32205306
+Added new PMID: 32203977
+Added new PMID: 32203713
+Added new PMID: 32203712
+PMID exists
+Added new PMID: 32203710
+Added new PMID: 32203709
+Added new PMID: 32203708
+Going to download record 181 to 190
+Added new PMID: 32203699
+Added new PMID: 32203698
+Added new PMID: 32203697
+Added new PMID: 32203696
+PMID exists
+Added new PMID: 32203692
+Added new PMID: 32203691
+Added new PMID: 32203690
+Added new PMID: 32203681
+Added new PMID: 32203680
+Going to download record 191 to 200
+Added new PMID: 32203382
+Added new PMID: 32203381
+Added new PMID: 32203380
+Added new PMID: 32203379
+Added new PMID: 32203378
+Added new PMID: 32203377
+Added new PMID: 32203376
+Added new PMID: 32203375
+Added new PMID: 32203374
+Added new PMID: 32203373
+Going to download record 201 to 210
+Added new PMID: 32203372
+Added new PMID: 32203371
+Added new PMID: 32203370
+Added new PMID: 32203369
+Added new PMID: 32203368
+Added new PMID: 32203367
+Added new PMID: 32203366
+Added new PMID: 32203365
+Added new PMID: 32203364
+Added new PMID: 32203363
+Going to download record 211 to 220
+Added new PMID: 32203362
+Added new PMID: 32203361
+Added new PMID: 32203360
+Added new PMID: 32203359
+Added new PMID: 32203358
+Added new PMID: 32203357
+Added new PMID: 32203356
+Added new PMID: 32203355
+Added new PMID: 32203354
+Added new PMID: 32203353
+Going to download record 221 to 230
+Added new PMID: 32203352
+Added new PMID: 32203351
+Added new PMID: 32203350
+Added new PMID: 32203349
+Added new PMID: 32203348
+Added new PMID: 32203347
+Added new PMID: 32203346
+Added new PMID: 32203345
+Added new PMID: 32203344
+Added new PMID: 32203343
+Going to download record 231 to 240
+Added new PMID: 32203342
+Added new PMID: 32203341
+Added new PMID: 32203340
+Added new PMID: 32203339
+Added new PMID: 32203338
+Added new PMID: 32203337
+Added new PMID: 32203336
+Added new PMID: 32203335
+Added new PMID: 32203334
+Added new PMID: 32203333
+Going to download record 241 to 250
+Added new PMID: 32203332
+Added new PMID: 32203331
+Added new PMID: 32203330
+Added new PMID: 32203329
+Added new PMID: 32203328
+Added new PMID: 32202611
+Added new PMID: 32202608
+PMID exists
+PMID exists
+Added new PMID: 32199512
+Going to download record 251 to 260
+PMID exists
+PMID exists
+Added new PMID: 32199509
+Added new PMID: 32199508
+Added new PMID: 32199507
+Added new PMID: 32199506
+Added new PMID: 32199504
+Added new PMID: 32199503
+Added new PMID: 32199502
+Added new PMID: 32199501
+Going to download record 261 to 270
+Added new PMID: 32199500
+Added new PMID: 32199499
+Added new PMID: 32199498
+Added new PMID: 32199497
+Added new PMID: 32199496
+Added new PMID: 32199495
+Added new PMID: 32199494
+Added new PMID: 32199493
+Added new PMID: 32199492
+Added new PMID: 32199491
+Going to download record 271 to 280
+Added new PMID: 32199490
+Added new PMID: 32199489
+Added new PMID: 32199488
+Added new PMID: 32199487
+Added new PMID: 32199486
+Added new PMID: 32199485
+Added new PMID: 32199484
+Added new PMID: 32199483
+Added new PMID: 32199482
+Added new PMID: 32199481
+Going to download record 281 to 290
+Added new PMID: 32199480
+PMID exists
+Added new PMID: 32199478
+Added new PMID: 32199477
+Added new PMID: 32199476
+Added new PMID: 32199475
+PMID exists
+Added new PMID: 32199473
+Added new PMID: 32199472
+PMID exists
+Going to download record 291 to 300
+Added new PMID: 32199470
+Added new PMID: 32199469
+Added new PMID: 32199468
+Added new PMID: 32199467
+Added new PMID: 32199466
+Added new PMID: 32199126
+Added new PMID: 32199125
+Added new PMID: 32199124
+Added new PMID: 32199123
+Added new PMID: 32199122
+Going to download record 301 to 310
+Added new PMID: 32199121
+Added new PMID: 32199120
+Added new PMID: 32199119
+Added new PMID: 32199118
+Added new PMID: 32199117
+Added new PMID: 32199116
+Added new PMID: 32199115
+Added new PMID: 32199114
+Added new PMID: 32199113
+Added new PMID: 32199112
+Going to download record 311 to 320
+Added new PMID: 32199111
+Added new PMID: 32199110
+Added new PMID: 32199109
+Added new PMID: 32199108
+Added new PMID: 32199107
+Added new PMID: 32199106
+PMID exists
+Added new PMID: 32199100
+Added new PMID: 32199099
+Added new PMID: 32199098
+Going to download record 321 to 330
+Added new PMID: 32199097
+Added new PMID: 32199096
+Added new PMID: 32199095
+Added new PMID: 32199094
+Added new PMID: 32199093
+Added new PMID: 32199092
+Added new PMID: 32199091
+Added new PMID: 32199090
+Added new PMID: 32199089
+Added new PMID: 32199088
+Going to download record 331 to 340
+Added new PMID: 32199087
+Added new PMID: 32199086
+Added new PMID: 32199085
+Added new PMID: 32199084
+PMID exists
+PMID exists
+Added new PMID: 32199079
+Added new PMID: 32199078
+Added new PMID: 32199077
+Added new PMID: 32199076
+Going to download record 341 to 350
+PMID exists
+Added new PMID: 32199074
+Added new PMID: 32199073
+Added new PMID: 32199072
+PMID exists
+Added new PMID: 32198184
+Added new PMID: 32198179
+Added new PMID: 32198178
+PMID exists
+Added new PMID: 32198153
+Going to download record 351 to 360
+Added new PMID: 32198148
+Added new PMID: 32198147
+PMID exists
+Added new PMID: 32198138
+Added new PMID: 32198135
+Added new PMID: 32198129
+Added new PMID: 32197117
+PMID exists
+Added new PMID: 32197112
+Added new PMID: 32197111
+Going to download record 361 to 370
+Added new PMID: 32197110
+Added new PMID: 32197109
+Added new PMID: 32197108
+Added new PMID: 32197107
+Added new PMID: 32197106
+Added new PMID: 32197105
+Added new PMID: 32197104
+Added new PMID: 32197103
+Added new PMID: 32197102
+PMID exists
+Going to download record 371 to 380
+Added new PMID: 32197100
+PMID exists
+Added new PMID: 32197098
+Added new PMID: 32197097
+Added new PMID: 32197096
+Added new PMID: 32197095
+Added new PMID: 32197093
+Added new PMID: 32197092
+Added new PMID: 32197091
+Added new PMID: 32196543
+Going to download record 381 to 390
+Added new PMID: 32196079
+Added new PMID: 32196073
+Added new PMID: 32193352
+Added new PMID: 32193283
+Added new PMID: 32193280
+Added new PMID: 32193255
+Added new PMID: 32193203
+Added new PMID: 32193197
+Added new PMID: 32193174
+Added new PMID: 32192629
+Going to download record 391 to 400
+Added new PMID: 32192628
+Added new PMID: 32192627
+Added new PMID: 32192601
+Added new PMID: 32192586
+Added new PMID: 32192585
+Added new PMID: 32192584
+Added new PMID: 32192583
+Added new PMID: 32192582
+Added new PMID: 32192581
+PMID exists
+Going to download record 401 to 410
+Added new PMID: 32192579
+Added new PMID: 32192578
+PMID exists
+Added new PMID: 32192576
+Added new PMID: 32192575
+Added new PMID: 32192574
+Added new PMID: 32192573
+Added new PMID: 32191284
+Added new PMID: 32191262
+Added new PMID: 32191260
+Going to download record 411 to 420
+Added new PMID: 32191259
+Added new PMID: 32188957
+Added new PMID: 32188955
+Added new PMID: 32188954
+Added new PMID: 32188953
+Added new PMID: 32188952
+Added new PMID: 32188951
+Added new PMID: 32188950
+Added new PMID: 32188949
+Added new PMID: 32188948
+Going to download record 421 to 430
+Added new PMID: 32188947
+Added new PMID: 32188946
+Added new PMID: 32188945
+Added new PMID: 32188944
+Added new PMID: 32188943
+Added new PMID: 32188942
+Added new PMID: 32188941
+Added new PMID: 32188940
+Added new PMID: 32188939
+Added new PMID: 32188938
+Going to download record 431 to 440
+Added new PMID: 32188937
+Added new PMID: 32188637
+Added new PMID: 32188602
+Added new PMID: 32188600
+PMID exists
+Added new PMID: 32188597
+Added new PMID: 32188596
+Added new PMID: 32188595
+Added new PMID: 32188592
+Added new PMID: 32188591
+Going to download record 441 to 450
+PMID exists
+Added new PMID: 32188589
+Added new PMID: 32188588
+Added new PMID: 32188587
+Added new PMID: 32188586
+PMID exists
+PMID exists
+Added new PMID: 32186687
+Added new PMID: 32186661
+Added new PMID: 32186660
+Going to download record 451 to 460
+Added new PMID: 32184490
+Added new PMID: 32184489
+Added new PMID: 32184488
+Added new PMID: 32184487
+PMID exists
+Added new PMID: 32184485
+Added new PMID: 32184484
+Added new PMID: 32184483
+Added new PMID: 32184474
+Added new PMID: 32184473
+Going to download record 461 to 470
+Added new PMID: 32184472
+Added new PMID: 32184471
+Added new PMID: 32184298
+Added new PMID: 32184276
+PMID exists
+Added new PMID: 32184232
+Added new PMID: 32184226
+Added new PMID: 32184216
+Added new PMID: 32184211
+Added new PMID: 32184209
+Going to download record 471 to 480
+Added new PMID: 32184208
+Added new PMID: 32184207
+Added new PMID: 32184206
+Added new PMID: 32184205
+Added new PMID: 32184204
+Added new PMID: 32184202
+Added new PMID: 32184201
+Added new PMID: 32183981
+Added new PMID: 32181855
+Added new PMID: 32181854
+Going to download record 481 to 490
+Added new PMID: 32181853
+Added new PMID: 32181851
+Added new PMID: 32181849
+Added new PMID: 32181848
+Added new PMID: 32181847
+Added new PMID: 32181846
+Added new PMID: 32181845
+Added new PMID: 32181844
+Added new PMID: 32181843
+Added new PMID: 32181842
+Going to download record 491 to 500
+Added new PMID: 32181841
+Added new PMID: 32181840
+Added new PMID: 32181839
+Added new PMID: 32181838
+Added new PMID: 32181836
+Added new PMID: 32181835
+Added new PMID: 32181834
+Added new PMID: 32181833
+Added new PMID: 32181832
+Added new PMID: 32181831
+Going to download record 501 to 510
+Added new PMID: 32181830
+PMID exists
+Added new PMID: 32179878
+Added new PMID: 32179876
+PMID exists
+Added new PMID: 32179859
+Added new PMID: 32179575
+Added new PMID: 32179567
+Added new PMID: 32179555
+Added new PMID: 32179548
+Going to download record 511 to 520
+Added new PMID: 32179534
+Added new PMID: 32179533
+Added new PMID: 32179518
+PMID exists
+Added new PMID: 32179508
+Added new PMID: 32178778
+Added new PMID: 32178777
+Added new PMID: 32178776
+Added new PMID: 32178775
+Added new PMID: 32178774
+Going to download record 521 to 530
+Added new PMID: 32178773
+Added new PMID: 32178772
+Added new PMID: 32178771
+Added new PMID: 32178770
+PMID exists
+PMID exists
+Added new PMID: 32178767
+Added new PMID: 32178766
+Added new PMID: 32178765
+Added new PMID: 32178764
+Going to download record 531 to 540
+Added new PMID: 32178763
+Added new PMID: 32178762
+Added new PMID: 32176775
+Added new PMID: 32176764
+Added new PMID: 32176256
+Added new PMID: 32176246
+PMID exists
+Added new PMID: 32173722
+Added new PMID: 32173721
+Added new PMID: 32173720
+Going to download record 541 to 550
+Added new PMID: 32173719
+Added new PMID: 32171434
+Added new PMID: 32171433
+Added new PMID: 32171432
+Added new PMID: 32171431
+Added new PMID: 32171430
+Added new PMID: 32171429
+Added new PMID: 32171428
+Added new PMID: 32171427
+Added new PMID: 32171426
+Going to download record 551 to 560
+Added new PMID: 32171425
+Added new PMID: 32171424
+Added new PMID: 32171423
+Added new PMID: 32171422
+Added new PMID: 32171421
+Added new PMID: 32171417
+Added new PMID: 32171416
+Added new PMID: 32171415
+Added new PMID: 32171414
+Added new PMID: 32171413
+Going to download record 561 to 570
+Added new PMID: 32171412
+Added new PMID: 32171411
+Added new PMID: 32171410
+Added new PMID: 32171409
+Added new PMID: 32171408
+Added new PMID: 32171407
+Added new PMID: 32171406
+Added new PMID: 32171405
+Added new PMID: 32171404
+Added new PMID: 32171403
+Going to download record 571 to 580
+Added new PMID: 32171402
+Added new PMID: 32171401
+Added new PMID: 32171400
+Added new PMID: 32171399
+Added new PMID: 32171398
+Added new PMID: 32171397
+Added new PMID: 32171396
+Added new PMID: 32171395
+Added new PMID: 32171394
+Added new PMID: 32171393
+Going to download record 581 to 590
+Added new PMID: 32171392
+Added new PMID: 32171391
+Added new PMID: 32171390
+Added new PMID: 32171389
+Added new PMID: 32171387
+Added new PMID: 32171386
+Added new PMID: 32171086
+Added new PMID: 32171085
+Added new PMID: 32171084
+Added new PMID: 32171083
+Going to download record 591 to 600
+Added new PMID: 32171081
+Added new PMID: 32171080
+Added new PMID: 32171078
+Added new PMID: 32171077
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32171071
+Added new PMID: 32171070
+Added new PMID: 32171069
+Going to download record 601 to 610
+Added new PMID: 32171068
+Added new PMID: 32171067
+Added new PMID: 32171066
+Added new PMID: 32171065
+Added new PMID: 32171064
+Added new PMID: 32171063
+Added new PMID: 32171062
+Added new PMID: 32171061
+Added new PMID: 32171060
+PMID exists
+Going to download record 611 to 620
+Added new PMID: 32171058
+Added new PMID: 32171057
+Added new PMID: 32171056
+Added new PMID: 32171055
+Added new PMID: 32171054
+Added new PMID: 32171053
+Added new PMID: 32170027
+Added new PMID: 32169967
+Added new PMID: 32169952
+Added new PMID: 32169948
+Going to download record 621 to 630
+Added new PMID: 32169896
+Added new PMID: 32169866
+Added new PMID: 32169860
+Added new PMID: 32169838
+Added new PMID: 32169837
+Added new PMID: 32169834
+Added new PMID: 32169833
+PMID exists
+Added new PMID: 32169159
+Added new PMID: 32169158
+Going to download record 631 to 640
+Added new PMID: 32169157
+Added new PMID: 32167538
+Added new PMID: 32167526
+Added new PMID: 32167525
+Added new PMID: 32167523
+Added new PMID: 32165428
+Added new PMID: 32165426
+Added new PMID: 32165420
+Added new PMID: 32165418
+Added new PMID: 32165415
+Going to download record 641 to 650
+Added new PMID: 32165414
+Added new PMID: 32165405
+Added new PMID: 32165397
+Added new PMID: 32165396
+Added new PMID: 32165370
+Added new PMID: 32165369
+Added new PMID: 32165368
+Added new PMID: 32165355
+Added new PMID: 32165354
+Added new PMID: 32165353
+Going to download record 651 to 660
+PMID exists
+Added new PMID: 32164907
+Added new PMID: 32164906
+Added new PMID: 32164881
+Added new PMID: 32164880
+Added new PMID: 32164879
+Added new PMID: 32164877
+Added new PMID: 32164876
+Added new PMID: 32164836
+Added new PMID: 32164835
+Going to download record 661 to 670
+PMID exists
+Added new PMID: 32164833
+Added new PMID: 32164832
+Added new PMID: 32164831
+Added new PMID: 32164830
+Added new PMID: 32163102
+Added new PMID: 32163095
+Added new PMID: 32163094
+Added new PMID: 32161393
+Added new PMID: 32161392
+Going to download record 671 to 680
+Added new PMID: 32161391
+Added new PMID: 32161390
+Added new PMID: 32161389
+Added new PMID: 32161388
+Added new PMID: 32161387
+Added new PMID: 32161386
+Added new PMID: 32161385
+Added new PMID: 32161384
+Added new PMID: 32161383
+Added new PMID: 32161382
+Going to download record 681 to 690
+Added new PMID: 32161381
+Added new PMID: 32161380
+Added new PMID: 32161364
+Added new PMID: 32161351
+Added new PMID: 32161350
+Added new PMID: 32161349
+Added new PMID: 32161348
+Added new PMID: 32161347
+Added new PMID: 32161346
+Added new PMID: 32161345
+Going to download record 691 to 700
+Added new PMID: 32161344
+Added new PMID: 32161343
+Added new PMID: 32161342
+Added new PMID: 32161341
+Added new PMID: 32161091
+Added new PMID: 32161060
+Added new PMID: 32161042
+Added new PMID: 32161038
+Added new PMID: 32161036
+Added new PMID: 32161035
+Going to download record 701 to 710
+Added new PMID: 32161028
+Added new PMID: 32161027
+Added new PMID: 32161006
+Added new PMID: 32161003
+Added new PMID: 32161002
+Added new PMID: 32161001
+Added new PMID: 32161000
+Added new PMID: 32160999
+Added new PMID: 32160998
+Added new PMID: 32160997
+Going to download record 711 to 720
+Added new PMID: 32160996
+Added new PMID: 32160995
+Added new PMID: 32160994
+PMID exists
+Added new PMID: 32159775
+Added new PMID: 32159771
+Added new PMID: 32159735
+PMID exists
+Added new PMID: 32157234
+PMID exists
+Going to download record 721 to 730
+Added new PMID: 32157232
+Added new PMID: 32157231
+Added new PMID: 32157230
+Added new PMID: 32157225
+Added new PMID: 32157222
+Added new PMID: 32157200
+Added new PMID: 32157199
+Added new PMID: 32157198
+Added new PMID: 32156802
+Added new PMID: 32156699
+Going to download record 731 to 740
+Added new PMID: 32156698
+Added new PMID: 32156685
+Added new PMID: 32156683
+Added new PMID: 32156682
+Added new PMID: 32156680
+Added new PMID: 32156679
+Added new PMID: 32156678
+Added new PMID: 32156677
+Added new PMID: 32156676
+Added new PMID: 32156675
+Going to download record 741 to 750
+Added new PMID: 32154863
+Added new PMID: 32154862
+Added new PMID: 32154860
+Added new PMID: 32154858
+Added new PMID: 32154857
+Added new PMID: 32154856
+Added new PMID: 32154855
+Added new PMID: 32154854
+Added new PMID: 32154853
+Added new PMID: 32154852
+Going to download record 751 to 760
+Added new PMID: 32154851
+Added new PMID: 32154850
+Added new PMID: 32154849
+Added new PMID: 32154847
+Added new PMID: 32154846
+Added new PMID: 32154845
+Added new PMID: 32154844
+Added new PMID: 32154829
+Added new PMID: 32152607
+Added new PMID: 32152606
+Going to download record 761 to 770
+Added new PMID: 32152605
+Added new PMID: 32152604
+Added new PMID: 32152603
+Added new PMID: 32152602
+Added new PMID: 32152601
+Added new PMID: 32152600
+Added new PMID: 32152596
+PMID exists
+Added new PMID: 32152594
+Added new PMID: 32152593
+Going to download record 771 to 780
+Added new PMID: 32152592
+Added new PMID: 32152591
+Added new PMID: 32152590
+Added new PMID: 32152148
+Added new PMID: 32152036
+Added new PMID: 32152035
+Added new PMID: 32152010
+Added new PMID: 32152003
+Added new PMID: 32152002
+Added new PMID: 32152001
+Going to download record 781 to 790
+Added new PMID: 32152000
+Added new PMID: 32151999
+Added new PMID: 32151998
+Added new PMID: 32151997
+PMID exists
+PMID exists
+Added new PMID: 32151333
+Added new PMID: 32151332
+Added new PMID: 32151331
+Added new PMID: 32151330
+Going to download record 791 to 800
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32151321
+PMID exists
+Added new PMID: 32151319
+PMID exists
+Added new PMID: 32151317
+PMID exists
+Added new PMID: 32150622
+Going to download record 801 to 810
+Added new PMID: 32150234
+Added new PMID: 32150219
+PMID exists
+Added new PMID: 32145831
+Added new PMID: 32145830
+Added new PMID: 32145829
+Added new PMID: 32145828
+Added new PMID: 32145827
+Added new PMID: 32145826
+Added new PMID: 32145825
+Going to download record 811 to 820
+Added new PMID: 32145797
+Added new PMID: 32145796
+Added new PMID: 32145795
+Added new PMID: 32145794
+Added new PMID: 32145793
+Added new PMID: 32145792
+Added new PMID: 32145791
+Added new PMID: 32145790
+Added new PMID: 32145789
+Added new PMID: 32145788
+Going to download record 821 to 830
+Added new PMID: 32145787
+Added new PMID: 32145786
+Added new PMID: 32145785
+Added new PMID: 32145784
+Added new PMID: 32145783
+Added new PMID: 32145782
+Added new PMID: 32145781
+Added new PMID: 32145780
+Added new PMID: 32145779
+Added new PMID: 32145778
+Going to download record 831 to 840
+Added new PMID: 32145776
+Added new PMID: 32145775
+Added new PMID: 32145774
+Added new PMID: 32145773
+PMID exists
+Added new PMID: 32145771
+Added new PMID: 32145770
+Added new PMID: 32145769
+PMID exists
+Added new PMID: 32145767
+Going to download record 841 to 850
+Added new PMID: 32145766
+Added new PMID: 32145765
+Added new PMID: 32145764
+Added new PMID: 32145763
+Added new PMID: 32145762
+Added new PMID: 32145761
+Added new PMID: 32145760
+Added new PMID: 32145190
+Added new PMID: 32145189
+Added new PMID: 32145188
+Going to download record 851 to 860
+PMID exists
+PMID exists
+Added new PMID: 32145185
+Added new PMID: 32144410
+Added new PMID: 32144210
+Added new PMID: 32144178
+Added new PMID: 32144176
+Added new PMID: 32144175
+Added new PMID: 32144174
+Added new PMID: 32144170
+Going to download record 861 to 870
+PMID exists
+Added new PMID: 32144126
+Added new PMID: 32144117
+Added new PMID: 32144115
+Added new PMID: 32144114
+Added new PMID: 32144113
+Added new PMID: 32144112
+Added new PMID: 32144111
+Added new PMID: 32144096
+Added new PMID: 32142713
+Going to download record 871 to 880
+Added new PMID: 32142712
+Added new PMID: 32142711
+Added new PMID: 32142710
+Added new PMID: 32142640
+Added new PMID: 32142639
+Added new PMID: 32142633
+Added new PMID: 32142628
+Added new PMID: 32142627
+PMID exists
+Added new PMID: 32142625
+Going to download record 881 to 890
+Added new PMID: 32142624
+Added new PMID: 32142623
+Added new PMID: 32142622
+Added new PMID: 32142621
+Added new PMID: 32142115
+Added new PMID: 32142104
+Added new PMID: 32142102
+Added new PMID: 32139554
+Added new PMID: 32139444
+Added new PMID: 32139441
+Going to download record 891 to 900
+Added new PMID: 32139406
+Added new PMID: 32139397
+Added new PMID: 32139396
+Added new PMID: 32139374
+Added new PMID: 32139373
+Added new PMID: 32139371
+Added new PMID: 32139364
+Added new PMID: 32139357
+Added new PMID: 32139356
+Added new PMID: 32135138
+Going to download record 901 to 910
+Added new PMID: 32135137
+Added new PMID: 32135136
+Added new PMID: 32135135
+Added new PMID: 32135134
+Added new PMID: 32135133
+Added new PMID: 32135132
+Added new PMID: 32135131
+Added new PMID: 32135130
+Added new PMID: 32135129
+Added new PMID: 32135128
+Going to download record 911 to 920
+Added new PMID: 32135127
+Added new PMID: 32135121
+Added new PMID: 32135120
+Added new PMID: 32135119
+Added new PMID: 32135118
+Added new PMID: 32135117
+Added new PMID: 32135116
+Added new PMID: 32135115
+Added new PMID: 32135114
+Added new PMID: 32135113
+Going to download record 921 to 930
+Added new PMID: 32135112
+Added new PMID: 32135111
+Added new PMID: 32135110
+Added new PMID: 32135109
+Added new PMID: 32135108
+Added new PMID: 32135107
+Added new PMID: 32135106
+Added new PMID: 32135105
+Added new PMID: 32135104
+Added new PMID: 32135103
+Going to download record 931 to 940
+Added new PMID: 32135102
+Added new PMID: 32135101
+Added new PMID: 32135100
+Added new PMID: 32135099
+Added new PMID: 32135098
+Added new PMID: 32135097
+Added new PMID: 32135096
+Added new PMID: 32135095
+Added new PMID: 32135094
+Added new PMID: 32135081
+Going to download record 941 to 950
+Added new PMID: 32135080
+Added new PMID: 32135079
+Added new PMID: 32135078
+PMID exists
+Added new PMID: 32134437
+Added new PMID: 32134427
+Added new PMID: 32132714
+Added new PMID: 32132713
+Added new PMID: 32132712
+Added new PMID: 32132711
+Going to download record 951 to 960
+Added new PMID: 32132710
+Added new PMID: 32132709
+Added new PMID: 32132708
+Added new PMID: 32132707
+Added new PMID: 32132706
+Added new PMID: 32132705
+Added new PMID: 32132700
+Added new PMID: 32132699
+Added new PMID: 32132698
+Added new PMID: 32132697
+Going to download record 961 to 970
+Added new PMID: 32132696
+Added new PMID: 32132695
+Added new PMID: 32132694
+Added new PMID: 32132693
+Added new PMID: 32132692
+Added new PMID: 32132691
+Added new PMID: 32132690
+Added new PMID: 32132689
+Added new PMID: 32132688
+Added new PMID: 32132687
+Going to download record 971 to 980
+Added new PMID: 32132686
+Added new PMID: 32132685
+Added new PMID: 32132684
+Added new PMID: 32132108
+Added new PMID: 32132103
+Added new PMID: 32132096
+Added new PMID: 32132094
+Added new PMID: 32132089
+Added new PMID: 32132015
+Added new PMID: 32132014
+Going to download record 981 to 990
+Added new PMID: 32132013
+Added new PMID: 32132011
+Added new PMID: 32132010
+Added new PMID: 32132003
+Added new PMID: 32132002
+Added new PMID: 32132001
+Added new PMID: 32132000
+Added new PMID: 32131999
+Added new PMID: 32131998
+Added new PMID: 32131997
+Going to download record 991 to 1000
+Added new PMID: 32131996
+Added new PMID: 32131995
+PMID exists
+PMID exists
+Added new PMID: 32129800
+Added new PMID: 32129797
+Added new PMID: 32127715
+Added new PMID: 32127714
+PMID exists
+Added new PMID: 32127712
+Going to download record 1001 to 1010
+PMID exists
+Added new PMID: 32127710
+Added new PMID: 32127708
+PMID exists
+Added new PMID: 32127700
+Added new PMID: 32127408
+Added new PMID: 32127387
+Added new PMID: 32127373
+Added new PMID: 32127371
+Added new PMID: 32127370
+Going to download record 1011 to 1020
+Added new PMID: 32127369
+Added new PMID: 32127368
+Added new PMID: 32127367
+Added new PMID: 32127366
+Added new PMID: 32127358
+Added new PMID: 32127353
+Added new PMID: 32127351
+Added new PMID: 32127349
+Added new PMID: 32127346
+Added new PMID: 32127344
+Going to download record 1021 to 1030
+Added new PMID: 32125411
+Added new PMID: 32125410
+Added new PMID: 32125409
+Added new PMID: 32125407
+Added new PMID: 32125405
+Added new PMID: 32125404
+Added new PMID: 32125403
+Added new PMID: 32125402
+Added new PMID: 32125401
+Added new PMID: 32125400
+Going to download record 1031 to 1040
+Added new PMID: 32125399
+Added new PMID: 32125398
+Added new PMID: 32125397
+Added new PMID: 32125396
+Added new PMID: 32125395
+Added new PMID: 32125394
+Added new PMID: 32125393
+Added new PMID: 32125392
+Added new PMID: 32125391
+Added new PMID: 32125390
+Going to download record 1041 to 1050
+Added new PMID: 32125388
+Added new PMID: 32125387
+Added new PMID: 32125386
+Added new PMID: 32125385
+Added new PMID: 32125384
+Added new PMID: 32125383
+Added new PMID: 32125382
+Added new PMID: 32125381
+Added new PMID: 32125371
+PMID exists
+Going to download record 1051 to 1060
+Added new PMID: 32125355
+Added new PMID: 32123364
+Added new PMID: 32123362
+Added new PMID: 32123361
+Added new PMID: 32123360
+Added new PMID: 32123359
+Added new PMID: 32123354
+Added new PMID: 32123353
+Added new PMID: 32123352
+Added new PMID: 32122934
+Going to download record 1061 to 1070
+Added new PMID: 32122933
+Added new PMID: 32122886
+Added new PMID: 32122883
+Added new PMID: 32122882
+Added new PMID: 32122881
+Added new PMID: 32122878
+Added new PMID: 32122877
+Added new PMID: 32122876
+Added new PMID: 32122875
+Added new PMID: 32122874
+Going to download record 1071 to 1080
+PMID exists
+PMID exists
+Added new PMID: 32119842
+PMID exists
+Added new PMID: 32119840
+PMID exists
+Added new PMID: 32119838
+Added new PMID: 32119832
+Added new PMID: 32119831
+Added new PMID: 32119827
+Going to download record 1081 to 1090
+PMID exists
+PMID exists
+Added new PMID: 32119823
+Added new PMID: 32119821
+Added new PMID: 32119076
+Added new PMID: 32119041
+Added new PMID: 32119034
+Added new PMID: 32119029
+Added new PMID: 32113575
+Added new PMID: 32113574
+Going to download record 1091 to 1100
+Added new PMID: 32113573
+Added new PMID: 32113572
+Added new PMID: 32113571
+PMID exists
+Added new PMID: 32113519
+PMID exists
+Added new PMID: 32113517
+PMID exists
+Added new PMID: 32113515
+Added new PMID: 32113514
+Going to download record 1101 to 1110
+Added new PMID: 32113513
+Added new PMID: 32113510
+Added new PMID: 32113509
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32113504
+Added new PMID: 32113503
+Added new PMID: 32113502
+Going to download record 1111 to 1120
+Added new PMID: 32113501
+Added new PMID: 32113500
+Added new PMID: 32113499
+Added new PMID: 32113498
+Added new PMID: 32113497
+Added new PMID: 32113496
+PMID exists
+PMID exists
+Added new PMID: 32113493
+Added new PMID: 32113492
+Going to download record 1121 to 1130
+Added new PMID: 32113491
+Added new PMID: 32113490
+Added new PMID: 32113489
+Added new PMID: 32113488
+Added new PMID: 32112770
+Added new PMID: 32112769
+Added new PMID: 32112768
+Added new PMID: 32112765
+Added new PMID: 32112764
+Added new PMID: 32112763
+Going to download record 1131 to 1140
+Added new PMID: 32112762
+Added new PMID: 32112761
+Added new PMID: 32112760
+Added new PMID: 32112759
+Added new PMID: 32112758
+Added new PMID: 32112757
+Added new PMID: 32112756
+Added new PMID: 32112755
+Added new PMID: 32112754
+Added new PMID: 32112753
+Going to download record 1141 to 1150
+Added new PMID: 32112752
+Added new PMID: 32112751
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 1151 to 1160
+PMID exists
+PMID exists
+Added new PMID: 32112738
+Added new PMID: 32112737
+Added new PMID: 32112736
+Added new PMID: 32112735
+Added new PMID: 32112717
+Added new PMID: 32112716
+Added new PMID: 32112715
+PMID exists
+Going to download record 1161 to 1170
+Added new PMID: 32112062
+Added new PMID: 32111656
+Added new PMID: 32111655
+PMID exists
+Added new PMID: 32111647
+Added new PMID: 32111646
+PMID exists
+Added new PMID: 32111642
+Added new PMID: 32111624
+Added new PMID: 32111622
+Going to download record 1171 to 1180
+Added new PMID: 32111621
+Added new PMID: 32111620
+Added new PMID: 32111603
+Added new PMID: 32111597
+Added new PMID: 32111584
+Added new PMID: 32109428
+Added new PMID: 32109427
+Added new PMID: 32109426
+Added new PMID: 32109425
+Added new PMID: 32109424
+Going to download record 1181 to 1190
+Added new PMID: 32109423
+Added new PMID: 32109422
+Added new PMID: 32109411
+Added new PMID: 32109410
+Added new PMID: 32109409
+Added new PMID: 32109408
+Added new PMID: 32109407
+Added new PMID: 32109406
+Added new PMID: 32109405
+Added new PMID: 32109404
+Going to download record 1191 to 1200
+Added new PMID: 32109403
+Added new PMID: 32109402
+Added new PMID: 32109401
+Added new PMID: 32109400
+Added new PMID: 32109399
+Added new PMID: 32109379
+PMID exists
+Added new PMID: 32109371
+PMID exists
+PMID exists
+Going to download record 1201 to 1210
+Added new PMID: 32108868
+Added new PMID: 32108863
+Added new PMID: 32108857
+Added new PMID: 32107271
+Added new PMID: 32107254
+Added new PMID: 32107253
+Added new PMID: 32107250
+Added new PMID: 32107249
+Added new PMID: 32107210
+Added new PMID: 32107209
+Going to download record 1211 to 1220
+Added new PMID: 32107205
+Added new PMID: 32107204
+Added new PMID: 32107202
+Added new PMID: 32107201
+PMID exists
+Added new PMID: 32107199
+Added new PMID: 32106218
+Added new PMID: 32105642
+Added new PMID: 32105641
+Added new PMID: 32105640
+Going to download record 1221 to 1230
+Added new PMID: 32105639
+Added new PMID: 32105638
+PMID exists
+Added new PMID: 32105633
+PMID exists
+Added new PMID: 32105627
+Added new PMID: 32105626
+Added new PMID: 32105625
+Added new PMID: 32105624
+Added new PMID: 32105623
+Going to download record 1231 to 1240
+Added new PMID: 32105622
+Added new PMID: 32105619
+Added new PMID: 32105614
+Added new PMID: 32105613
+PMID exists
+PMID exists
+Added new PMID: 32105608
+Added new PMID: 32105607
+Added new PMID: 32105304
+Added new PMID: 32105294
+Going to download record 1241 to 1250
+Added new PMID: 32105291
+Added new PMID: 32103200
+Added new PMID: 32103199
+Added new PMID: 32103198
+Added new PMID: 32103196
+Added new PMID: 32103195
+Added new PMID: 32103194
+Added new PMID: 32103193
+Added new PMID: 32103192
+Added new PMID: 32103191
+Going to download record 1251 to 1260
+Added new PMID: 32103189
+Added new PMID: 32103188
+Added new PMID: 32103183
+Added new PMID: 32103182
+Added new PMID: 32103181
+Added new PMID: 32103180
+Added new PMID: 32103179
+Added new PMID: 32103178
+Added new PMID: 32103177
+Added new PMID: 32103176
+Going to download record 1261 to 1270
+Added new PMID: 32103175
+Added new PMID: 32103174
+Added new PMID: 32103173
+Added new PMID: 32102835
+Added new PMID: 32102834
+Added new PMID: 32102831
+Added new PMID: 32102799
+Added new PMID: 32102794
+Added new PMID: 32102793
+Added new PMID: 32102792
+Going to download record 1271 to 1280
+Added new PMID: 32102790
+Added new PMID: 32102785
+Added new PMID: 32102784
+Added new PMID: 32102782
+Added new PMID: 32102781
+Added new PMID: 32102780
+Added new PMID: 32102496
+PMID exists
+Added new PMID: 32101254
+Added new PMID: 32101250
+Going to download record 1281 to 1290
+Added new PMID: 32099132
+Added new PMID: 32099131
+Added new PMID: 32099130
+Added new PMID: 32099127
+Added new PMID: 32099126
+Added new PMID: 32099125
+Added new PMID: 32099122
+Added new PMID: 32099121
+Added new PMID: 32099120
+Added new PMID: 32099119
+Going to download record 1291 to 1300
+Added new PMID: 32099117
+Added new PMID: 32099116
+Added new PMID: 32098900
+Added new PMID: 32098875
+Added new PMID: 32098868
+Added new PMID: 32098841
+Added new PMID: 32098840
+Added new PMID: 32098839
+Added new PMID: 32098838
+Added new PMID: 32098837
+Going to download record 1301 to 1310
+Added new PMID: 32098799
+Added new PMID: 32098785
+Added new PMID: 32098779
+Added new PMID: 32096860
+Added new PMID: 32096859
+Added new PMID: 32096858
+Added new PMID: 32096857
+Added new PMID: 32096856
+Added new PMID: 32096855
+Added new PMID: 32096853
+Going to download record 1311 to 1320
+Added new PMID: 32096852
+Added new PMID: 32096851
+Added new PMID: 32096850
+Added new PMID: 32096849
+Added new PMID: 32096848
+Added new PMID: 32096847
+Added new PMID: 32096846
+Added new PMID: 32096845
+Added new PMID: 32096844
+Added new PMID: 32096843
+Going to download record 1321 to 1330
+Added new PMID: 32096842
+Added new PMID: 32096841
+Added new PMID: 32096840
+Added new PMID: 32096839
+Added new PMID: 32096838
+Added new PMID: 32096837
+Added new PMID: 32096835
+Added new PMID: 32096834
+Added new PMID: 32096833
+Added new PMID: 32096832
+Going to download record 1331 to 1340
+Added new PMID: 32096831
+Added new PMID: 32096830
+Added new PMID: 32094921
+Added new PMID: 32094920
+Added new PMID: 32094918
+Added new PMID: 32094917
+Added new PMID: 32094916
+Added new PMID: 32094915
+Added new PMID: 32094663
+Added new PMID: 32094662
+Going to download record 1341 to 1350
+Added new PMID: 32094661
+Added new PMID: 32094230
+Added new PMID: 32094213
+Added new PMID: 32094212
+Added new PMID: 32094211
+Added new PMID: 32094204
+Added new PMID: 32094156
+Added new PMID: 32094151
+Added new PMID: 32094148
+Added new PMID: 32094145
+Going to download record 1351 to 1360
+Added new PMID: 32094144
+Added new PMID: 32094143
+Added new PMID: 32094110
+Added new PMID: 32091542
+Added new PMID: 32091541
+Added new PMID: 32091537
+PMID exists
+PMID exists
+Added new PMID: 32087819
+Added new PMID: 32087818
+Going to download record 1361 to 1370
+Added new PMID: 32087817
+Added new PMID: 32087816
+Added new PMID: 32087815
+Added new PMID: 32087814
+Added new PMID: 32087813
+Added new PMID: 32087812
+Added new PMID: 32087811
+Added new PMID: 32087810
+Added new PMID: 32087809
+Added new PMID: 32087808
+Going to download record 1371 to 1380
+Added new PMID: 32087807
+Added new PMID: 32087805
+Added new PMID: 32087804
+Added new PMID: 32087803
+Added new PMID: 32087802
+Added new PMID: 32087801
+Added new PMID: 32087800
+Added new PMID: 32087799
+Added new PMID: 32087798
+Added new PMID: 32087797
+Going to download record 1381 to 1390
+Added new PMID: 32087796
+Added new PMID: 32087795
+Added new PMID: 32087794
+Added new PMID: 32087793
+Added new PMID: 32087792
+Added new PMID: 32087791
+Added new PMID: 32087790
+Added new PMID: 32087789
+Added new PMID: 32087788
+Added new PMID: 32087787
+Going to download record 1391 to 1400
+Added new PMID: 32087786
+Added new PMID: 32087785
+Added new PMID: 32087784
+Added new PMID: 32087783
+Added new PMID: 32087782
+Added new PMID: 32087781
+Added new PMID: 32087780
+Added new PMID: 32087779
+Added new PMID: 32087778
+PMID exists
+Going to download record 1401 to 1410
+Added new PMID: 32087776
+Added new PMID: 32087775
+Added new PMID: 32087774
+Added new PMID: 32087773
+Added new PMID: 32087772
+Added new PMID: 32087769
+PMID exists
+Added new PMID: 32087176
+Added new PMID: 32087175
+Added new PMID: 32087174
+Going to download record 1411 to 1420
+Added new PMID: 32087173
+Added new PMID: 32087172
+Added new PMID: 32087171
+Added new PMID: 32087170
+Added new PMID: 32087169
+Added new PMID: 32087168
+Added new PMID: 32087167
+Added new PMID: 32087166
+Added new PMID: 32087165
+Added new PMID: 32087164
+Going to download record 1421 to 1430
+Added new PMID: 32087163
+Added new PMID: 32087162
+Added new PMID: 32087161
+Added new PMID: 32087160
+Added new PMID: 32087159
+Added new PMID: 32087158
+Added new PMID: 32087157
+Added new PMID: 32087156
+Added new PMID: 32087155
+Added new PMID: 32087154
+Going to download record 1431 to 1440
+Added new PMID: 32087153
+Added new PMID: 32087152
+Added new PMID: 32087151
+Added new PMID: 32087141
+PMID exists
+Added new PMID: 32087126
+PMID exists
+Added new PMID: 32087124
+Added new PMID: 32087123
+PMID exists
+Going to download record 1441 to 1450
+Added new PMID: 32087121
+Added new PMID: 32087117
+Added new PMID: 32087116
+Added new PMID: 32087115
+Added new PMID: 32087114
+Added new PMID: 32087113
+PMID exists
+Added new PMID: 32086504
+Added new PMID: 32086503
+Added new PMID: 32086285
+Going to download record 1451 to 1460
+Added new PMID: 32086239
+Added new PMID: 32086238
+Added new PMID: 32086235
+Added new PMID: 32085851
+Added new PMID: 32085850
+Added new PMID: 32085849
+Added new PMID: 32085848
+Added new PMID: 32085847
+Added new PMID: 32085846
+Added new PMID: 32085845
+Going to download record 1461 to 1470
+Added new PMID: 32085844
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32085838
+Added new PMID: 32085837
+Added new PMID: 32085836
+Added new PMID: 32085835
+Going to download record 1471 to 1480
+Added new PMID: 32085834
+Added new PMID: 32085833
+Added new PMID: 32085832
+Added new PMID: 32085831
+Added new PMID: 32085830
+Added new PMID: 32085829
+Added new PMID: 32085828
+Added new PMID: 32085827
+Added new PMID: 32085826
+Added new PMID: 32085825
+Going to download record 1481 to 1490
+Added new PMID: 32085824
+Added new PMID: 32085823
+Added new PMID: 32085822
+Added new PMID: 32085821
+Added new PMID: 32085820
+Added new PMID: 32085819
+Added new PMID: 32085818
+Added new PMID: 32083643
+Added new PMID: 32083641
+Added new PMID: 32081351
+Going to download record 1491 to 1500
+Added new PMID: 32081350
+Added new PMID: 32081349
+Added new PMID: 32081348
+Added new PMID: 32079626
+Added new PMID: 32079611
+Added new PMID: 32079593
+Added new PMID: 32079583
+Added new PMID: 32079582
+Added new PMID: 32079581
+Added new PMID: 32079578
+Going to download record 1501 to 1510
+Added new PMID: 32079577
+Added new PMID: 32079575
+Added new PMID: 32079574
+Added new PMID: 32079572
+Added new PMID: 32079568
+Added new PMID: 32078823
+Added new PMID: 32078822
+Added new PMID: 32078821
+Added new PMID: 32078816
+Added new PMID: 32078815
+Going to download record 1511 to 1520
+Added new PMID: 32078814
+Added new PMID: 32078813
+Added new PMID: 32078812
+Added new PMID: 32078811
+Added new PMID: 32078810
+Added new PMID: 32078809
+Added new PMID: 32078808
+Added new PMID: 32078807
+Added new PMID: 32078804
+PMID exists
+Going to download record 1521 to 1530
+Added new PMID: 32078683
+Added new PMID: 32077901
+Added new PMID: 32076274
+Added new PMID: 32076273
+Added new PMID: 32076272
+Added new PMID: 32076271
+Added new PMID: 32076270
+Added new PMID: 32076269
+Added new PMID: 32076268
+Added new PMID: 32076267
+Going to download record 1531 to 1540
+Added new PMID: 32076266
+Added new PMID: 32076265
+Added new PMID: 32076264
+Added new PMID: 32076263
+Added new PMID: 32076262
+Added new PMID: 32076225
+Added new PMID: 32076223
+Added new PMID: 32076222
+Added new PMID: 32076221
+Added new PMID: 32076220
+Going to download record 1541 to 1550
+Added new PMID: 32076219
+Added new PMID: 32076218
+Added new PMID: 32076217
+Added new PMID: 32075796
+Added new PMID: 32075795
+Added new PMID: 32075794
+Added new PMID: 32075793
+Added new PMID: 32075792
+PMID exists
+Added new PMID: 32075790
+Going to download record 1551 to 1560
+Added new PMID: 32075789
+Added new PMID: 32075788
+Added new PMID: 32075787
+PMID exists
+Added new PMID: 32075785
+Added new PMID: 32075784
+Added new PMID: 32075783
+Added new PMID: 32075782
+Added new PMID: 32075780
+PMID exists
+Going to download record 1561 to 1570
+Added new PMID: 32074263
+Added new PMID: 32074261
+Added new PMID: 32074258
+Added new PMID: 32071454
+Added new PMID: 32071453
+Added new PMID: 32071452
+Added new PMID: 32071451
+Added new PMID: 32071450
+Added new PMID: 32071449
+Added new PMID: 32071448
+Going to download record 1571 to 1580
+Added new PMID: 32071447
+Added new PMID: 32071446
+Added new PMID: 32071444
+Added new PMID: 32071443
+Added new PMID: 32071114
+Added new PMID: 32071100
+Added new PMID: 32071066
+Added new PMID: 32071065
+Added new PMID: 32071064
+PMID exists
+Going to download record 1581 to 1590
+Added new PMID: 32071041
+Added new PMID: 32071034
+Added new PMID: 32071033
+Added new PMID: 32068826
+Added new PMID: 32068825
+Added new PMID: 32068824
+Added new PMID: 32068822
+Added new PMID: 32068820
+Added new PMID: 32068819
+Added new PMID: 32068818
+Going to download record 1591 to 1600
+Added new PMID: 32068817
+Added new PMID: 32068816
+Added new PMID: 32068815
+Added new PMID: 32068814
+Added new PMID: 32068813
+Added new PMID: 32068812
+Added new PMID: 32068811
+Added new PMID: 32068810
+Added new PMID: 32068809
+Added new PMID: 32068808
+Going to download record 1601 to 1610
+Added new PMID: 32068806
+Added new PMID: 32068805
+Added new PMID: 32068804
+Added new PMID: 32068803
+Added new PMID: 32068802
+Added new PMID: 32068801
+Added new PMID: 32068800
+Added new PMID: 32068799
+Added new PMID: 32066995
+Added new PMID: 32066937
+Going to download record 1611 to 1620
+Added new PMID: 32066927
+Added new PMID: 32066925
+Added new PMID: 32066917
+Added new PMID: 32066916
+Added new PMID: 32066915
+Added new PMID: 32066629
+Added new PMID: 32066590
+Added new PMID: 32066587
+Added new PMID: 32066586
+Added new PMID: 32066567
+Going to download record 1621 to 1630
+Added new PMID: 32066564
+Added new PMID: 32066554
+Added new PMID: 32066546
+Added new PMID: 32066545
+Added new PMID: 32066544
+Added new PMID: 32066543
+Added new PMID: 32066542
+PMID exists
+Added new PMID: 32066540
+Added new PMID: 32066539
+Going to download record 1631 to 1640
+Added new PMID: 32066538
+Added new PMID: 32066537
+Added new PMID: 32066536
+Added new PMID: 32066535
+Added new PMID: 32066534
+Added new PMID: 32066533
+Added new PMID: 32066532
+Added new PMID: 32066531
+Added new PMID: 32066530
+Added new PMID: 32066529
+Going to download record 1641 to 1650
+Added new PMID: 32066528
+Added new PMID: 32066527
+PMID exists
+PMID exists
+Added new PMID: 32066140
+Added new PMID: 32065831
+Added new PMID: 32065830
+Added new PMID: 32065828
+Added new PMID: 32065827
+Added new PMID: 32062674
+Going to download record 1651 to 1660
+Added new PMID: 32062673
+Added new PMID: 32061336
+PMID exists
+Added new PMID: 32061334
+Added new PMID: 32061333
+Added new PMID: 32061332
+Added new PMID: 32061331
+Added new PMID: 32061330
+Added new PMID: 32061329
+Added new PMID: 32061328
+Going to download record 1661 to 1670
+Added new PMID: 32061326
+Added new PMID: 32061325
+Added new PMID: 32061324
+Added new PMID: 32061323
+Added new PMID: 32061322
+Added new PMID: 32061320
+Added new PMID: 32061319
+Added new PMID: 32061318
+Added new PMID: 32061317
+Added new PMID: 32061316
+Going to download record 1671 to 1680
+Added new PMID: 32061315
+Added new PMID: 32061314
+PMID exists
+Added new PMID: 32061312
+PMID exists
+Added new PMID: 32061301
+Added new PMID: 32061300
+Added new PMID: 32061299
+Added new PMID: 32061298
+Added new PMID: 32061297
+Going to download record 1681 to 1690
+Added new PMID: 32061296
+Added new PMID: 32061295
+Added new PMID: 32061294
+Added new PMID: 32061293
+Added new PMID: 32061292
+Added new PMID: 32061291
+Added new PMID: 32061290
+Added new PMID: 32061289
+Added new PMID: 32061288
+Added new PMID: 32061287
+Going to download record 1691 to 1700
+Added new PMID: 32061286
+Added new PMID: 32061285
+PMID exists
+Added new PMID: 32061283
+Added new PMID: 32061282
+Added new PMID: 32061281
+Added new PMID: 32061280
+Added new PMID: 32061279
+Added new PMID: 32061278
+Added new PMID: 32061277
+Going to download record 1701 to 1710
+Added new PMID: 32060482
+Added new PMID: 32060070
+Added new PMID: 32060050
+Added new PMID: 32060046
+Added new PMID: 32060045
+Added new PMID: 32060039
+Added new PMID: 32060033
+Added new PMID: 32060016
+Added new PMID: 32060015
+Added new PMID: 32060014
+Going to download record 1711 to 1720
+Added new PMID: 32059923
+Added new PMID: 32059922
+Added new PMID: 32059853
+Added new PMID: 32059852
+Added new PMID: 32059811
+Added new PMID: 32059810
+Added new PMID: 32059809
+Added new PMID: 32059805
+Added new PMID: 32059804
+Added new PMID: 32059803
+Going to download record 1721 to 1730
+Added new PMID: 32059802
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32059797
+Added new PMID: 32059796
+Added new PMID: 32059795
+Added new PMID: 32059790
+Added new PMID: 32059789
+Going to download record 1731 to 1740
+Added new PMID: 32059788
+Added new PMID: 32059787
+Added new PMID: 32059786
+Added new PMID: 32059785
+Added new PMID: 32059784
+Added new PMID: 32058570
+Added new PMID: 32058561
+Added new PMID: 32057317
+Added new PMID: 32057316
+Added new PMID: 32057315
+Going to download record 1741 to 1750
+Added new PMID: 32057303
+Added new PMID: 32057302
+Added new PMID: 32057301
+Added new PMID: 32057300
+Added new PMID: 32057299
+Added new PMID: 32057298
+Added new PMID: 32054611
+Added new PMID: 32054610
+Added new PMID: 32054609
+Added new PMID: 32054608
+Going to download record 1751 to 1760
+Added new PMID: 32054607
+Added new PMID: 32054606
+Added new PMID: 32054601
+Added new PMID: 32054600
+Added new PMID: 32054599
+Added new PMID: 32054598
+Added new PMID: 32054597
+Added new PMID: 32053152
+Added new PMID: 32053150
+Added new PMID: 32053136
+Going to download record 1761 to 1770
+Added new PMID: 32051608
+Added new PMID: 32051607
+Added new PMID: 32051605
+Added new PMID: 32051604
+Added new PMID: 32051603
+Added new PMID: 32051602
+Added new PMID: 32051601
+Added new PMID: 32051600
+Added new PMID: 32051599
+Added new PMID: 32051598
+Going to download record 1771 to 1780
+Added new PMID: 32051597
+Added new PMID: 32051596
+Added new PMID: 32051595
+Added new PMID: 32051594
+Added new PMID: 32051592
+Added new PMID: 32051591
+Added new PMID: 32051590
+Added new PMID: 32051589
+Added new PMID: 32051588
+Added new PMID: 32051587
+Going to download record 1781 to 1790
+Added new PMID: 32051586
+Added new PMID: 32051585
+Added new PMID: 32051584
+Added new PMID: 32051583
+Added new PMID: 32051582
+Added new PMID: 32051181
+Added new PMID: 32051166
+Added new PMID: 32051165
+Added new PMID: 32051150
+Added new PMID: 32051125
+Going to download record 1791 to 1800
+Added new PMID: 32051124
+Added new PMID: 32051123
+Added new PMID: 32051122
+Added new PMID: 32051121
+Added new PMID: 32051118
+Added new PMID: 32051117
+Added new PMID: 32051116
+Added new PMID: 32051115
+Added new PMID: 32051114
+Added new PMID: 32051111
+Going to download record 1801 to 1810
+Added new PMID: 32051110
+Added new PMID: 32050258
+Added new PMID: 32050257
+Added new PMID: 32050090
+Added new PMID: 32050089
+PMID exists
+PMID exists
+Added new PMID: 32049269
+Added new PMID: 32049266
+Added new PMID: 32048610
+Going to download record 1811 to 1820
+Added new PMID: 32047315
+Added new PMID: 32047314
+Added new PMID: 32047313
+Added new PMID: 32047312
+Added new PMID: 32047311
+Added new PMID: 32047310
+Added new PMID: 32047307
+Added new PMID: 32047306
+Added new PMID: 32047304
+Added new PMID: 32047302
+Going to download record 1821 to 1830
+Added new PMID: 32047065
+Added new PMID: 32047053
+Added new PMID: 32047052
+Added new PMID: 32047051
+Added new PMID: 32047027
+Added new PMID: 32047006
+Added new PMID: 32047003
+Added new PMID: 32046996
+Added new PMID: 32046995
+Added new PMID: 32046994
+Going to download record 1831 to 1840
+Added new PMID: 32046980
+Added new PMID: 32046978
+Added new PMID: 32046976
+Added new PMID: 32046975
+Added new PMID: 32046965
+Added new PMID: 32046964
+Added new PMID: 32046958
+Added new PMID: 32046957
+Added new PMID: 32046956
+Added new PMID: 32046954
+Going to download record 1841 to 1850
+Added new PMID: 32046953
+Added new PMID: 32046952
+Added new PMID: 32044950
+Added new PMID: 32044949
+Added new PMID: 32044947
+Added new PMID: 32044946
+Added new PMID: 32044944
+Added new PMID: 32044943
+Added new PMID: 32044942
+Added new PMID: 32044941
+Going to download record 1851 to 1860
+Added new PMID: 32044940
+Added new PMID: 32044939
+Added new PMID: 32044938
+Added new PMID: 32044937
+Added new PMID: 32044936
+Added new PMID: 32044935
+Added new PMID: 32044934
+Added new PMID: 32044933
+Added new PMID: 32044932
+Added new PMID: 32044931
+Going to download record 1861 to 1870
+Added new PMID: 32044930
+Added new PMID: 32044928
+Added new PMID: 32044927
+Added new PMID: 32044926
+Added new PMID: 32044925
+Added new PMID: 32044924
+Added new PMID: 32044923
+Added new PMID: 32044922
+Added new PMID: 32044921
+Added new PMID: 32044920
+Going to download record 1871 to 1880
+Added new PMID: 32044919
+Added new PMID: 32044915
+Added new PMID: 32043987
+Added new PMID: 32043986
+Added new PMID: 32043985
+Added new PMID: 32043984
+PMID exists
+PMID exists
+Added new PMID: 32043981
+Added new PMID: 32043980
+Going to download record 1881 to 1890
+Added new PMID: 32043979
+PMID exists
+PMID exists
+Added new PMID: 32043976
+PMID exists
+Added new PMID: 32042171
+Added new PMID: 32042091
+Added new PMID: 32042089
+Added new PMID: 32042088
+Added new PMID: 32042087
+Going to download record 1891 to 1900
+Added new PMID: 32042086
+Added new PMID: 32042085
+Added new PMID: 32041792
+Added new PMID: 32041723
+Added new PMID: 32041708
+Added new PMID: 32041707
+Added new PMID: 32041694
+Added new PMID: 32041693
+Added new PMID: 32041692
+Added new PMID: 32041691
+Going to download record 1901 to 1910
+Added new PMID: 32040955
+Added new PMID: 32040185
+Added new PMID: 32040163
+Added new PMID: 32035562
+Added new PMID: 32035561
+Added new PMID: 32035560
+Added new PMID: 32035559
+Added new PMID: 32035558
+Added new PMID: 32035557
+Added new PMID: 32035556
+Going to download record 1911 to 1920
+Added new PMID: 32035555
+Added new PMID: 32035554
+Added new PMID: 32035553
+Added new PMID: 32035552
+Added new PMID: 32035551
+Added new PMID: 32035550
+Added new PMID: 32035549
+Added new PMID: 32035548
+Added new PMID: 32035547
+Added new PMID: 32035546
+Going to download record 1921 to 1930
+Added new PMID: 32035545
+Added new PMID: 32035543
+Added new PMID: 32035542
+Added new PMID: 32035541
+Added new PMID: 32035540
+Added new PMID: 32035539
+PMID exists
+Added new PMID: 32035537
+Added new PMID: 32035536
+Added new PMID: 32035535
+Going to download record 1931 to 1940
+Added new PMID: 32035534
+PMID exists
+Added new PMID: 32035532
+Added new PMID: 32035531
+Added new PMID: 32035530
+Added new PMID: 32035517
+Added new PMID: 32035516
+Added new PMID: 32035515
+Added new PMID: 32035514
+Added new PMID: 32035513
+Going to download record 1941 to 1950
+Added new PMID: 32035512
+PMID exists
+PMID exists
+Added new PMID: 32035509
+Added new PMID: 32035508
+PMID exists
+Added new PMID: 32035069
+Added new PMID: 32035068
+Added new PMID: 32035067
+Added new PMID: 32035066
+Going to download record 1951 to 1960
+Added new PMID: 32035065
+Added new PMID: 32035064
+Added new PMID: 32035063
+Added new PMID: 32035042
+Added new PMID: 32035041
+Added new PMID: 32035035
+Added new PMID: 32035034
+Added new PMID: 32035033
+Added new PMID: 32035032
+Added new PMID: 32035031
+Going to download record 1961 to 1970
+PMID exists
+Added new PMID: 32035029
+Added new PMID: 32035024
+Added new PMID: 32035023
+Added new PMID: 32035022
+Added new PMID: 32035021
+Added new PMID: 32035020
+Added new PMID: 32035019
+PMID exists
+Added new PMID: 32035017
+Going to download record 1971 to 1980
+Added new PMID: 32034316
+Added new PMID: 32034003
+PMID exists
+Added new PMID: 32033964
+Added new PMID: 32033962
+Added new PMID: 32033961
+Added new PMID: 32033934
+Added new PMID: 32032567
+Added new PMID: 32032566
+Added new PMID: 32032564
+Going to download record 1981 to 1990
+Added new PMID: 32032563
+Added new PMID: 32032562
+Added new PMID: 32032561
+Added new PMID: 32032560
+Added new PMID: 32032559
+Added new PMID: 32032558
+Added new PMID: 32032557
+Added new PMID: 32032556
+Added new PMID: 32032555
+Added new PMID: 32032543
+Going to download record 1991 to 2000
+Added new PMID: 32032541
+Added new PMID: 32032540
+Added new PMID: 32032539
+Added new PMID: 32032538
+Added new PMID: 32032537
+Added new PMID: 32032536
+Added new PMID: 32032535
+PMID exists
+Added new PMID: 32032528
+PMID exists
+Going to download record 2001 to 2010
+Added new PMID: 32031569
+Added new PMID: 32031568
+Added new PMID: 32031566
+Added new PMID: 32029886
+Added new PMID: 32029442
+Added new PMID: 32029436
+Added new PMID: 32029435
+Added new PMID: 32029428
+Added new PMID: 32029427
+Added new PMID: 32029426
+Going to download record 2011 to 2020
+Added new PMID: 32029425
+Added new PMID: 32029424
+Added new PMID: 32029423
+Added new PMID: 32029422
+Added new PMID: 32029421
+Added new PMID: 32028527
+Added new PMID: 32027863
+Added new PMID: 32027862
+Added new PMID: 32027859
+Added new PMID: 32027858
+Going to download record 2021 to 2030
+Added new PMID: 32027856
+Added new PMID: 32027855
+Added new PMID: 32027854
+Added new PMID: 32027853
+Added new PMID: 32027852
+Added new PMID: 32027851
+Added new PMID: 32027850
+Added new PMID: 32027849
+Added new PMID: 32027848
+Added new PMID: 32027847
+Going to download record 2031 to 2040
+Added new PMID: 32027846
+Added new PMID: 32027845
+Added new PMID: 32027842
+Added new PMID: 32027841
+Added new PMID: 32027600
+Added new PMID: 32027358
+Added new PMID: 32027338
+Added new PMID: 32027337
+Added new PMID: 32025038
+Added new PMID: 32025037
+Going to download record 2041 to 2050
+Added new PMID: 32025036
+Added new PMID: 32025035
+Added new PMID: 32025034
+Added new PMID: 32025033
+Added new PMID: 32025032
+Added new PMID: 32025031
+Added new PMID: 32025030
+Added new PMID: 32025029
+Added new PMID: 32025026
+Added new PMID: 32025025
+Going to download record 2051 to 2060
+Added new PMID: 32025024
+Added new PMID: 32025022
+Added new PMID: 32025021
+Added new PMID: 32025020
+Added new PMID: 32025019
+Added new PMID: 32025018
+Added new PMID: 32025017
+Added new PMID: 32025016
+Added new PMID: 32025015
+Added new PMID: 32025014
+Going to download record 2061 to 2070
+Added new PMID: 32025013
+Added new PMID: 32025012
+Added new PMID: 32025011
+Added new PMID: 32025010
+Added new PMID: 32025009
+Added new PMID: 32025008
+Added new PMID: 32025007
+Added new PMID: 32025006
+Added new PMID: 32025005
+Added new PMID: 32025004
+Going to download record 2071 to 2080
+Added new PMID: 32024686
+Added new PMID: 32024673
+Added new PMID: 32024659
+Added new PMID: 32024658
+Added new PMID: 32024657
+Added new PMID: 32024652
+Added new PMID: 32024641
+Added new PMID: 32024639
+Added new PMID: 32024638
+Added new PMID: 32024637
+Going to download record 2081 to 2090
+Added new PMID: 32024636
+Added new PMID: 32024635
+Added new PMID: 32024634
+Added new PMID: 32022842
+Added new PMID: 32022836
+Added new PMID: 32020896
+Added new PMID: 32020126
+Added new PMID: 32020125
+Added new PMID: 32020124
+Added new PMID: 32020123
+Going to download record 2091 to 2100
+Added new PMID: 32020122
+Added new PMID: 32020121
+Added new PMID: 32020120
+Added new PMID: 32020119
+Added new PMID: 32020118
+Added new PMID: 32020117
+Added new PMID: 32020116
+Added new PMID: 32020114
+Added new PMID: 32020111
+Added new PMID: 32020108
+Going to download record 2101 to 2110
+Added new PMID: 32020106
+Added new PMID: 32020104
+Added new PMID: 32019782
+Added new PMID: 32019770
+Added new PMID: 32019764
+Added new PMID: 32019763
+Added new PMID: 32019762
+Added new PMID: 32019755
+Added new PMID: 32019754
+Added new PMID: 32019746
+Going to download record 2111 to 2120
+Added new PMID: 32019745
+Added new PMID: 32019744
+Added new PMID: 32019743
+Added new PMID: 32019742
+Added new PMID: 32019741
+Added new PMID: 32016315
+Added new PMID: 32016313
+Added new PMID: 32016311
+Added new PMID: 32016310
+Added new PMID: 32016309
+Going to download record 2121 to 2130
+Added new PMID: 32016308
+Added new PMID: 32016307
+Added new PMID: 32016306
+Added new PMID: 32016305
+Added new PMID: 32016304
+Added new PMID: 32016303
+Added new PMID: 32016302
+Added new PMID: 32016301
+Added new PMID: 32016300
+Added new PMID: 32016299
+Going to download record 2131 to 2140
+Added new PMID: 32016297
+Added new PMID: 32016296
+Added new PMID: 32016295
+Added new PMID: 32016294
+Added new PMID: 32016293
+Added new PMID: 32016292
+Added new PMID: 32016291
+Added new PMID: 32015546
+Added new PMID: 32015545
+Added new PMID: 32015519
+Going to download record 2141 to 2150
+Added new PMID: 32015517
+PMID exists
+PMID exists
+Added new PMID: 32015096
+Added new PMID: 32015053
+Added new PMID: 32015050
+Added new PMID: 32014886
+Added new PMID: 32014884
+Added new PMID: 32014862
+Added new PMID: 32014854
+Going to download record 2151 to 2160
+Added new PMID: 32014852
+Added new PMID: 32014851
+Added new PMID: 32014850
+Added new PMID: 32014249
+Added new PMID: 32014248
+Added new PMID: 32014126
+Added new PMID: 32014125
+PMID exists
+Added new PMID: 32014122
+PMID exists
+Going to download record 2161 to 2170
+Added new PMID: 32014120
+Added new PMID: 32014119
+Added new PMID: 32014117
+Added new PMID: 32014116
+Added new PMID: 32014115
+PMID exists
+Added new PMID: 32014113
+Added new PMID: 32011646
+Added new PMID: 32011641
+Added new PMID: 32007214
+Going to download record 2171 to 2180
+Added new PMID: 32007213
+Added new PMID: 32007212
+Added new PMID: 32007210
+Added new PMID: 32007209
+Added new PMID: 32007208
+Added new PMID: 32007207
+Added new PMID: 32007206
+Added new PMID: 32007205
+Added new PMID: 32007204
+Added new PMID: 32007203
+Going to download record 2181 to 2190
+Added new PMID: 32007202
+Added new PMID: 32007201
+Added new PMID: 32007200
+Added new PMID: 32007199
+Added new PMID: 32007198
+Added new PMID: 32007197
+Added new PMID: 32007196
+Added new PMID: 32007195
+Added new PMID: 32007194
+Added new PMID: 32007193
+Going to download record 2191 to 2200
+Added new PMID: 32007192
+Added new PMID: 32007191
+Added new PMID: 32007190
+Added new PMID: 32007189
+Added new PMID: 32007188
+Added new PMID: 32007175
+Added new PMID: 32007174
+Added new PMID: 32007173
+Added new PMID: 32007172
+Added new PMID: 32007171
+Going to download record 2201 to 2210
+Added new PMID: 32007170
+Added new PMID: 32007169
+Added new PMID: 32007168
+Added new PMID: 32007167
+Added new PMID: 32007166
+Added new PMID: 32007165
+Added new PMID: 32007164
+Added new PMID: 32007163
+Added new PMID: 32007162
+Added new PMID: 32007161
+Going to download record 2211 to 2220
+Added new PMID: 32007160
+Added new PMID: 32007159
+Added new PMID: 32007158
+Added new PMID: 32007157
+Added new PMID: 32007156
+Added new PMID: 32007155
+Added new PMID: 32007154
+Added new PMID: 32007153
+Added new PMID: 32007152
+Added new PMID: 32007151
+Going to download record 2221 to 2230
+Added new PMID: 32007150
+Added new PMID: 32007149
+Added new PMID: 32007148
+Added new PMID: 32007147
+Added new PMID: 32007146
+PMID exists
+Added new PMID: 32007144
+PMID exists
+Added new PMID: 32007142
+Added new PMID: 32007141
+Going to download record 2231 to 2240
+Added new PMID: 32007140
+Added new PMID: 32007138
+Added new PMID: 32007137
+Added new PMID: 32007136
+PMID exists
+Added new PMID: 32007134
+Added new PMID: 32007133
+Added new PMID: 32007132
+Added new PMID: 32006520
+Added new PMID: 32006519
+Going to download record 2241 to 2250
+Added new PMID: 32006518
+Added new PMID: 32006517
+Added new PMID: 32006516
+Added new PMID: 32006515
+Added new PMID: 32006514
+Added new PMID: 32006511
+Added new PMID: 32006510
+Added new PMID: 32006509
+Added new PMID: 32006508
+Added new PMID: 32006507
+Going to download record 2251 to 2260
+Added new PMID: 32006506
+Added new PMID: 32006505
+Added new PMID: 32006504
+Added new PMID: 32006503
+Added new PMID: 32006502
+Added new PMID: 32006501
+Added new PMID: 32006500
+Added new PMID: 32006499
+Added new PMID: 32006498
+Added new PMID: 32006497
+Going to download record 2261 to 2270
+Added new PMID: 32006496
+Added new PMID: 32006495
+Added new PMID: 32006473
+Added new PMID: 32006469
+Added new PMID: 32006466
+Added new PMID: 32006465
+Added new PMID: 32006462
+Added new PMID: 32005756
+Added new PMID: 32005753
+Added new PMID: 32005727
+Going to download record 2271 to 2280
+Added new PMID: 32005693
+Added new PMID: 32005678
+Added new PMID: 32005675
+Added new PMID: 32005673
+Added new PMID: 32005657
+Added new PMID: 32004498
+PMID exists
+Added new PMID: 32004496
+Added new PMID: 32004491
+Added new PMID: 32004490
+Going to download record 2281 to 2290
+Added new PMID: 32004489
+Added new PMID: 32004488
+Added new PMID: 32004487
+Added new PMID: 32004486
+Added new PMID: 32004485
+Added new PMID: 32004472
+Added new PMID: 32004471
+Added new PMID: 32004466
+Added new PMID: 32004444
+Added new PMID: 32004440
+Going to download record 2291 to 2300
+PMID exists
+Added new PMID: 32003770
+Added new PMID: 32003769
+PMID exists
+Added new PMID: 32001809
+Added new PMID: 32001605
+Added new PMID: 32001548
+Added new PMID: 32001528
+Added new PMID: 32001527
+Added new PMID: 32001487
+Going to download record 2301 to 2310
+Added new PMID: 32001484
+Added new PMID: 32001480
+Added new PMID: 32001479
+Added new PMID: 32001478
+Added new PMID: 32001451
+Added new PMID: 32001448
+Added new PMID: 31999953
+PMID exists
+PMID exists
+PMID exists
+Going to download record 2311 to 2320
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 31999946
+Added new PMID: 31999945
+Added new PMID: 31999944
+Added new PMID: 31999942
+Added new PMID: 31999307
+Added new PMID: 31999301
+Added new PMID: 31999298
+Going to download record 2321 to 2330
+Added new PMID: 31996853
+Added new PMID: 31996852
+Added new PMID: 31996851
+Added new PMID: 31996850
+Added new PMID: 31996849
+Added new PMID: 31996848
+Added new PMID: 31996847
+Added new PMID: 31996846
+Added new PMID: 31996845
+Added new PMID: 31996836
+Going to download record 2331 to 2340
+Added new PMID: 31996835
+Added new PMID: 31996833
+Added new PMID: 31996832
+Added new PMID: 31996831
+Added new PMID: 31996830
+Added new PMID: 31996829
+Added new PMID: 31996828
+Added new PMID: 31996827
+Added new PMID: 31996826
+Added new PMID: 31996825
+Going to download record 2341 to 2350
+Added new PMID: 31996824
+Added new PMID: 31996823
+Added new PMID: 31996822
+Added new PMID: 31996821
+Added new PMID: 31996820
+Added new PMID: 31996819
+Added new PMID: 31996818
+Added new PMID: 31996817
+Added new PMID: 31996352
+Added new PMID: 31996350
+Going to download record 2351 to 2360
+Added new PMID: 31996349
+Added new PMID: 31996348
+Added new PMID: 31996347
+Added new PMID: 31996345
+Added new PMID: 31996344
+Added new PMID: 31996343
+Added new PMID: 31996342
+Added new PMID: 31996341
+PMID exists
+Added new PMID: 31995139
+Going to download record 2361 to 2370
+Added new PMID: 31995138
+Added new PMID: 31995128
+Added new PMID: 31992891
+Added new PMID: 31992890
+Added new PMID: 31992889
+Added new PMID: 31992888
+PMID exists
+Added new PMID: 31992885
+PMID exists
+Added new PMID: 31992592
+Going to download record 2371 to 2380
+Added new PMID: 31992570
+Added new PMID: 31992565
+Added new PMID: 31992564
+Added new PMID: 31992563
+Added new PMID: 31992555
+Added new PMID: 31992554
+Added new PMID: 31992553
+Added new PMID: 31992552
+Added new PMID: 31992551
+Added new PMID: 31992550
+Going to download record 2381 to 2390
+Added new PMID: 31992549
+Added new PMID: 31992548
+Added new PMID: 31992547
+Added new PMID: 31992544
+Added new PMID: 31992542
+Added new PMID: 31992540
+PMID exists
+Added new PMID: 31990322
+Added new PMID: 31990321
+Added new PMID: 31990319
+Going to download record 2391 to 2400
+Added new PMID: 31990318
+Added new PMID: 31990317
+Added new PMID: 31990316
+Added new PMID: 31990315
+Added new PMID: 31990314
+Added new PMID: 31990313
+Added new PMID: 31990312
+Added new PMID: 31990311
+Added new PMID: 31990310
+Added new PMID: 31990309
+Going to download record 2401 to 2410
+Added new PMID: 31990308
+Added new PMID: 31990307
+Added new PMID: 31990306
+Added new PMID: 31990305
+Added new PMID: 31990304
+Added new PMID: 31990303
+Added new PMID: 31990302
+Added new PMID: 31990300
+Added new PMID: 31990299
+Added new PMID: 31990298
+Going to download record 2411 to 2420
+Added new PMID: 31990297
+Added new PMID: 31990296
+Added new PMID: 31988511
+Added new PMID: 31988510
+Added new PMID: 31988406
+Added new PMID: 31988405
+Added new PMID: 31988404
+Added new PMID: 31988403
+Added new PMID: 31988402
+Added new PMID: 31988401
+Going to download record 2421 to 2430
+Added new PMID: 31986524
+PMID exists
+Added new PMID: 31986263
+Added new PMID: 31986262
+PMID exists
+Added new PMID: 31986260
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 31986256
+Going to download record 2431 to 2440
+Added new PMID: 31986255
+PMID exists
+PMID exists
+Added new PMID: 31983730
+Added new PMID: 31983682
+Added new PMID: 31983681
+Added new PMID: 31982862
+Added new PMID: 31982077
+Added new PMID: 31982076
+Added new PMID: 31982075
+Going to download record 2441 to 2450
+Added new PMID: 31982074
+Added new PMID: 31982073
+Added new PMID: 31982072
+Added new PMID: 31982071
+Added new PMID: 31982070
+Added new PMID: 31982069
+Added new PMID: 31982068
+Added new PMID: 31982067
+Added new PMID: 31982066
+Added new PMID: 31982065
+Going to download record 2451 to 2460
+Added new PMID: 31982064
+Added new PMID: 31982063
+Added new PMID: 31982062
+Added new PMID: 31982061
+Added new PMID: 31982060
+Added new PMID: 31982059
+Added new PMID: 31982058
+Added new PMID: 31982057
+Added new PMID: 31982056
+Added new PMID: 31982055
+Going to download record 2461 to 2470
+Added new PMID: 31982054
+Added new PMID: 31982053
+Added new PMID: 31982052
+Added new PMID: 31982051
+Added new PMID: 31982050
+Added new PMID: 31982049
+Added new PMID: 31982048
+Added new PMID: 31982047
+Added new PMID: 31982046
+Added new PMID: 31982045
+Going to download record 2471 to 2480
+Added new PMID: 31982044
+Added new PMID: 31982043
+Added new PMID: 31982042
+Added new PMID: 31982041
+Added new PMID: 31982040
+Added new PMID: 31982039
+Added new PMID: 31982036
+Added new PMID: 31982035
+Added new PMID: 31982034
+Added new PMID: 31982033
+Going to download record 2481 to 2490
+Added new PMID: 31982032
+Added new PMID: 31982031
+Added new PMID: 31982030
+Added new PMID: 31981540
+Added new PMID: 31981539
+Added new PMID: 31981537
+Added new PMID: 31981535
+Added new PMID: 31981534
+Added new PMID: 31981533
+Added new PMID: 31981532
+Going to download record 2491 to 2500
+Added new PMID: 31981531
+Added new PMID: 31981530
+Added new PMID: 31981529
+Added new PMID: 31981528
+Added new PMID: 31981527
+Added new PMID: 31980436
+Added new PMID: 31980433
+Added new PMID: 31980425
+PMID exists
+Added new PMID: 31978330
+Going to download record 2501 to 2510
+Added new PMID: 31978329
+PMID exists
+Added new PMID: 31974272
+Added new PMID: 31974258
+Added new PMID: 31974132
+Added new PMID: 31974125
+Added new PMID: 31974075
+Added new PMID: 31974074
+Added new PMID: 31974072
+Added new PMID: 31974071
+Going to download record 2511 to 2520
+Added new PMID: 31972131
+Added new PMID: 31972130
+Added new PMID: 31972129
+Added new PMID: 31969723
+Added new PMID: 31969722
+Added new PMID: 31969711
+Added new PMID: 31969323
+Added new PMID: 31969322
+Added new PMID: 31969320
+Added new PMID: 31969318
+Going to download record 2521 to 2530
+Added new PMID: 31965108
+Added new PMID: 31965106
+Added new PMID: 31965105
+Added new PMID: 31965104
+Added new PMID: 31965097
+Added new PMID: 31965093
+Added new PMID: 31965091
+Added new PMID: 31964641
+Added new PMID: 31964628
+Added new PMID: 31961423
+Going to download record 2531 to 2540
+Added new PMID: 31961421
+Added new PMID: 31961420
+Added new PMID: 31961419
+Added new PMID: 31961418
+Added new PMID: 31961417
+Added new PMID: 31961409
+Added new PMID: 31961408
+Added new PMID: 31961407
+Added new PMID: 31961406
+Added new PMID: 31959625
+Going to download record 2541 to 2550
+Added new PMID: 31959620
+Added new PMID: 31958418
+Added new PMID: 31958417
+Added new PMID: 31958402
+Added new PMID: 31958401
+Added new PMID: 31954467
+Added new PMID: 31954466
+Added new PMID: 31954465
+Added new PMID: 31954455
+Added new PMID: 31954453
+Going to download record 2551 to 2560
+Added new PMID: 31954452
+Added new PMID: 31954451
+Added new PMID: 31954450
+Added new PMID: 31954449
+Added new PMID: 31954447
+Added new PMID: 31954443
+Added new PMID: 31954442
+Added new PMID: 31950898
+Added new PMID: 31949300
+Added new PMID: 31948944
+Going to download record 2561 to 2570
+Added new PMID: 31948937
+Added new PMID: 31948936
+Added new PMID: 31948935
+Added new PMID: 31948929
+Added new PMID: 31948928
+Added new PMID: 31948786
+Added new PMID: 31945772
+Added new PMID: 31945771
+Added new PMID: 31941686
+Added new PMID: 31941658
+Going to download record 2571 to 2580
+Added new PMID: 31941657
+Added new PMID: 31941647
+Added new PMID: 31941646
+Added new PMID: 31935033
+Added new PMID: 31935032
+Added new PMID: 31935030
+Added new PMID: 31935029
+Added new PMID: 31935028
+Added new PMID: 31935027
+Added new PMID: 31935026
+Going to download record 2581 to 2590
+Added new PMID: 31935018
+Added new PMID: 31935017
+Added new PMID: 31935016
+Added new PMID: 31935015
+Added new PMID: 31935009
+Added new PMID: 31935008
+Added new PMID: 31935007
+Added new PMID: 31929023
+Added new PMID: 31929019
+Added new PMID: 31929017
+Going to download record 2591 to 2600
+Added new PMID: 31929016
+Added new PMID: 31929015
+Added new PMID: 31929014
+Added new PMID: 31929013
+Added new PMID: 31929010
+Added new PMID: 31929006
+Added new PMID: 31929005
+Added new PMID: 31929003
+Added new PMID: 31929002
+Added new PMID: 31928767
+Going to download record 2601 to 2610
+Added new PMID: 31928765
+Added new PMID: 31924402
+Added new PMID: 31910284
+Added new PMID: 31910283
+Added new PMID: 31910281
+Added new PMID: 31910280
+Added new PMID: 31910279
+Added new PMID: 31910272
+Added new PMID: 31910271
+Added new PMID: 31910270
+Going to download record 2611 to 2620
+Added new PMID: 31910262
+Added new PMID: 31908285
+Added new PMID: 31908284
+Added new PMID: 31908281
+Added new PMID: 31908276
+Added new PMID: 31908275
+Added new PMID: 31908274
+Added new PMID: 31908273
+Added new PMID: 31900245
+Added new PMID: 31879246
+Going to download record 2621 to 2630
+Added new PMID: 31879245
+Added new PMID: 31879230
+Added new PMID: 31879028
+Added new PMID: 31871327
+Added new PMID: 31870498
+Added new PMID: 31868634
+Added new PMID: 31868633
+Added new PMID: 31868632
+Added new PMID: 31868631
+Added new PMID: 31868630
+Going to download record 2631 to 2640
+Added new PMID: 31868629
+Added new PMID: 31868626
+Added new PMID: 31868620
+Added new PMID: 31868619
+Added new PMID: 31868614
+Added new PMID: 31868613
+Added new PMID: 31866282
+Added new PMID: 31866281
+Added new PMID: 31863065
+Added new PMID: 31863064
+Going to download record 2641 to 2650
+Added new PMID: 31862250
+Added new PMID: 31862249
+Added new PMID: 31858994
+Added new PMID: 31852605
+Added new PMID: 31852603
+Added new PMID: 31852602
+Added new PMID: 31852601
+Added new PMID: 31839281
+Added new PMID: 31839280
+Added new PMID: 31839279
+Going to download record 2651 to 2660
+Added new PMID: 31837959
+Added new PMID: 31837958
+Added new PMID: 31837813
+Added new PMID: 31836199
+Added new PMID: 31836196
+Added new PMID: 31822019
+Added new PMID: 31819249
+Added new PMID: 31818492
+Added new PMID: 31818491
+Added new PMID: 31813637
+Going to download record 2661 to 2670
+Added new PMID: 31806257
+Added new PMID: 31797916
+Added new PMID: 31796901
+Added new PMID: 31791690
+Added new PMID: 31791689
+Added new PMID: 31777347
+Added new PMID: 31777345
+Added new PMID: 31777340
+Added new PMID: 31776516
+Added new PMID: 31776512
+Going to download record 2671 to 2680
+Added new PMID: 31776509
+Added new PMID: 31767190
+Added new PMID: 31759900
+Added new PMID: 31757590
+Added new PMID: 31748750
+Added new PMID: 31748749
+Added new PMID: 31748741
+Added new PMID: 31734106
+Added new PMID: 31732482
+Added new PMID: 31723297
+Going to download record 2681 to 2690
+Added new PMID: 31706930
+Added new PMID: 31704264
+Added new PMID: 31704263
+Added new PMID: 31704113
+Added new PMID: 31680014
+Added new PMID: 31680013
+Added new PMID: 31676323
+Added new PMID: 31672337
+Added new PMID: 31666724
+Added new PMID: 31666721
+Going to download record 2691 to 2700
+Added new PMID: 31664261
+Added new PMID: 31664194
+Added new PMID: 31653557
+Added new PMID: 31653556
+Added new PMID: 31645766
+Added new PMID: 31645763
+Added new PMID: 31645760
+Added new PMID: 31645758
+Added new PMID: 31645757
+Added new PMID: 31634902
+Going to download record 2701 to 2710
+Added new PMID: 31630984
+Added new PMID: 31630983
+Added new PMID: 31630982
+Added new PMID: 31619797
+Added new PMID: 31619796
+Added new PMID: 31619795
+Added new PMID: 31619791
+Added new PMID: 31619789
+Added new PMID: 31619788
+Added new PMID: 31619787
+Going to download record 2711 to 2720
+Added new PMID: 31618757
+Added new PMID: 31616104
+Added new PMID: 31616103
+Added new PMID: 31616102
+Added new PMID: 31616098
+Added new PMID: 31616095
+Added new PMID: 31616094
+Added new PMID: 31616093
+Added new PMID: 31610543
+Added new PMID: 31601531
+Going to download record 2721 to 2730
+Added new PMID: 31600774
+Added new PMID: 31597962
+Added new PMID: 31597163
+Added new PMID: 31597161
+Added new PMID: 31582316
+Added new PMID: 31571587
+Added new PMID: 31564465
+Added new PMID: 31563448
+Added new PMID: 31554995
+Added new PMID: 31554993
+Going to download record 2731 to 2740
+Added new PMID: 31554992
+Added new PMID: 31554991
+Added new PMID: 31554990
+Added new PMID: 31554989
+Added new PMID: 31554988
+Added new PMID: 31554987
+Added new PMID: 31551560
+Added new PMID: 31551557
+Added new PMID: 31551555
+Added new PMID: 31551554
+Going to download record 2741 to 2750
+Added new PMID: 31551550
+Added new PMID: 31551548
+Added new PMID: 31551541
+Added new PMID: 31548695
+Added new PMID: 31534258
+Added new PMID: 31534257
+Added new PMID: 31534256
+Added new PMID: 31534253
+Added new PMID: 31534252
+Added new PMID: 31534246
+Going to download record 2751 to 2760
+Added new PMID: 31534245
+Added new PMID: 31534244
+Added new PMID: 31534241
+Added new PMID: 31534226
+Added new PMID: 31534224
+Added new PMID: 31534222
+Added new PMID: 31534219
+Added new PMID: 31534217
+Added new PMID: 31533127
+Added new PMID: 31530926
+Going to download record 2761 to 2770
+Added new PMID: 31530925
+Added new PMID: 31530923
+Added new PMID: 31527780
+Added new PMID: 31527779
+Added new PMID: 31526720
+Added new PMID: 31511699
+Added new PMID: 31511698
+Added new PMID: 31511695
+Added new PMID: 31511694
+Added new PMID: 31511693
+Going to download record 2771 to 2780
+Added new PMID: 31511689
+Added new PMID: 31511682
+Added new PMID: 31511676
+Added new PMID: 31511675
+Added new PMID: 31511673
+Added new PMID: 31511672
+Added new PMID: 31511670
+Added new PMID: 31511667
+Added new PMID: 31506631
+Added new PMID: 31506629
+Going to download record 2781 to 2790
+Added new PMID: 31506625
+Added new PMID: 31506624
+Added new PMID: 31501569
+Added new PMID: 31492506
+Added new PMID: 31492504
+Added new PMID: 31492503
+Added new PMID: 31492501
+Added new PMID: 31485080
+Added new PMID: 31485079
+Added new PMID: 31485078
+Going to download record 2791 to 2800
+Added new PMID: 31485077
+Added new PMID: 31485076
+Added new PMID: 31485075
+Added new PMID: 31485074
+Added new PMID: 31485072
+Added new PMID: 31485071
+Added new PMID: 31485067
+Added new PMID: 31485066
+Added new PMID: 31484630
+Added new PMID: 31481785
+Going to download record 2801 to 2810
+Added new PMID: 31481783
+Added new PMID: 31481782
+Added new PMID: 31481780
+Added new PMID: 31477908
+Added new PMID: 31474333
+Added new PMID: 31462802
+Added new PMID: 31462798
+Added new PMID: 31462793
+Added new PMID: 31462791
+Added new PMID: 31462788
+Going to download record 2811 to 2820
+Added new PMID: 31462785
+Added new PMID: 31462783
+Added new PMID: 31462781
+Added new PMID: 31462778
+Added new PMID: 31462775
+Added new PMID: 31462773
+Added new PMID: 31462772
+Added new PMID: 31461748
+Added new PMID: 31455919
+Added new PMID: 31455918
+Going to download record 2821 to 2830
+Added new PMID: 31455914
+Added new PMID: 31455912
+Added new PMID: 31455911
+Added new PMID: 31455910
+Added new PMID: 31455908
+Added new PMID: 31455907
+Added new PMID: 31439901
+Added new PMID: 31435065
+Added new PMID: 31435064
+Added new PMID: 31435058
+Going to download record 2831 to 2840
+Added new PMID: 31435057
+Added new PMID: 31435055
+Added new PMID: 31435018
+Added new PMID: 31435016
+Added new PMID: 31435015
+Added new PMID: 31435014
+Added new PMID: 31435013
+Added new PMID: 31435011
+Added new PMID: 31435010
+Added new PMID: 31431751
+Going to download record 2841 to 2850
+Added new PMID: 31431750
+Added new PMID: 31431744
+Added new PMID: 31431743
+Added new PMID: 31431742
+Added new PMID: 31427807
+Added new PMID: 31413367
+Added new PMID: 31413366
+Added new PMID: 31413364
+Added new PMID: 31413363
+Added new PMID: 31413362
+Going to download record 2851 to 2860
+Added new PMID: 31413361
+Added new PMID: 31406305
+Added new PMID: 31391587
+Added new PMID: 31391586
+Added new PMID: 31391585
+Added new PMID: 31391584
+Added new PMID: 31391582
+Added new PMID: 31391581
+Added new PMID: 31391580
+Added new PMID: 31367043
+Going to download record 2861 to 2870
+Added new PMID: 31367042
+Added new PMID: 31367041
+Added new PMID: 31367040
+Added new PMID: 31367039
+Added new PMID: 31341314
+Added new PMID: 31341313
+Added new PMID: 31341312
+Added new PMID: 31341309
+Added new PMID: 31341307
+Added new PMID: 31341294
+Going to download record 2871 to 2880
+Added new PMID: 31341276
+Added new PMID: 31340216
+Added new PMID: 31337920
+Added new PMID: 31337910
+Added new PMID: 31330533
+Added new PMID: 31330532
+Added new PMID: 31330531
+Added new PMID: 31316210
+Added new PMID: 31292550
+Added new PMID: 31278385
+Going to download record 2881 to 2890
+Added new PMID: 31261374
+Added new PMID: 31243383
+Added new PMID: 31243375
+Added new PMID: 31243362
+Added new PMID: 31239575
+Added new PMID: 31239574
+Added new PMID: 31239572
+Added new PMID: 31239570
+Added new PMID: 31239569
+Added new PMID: 31239568
+Going to download record 2891 to 2900
+Added new PMID: 31239566
+Added new PMID: 31239565
+Added new PMID: 31239562
+Added new PMID: 31235948
+Added new PMID: 31222190
+Added new PMID: 31217585
+Added new PMID: 31217584
+Added new PMID: 31213692
+Added new PMID: 31190014
+Added new PMID: 31190013
+Going to download record 2901 to 2910
+Added new PMID: 31190012
+Added new PMID: 31189955
+Added new PMID: 31189954
+Added new PMID: 31189953
+Added new PMID: 31182856
+Added new PMID: 31168097
+Added new PMID: 31168095
+Added new PMID: 31168094
+Added new PMID: 31168093
+Added new PMID: 31168092
+Going to download record 2911 to 2920
+Added new PMID: 31168091
+Added new PMID: 31168090
+Added new PMID: 31158845
+Added new PMID: 31142864
+Added new PMID: 31142863
+Added new PMID: 31142862
+Added new PMID: 31142856
+Added new PMID: 31142855
+Added new PMID: 31142854
+Added new PMID: 31142844
+Going to download record 2921 to 2930
+Added new PMID: 31142841
+Added new PMID: 31142840
+Added new PMID: 31142839
+Added new PMID: 31142838
+Added new PMID: 31142836
+Added new PMID: 31142834
+Added new PMID: 31138929
+Added new PMID: 31138923
+Added new PMID: 31138921
+Added new PMID: 31138920
+Going to download record 2931 to 2940
+Added new PMID: 31138917
+Added new PMID: 31132786
+Added new PMID: 31123366
+Added new PMID: 31123363
+Added new PMID: 31123362
+Added new PMID: 31123360
+Added new PMID: 31118521
+Added new PMID: 31118512
+Added new PMID: 31118511
+Added new PMID: 31118510
+Going to download record 2941 to 2950
+Added new PMID: 31118509
+Added new PMID: 31118508
+Added new PMID: 31118507
+Added new PMID: 31114091
+Added new PMID: 31114090
+Added new PMID: 31114089
+Added new PMID: 31114088
+Added new PMID: 31114086
+Added new PMID: 31114085
+Added new PMID: 31114084
+Going to download record 2951 to 2960
+Added new PMID: 31114082
+Added new PMID: 31114079
+Added new PMID: 31110319
+Added new PMID: 31108498
+Added new PMID: 31092945
+Added new PMID: 31092941
+Added new PMID: 31092938
+Added new PMID: 31092927
+Added new PMID: 31092926
+Added new PMID: 31092925
+Going to download record 2961 to 2970
+Added new PMID: 31092924
+Added new PMID: 31092920
+Added new PMID: 31092919
+Added new PMID: 31092918
+Added new PMID: 31089230
+Added new PMID: 31089227
+Added new PMID: 31089225
+Added new PMID: 31089224
+Added new PMID: 31078469
+Added new PMID: 31068700
+Going to download record 2971 to 2980
+Added new PMID: 31068699
+Added new PMID: 31068698
+Added new PMID: 31068697
+Added new PMID: 31068696
+Added new PMID: 31068695
+Added new PMID: 31061499
+Added new PMID: 31060978
+Added new PMID: 31043749
+Added new PMID: 31043747
+Added new PMID: 31043746
+Going to download record 2981 to 2990
+Added new PMID: 31043742
+Added new PMID: 31043741
+Added new PMID: 31043740
+Added new PMID: 31022719
+Added new PMID: 31019318
+Added new PMID: 31019307
+Added new PMID: 31019297
+Added new PMID: 31015697
+Added new PMID: 31015695
+Added new PMID: 31015692
+Going to download record 2991 to 3000
+Added new PMID: 31015690
+Added new PMID: 31003964
+Added new PMID: 30996349
+Added new PMID: 30995674
+Added new PMID: 30959515
+Added new PMID: 30794309
+Added new PMID: 30765327
+Added new PMID: 32145833
+Added new PMID: 32145832
+Added new PMID: 29973369
+Going to download record 3001 to 3006
+Added new PMID: 29496303
+Added new PMID: 29153410
+Added new PMID: 29042356
+Added new PMID: 28855079
+Added new PMID: 28284589
+Added new PMID: 27865646
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND elderly[TITLE] AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 1 results
+Going to download record 1 to 1
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND clinical trial[Title/Abstract] AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 6 results
+Going to download record 1 to 6
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32208840
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND italy[Title/Abstract] AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 21 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32209164
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32215977
+PMID exists
+PMID exists
+PMID exists
+Going to download record 21 to 21
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND netherlands[Title/Abstract] AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 0 results
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND case control study AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 29 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 21 to 29
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND epidemiology AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 345 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 21 to 30
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 31 to 40
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 41 to 50
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 51 to 60
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 61 to 70
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 71 to 80
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 81 to 90
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 91 to 100
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 101 to 110
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 111 to 120
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 121 to 130
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 131 to 140
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 141 to 150
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 151 to 160
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 161 to 170
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 171 to 180
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 181 to 190
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 191 to 200
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 201 to 210
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 211 to 220
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 221 to 230
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 231 to 240
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 241 to 250
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 251 to 260
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 261 to 270
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 271 to 280
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 281 to 290
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 291 to 300
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 301 to 310
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 311 to 320
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 321 to 330
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 331 to 340
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 341 to 345
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND mortality AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 70 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32215622
+Added new PMID: 32215613
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32212513
+PMID exists
+PMID exists
+Going to download record 21 to 30
+PMID exists
+Added new PMID: 32215548
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 31 to 40
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 41 to 50
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32209384
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32210742
+PMID exists
+Going to download record 51 to 60
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32211816
+PMID exists
+Going to download record 61 to 70
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND pregnant[TITLE] AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 8 results
+Going to download record 1 to 8
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"((((""coronavirus""[MeSH Terms] OR ""coronavirus""[All Fields]) AND (""COVID-19""[All Fields] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[All Fields] OR ""2019-nCoV""[All Fields] OR ""SARS-CoV-2""[All Fields] OR ""2019nCoV""[All Fields] )))) AND (treatment[All Fields] OR drug[All Fields] OR intervention[All Fields] OR recovery[All Fields]) AND ""2020/01/27""[MHDA] : ""2020/03/28""[MHDA]"
+Found 529 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 21 to 30
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 31 to 40
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 41 to 50
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 51 to 60
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 61 to 70
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 71 to 80
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 81 to 90
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 91 to 100
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 101 to 110
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 111 to 120
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 121 to 130
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 131 to 140
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 141 to 150
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 151 to 160
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 161 to 170
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 171 to 180
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 181 to 190
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 191 to 200
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 201 to 210
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 211 to 220
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 221 to 230
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 231 to 240
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 241 to 250
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 251 to 260
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 261 to 270
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 271 to 280
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 281 to 290
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 291 to 300
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 301 to 310
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 311 to 320
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 321 to 330
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 331 to 340
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 341 to 350
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 351 to 360
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 361 to 370
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 371 to 380
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 381 to 390
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 391 to 400
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 401 to 410
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 411 to 420
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 421 to 430
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 431 to 440
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 441 to 450
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 451 to 460
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 461 to 470
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 471 to 480
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 481 to 490
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 491 to 500
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 501 to 510
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 511 to 520
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 521 to 529
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
