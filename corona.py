@@ -33,7 +33,7 @@ from Bio import Medline
 
 # This class objects send pubmed queries through the API and stores the output in json files
 
-# In[7]:
+# In[4]:
 
 
 
@@ -42,22 +42,23 @@ class COVID:
     def __init__(self , startD , endD):
 
         #list of query terms to be used in the search_function
-        querylist = ('' , 
-                 '(NEJM[journal] OR BMJ[journal] OR lancet[journal] OR nature[journal] OR JAMA[journal])', 
-                 'elderly[TITLE]',
-                 'clinical trial[Title/Abstract]' , 
-                 'italy[Title/Abstract]' , 
-                 'netherlands[Title/Abstract]' , 
-                 'case control study' , 
-                 'epidemiology' , 
-                 'mortality', 
-                 'pregnant[TITLE]',
-                 '(treatment[All Fields] OR drug[All Fields] OR intervention[All Fields] OR recovery[All Fields])' )
+
+        self.querydict = {'COVID':None , 
+                 'Big Five':'(NEJM[journal] OR BMJ[journal] OR lancet[journal] OR nature[journal] OR JAMA[journal])', 
+                 'Elderly':'elderly[TITLE]',
+                 'Clinical Trial':'clinical trial[Title/Abstract]' , 
+                 'Italy':'italy[Title/Abstract]' , 
+                 'Netherlands':'netherlands[Title/Abstract]' , 
+                 'Case Control':'case control study' , 
+                 'Epidemiology':'epidemiology' , 
+                 'Mortality':'mortality', 
+                 'Pregnant':'pregnant[TITLE]',
+                 'Treatment':'(treatment[All Fields] OR drug[All Fields] OR intervention[All Fields] OR recovery[All Fields])' }
         
         #json_file stores the proper json format to be used in the googlesheet
         #dict_file stores the output in a dictionary to be loaded in later uses
-        json_file ='results2.json'
-        dict_file ='results_dictionary.json'
+        json_file ='results3.json'
+        dict_file ='results_dictionary3.json'
 
         #read the stored dictionary file (dict_file) or create a new blank dictionary
         if os.path.isfile(dict_file):
@@ -71,8 +72,11 @@ class COVID:
         
         #for each query term in the querylist, run the search function using the provideed start
         #and end dates
-        for X in querylist:
-            self.search_function(X , startD , endD )
+        for K in self.querydict.keys():
+            self.search_function(K , startD , endD )
+            
+        #for X in querylist:
+        #    self.search_function(X , startD , endD )
         
         #add the total number of added articles to the log list
         self.Log.append(self.NumNew)
@@ -103,7 +107,11 @@ class COVID:
 
         #MainTerm = '"COVID-19"[All Fields]'
         DateRange = '"{}"[MHDA] : "{}"[MHDA]'.format(startD , endD)
-        Query = MainTerm + ' AND ' + MyTerms + ' AND ' + DateRange
+        if MyTerms == 'COVID':
+            Query = MainTerm + ' AND ' + DateRange
+        else:
+            Query = MainTerm + ' AND ' + self.querydict[MyTerms] + ' AND ' + DateRange
+            
         print(Query)
         self.Log.append(Query)
         search_results = Entrez.read(
@@ -117,7 +125,7 @@ class COVID:
         print("Found %i results" % count)
 
         batch_size = 10
-        out_handle = open("corona_{}_papers.txt".format(MyTerms.split('[')[0]), "w")
+        out_handle = open("pubmed_results/corona_{}_papers.txt".format(MyTerms), "w")
         for start in range(0, count, batch_size):
             end = min(count, start + batch_size)
             print("Going to download record %i to %i" % (start + 1, end))
@@ -140,7 +148,24 @@ class COVID:
             out_handle.write(data)
         out_handle.close()
         
-        
+    def FormatAbstract (self, AB):
+        Abstract = ''
+        if 'AB' in AB.keys():
+            Abstract = AB['AB']
+            tempAbs = Abstract.split(' ')
+            lastN=0
+            newabs = []
+            for N in range(30, len(tempAbs)+30, 30) :
+                newabs.append(' '.join(tempAbs[lastN:N]))
+                lastN= N
+                
+            Abstract = '\n'.join(newabs)
+                
+        else: 
+            Abstract = 'NA'
+            
+        return(Abstract)
+            
     def add2dict(self , dataresults , Q):
         for hit in dataresults:
             m1 = 'PMID' + hit
@@ -151,7 +176,17 @@ class COVID:
                 print('PMID [{}] exists'.format(PMID))
                 self.Log.append('PMID exists')
                 if Q not in self.mainDict[PMID]['Tag']:
-                     self.mainDict[PMID]['Tag'] = self.mainDict[PMID]['Tag']+';'+Tag
+                    self.mainDict[PMID]['Tag'] = self.mainDict[PMID]['Tag']+';'+Tag
+                    
+                if self.mainDict[PMID]['Abstract'] == 'NA':
+                    NewABS = self.FormatAbstract(parse_res)
+                    if NewABS != 'NA':
+                        self.mainDict[PMID]['Abstract'] = self.FormatAbstract(parse_res)
+                        print('Updated Abstract')
+                        self.Log.append('Updated Abstract')
+                        
+
+                    
                 continue
             else:
                 Title = parse_res['TI']
@@ -166,18 +201,9 @@ class COVID:
                 #    dateMod  = parse_res['LR']
                 #else: dateMod = ''
 
-                if 'AB' in parse_res.keys():
-                    Abstract = parse_res['AB']
-                    tempAbs = Abstract.split(' ')
-                    lastN=0
-                    newabs = []
-                    for N in range(30, len(tempAbs)+30, 30) :
-                        newabs.append(' '.join(tempAbs[lastN:N]))
-                        lastN= N
-                    Abstract = '\n'.join(newabs)
-
-
-                else: Abstract = 'NA'
+                Abstract = self.FormatAbstract(parse_res)
+                
+                    
                 Link= 'https://www.ncbi.nlm.nih.gov/pubmed/{}'.format(PMID)   
 
 
@@ -193,7 +219,7 @@ class COVID:
                 self.Log.append('Added new PMID: {}'.format(PMID))
 
 
-# In[3]:
+# In[5]:
 
 
 if __name__ == '__main__':
@@ -206,13 +232,8 @@ if __name__ == '__main__':
     COVID(StartDate , Today )
 
 
-# In[6]:
 
-
-#COVID('2020/01/27' , '2020/03/28' )
-
-
-# In[14]:
+# In[1]:
 
 
 def MakeTemplate():
@@ -226,14 +247,11 @@ def MakeTemplate():
                 'Abstract',
                 'Tag'):
         print(H)
-        headers = '=ImportJSON("https://raw.githubusercontent.com/tofaquih/coronaPubGet/master/results.json", "/{}", "noInherit,noTruncate")'.format(H)
+        headers = '=ImportJSON("https://raw.githubusercontent.com/tofaquih/coronaPubGet/master/results3.json", "/{}", "noInherit,noTruncate",$A$1)'.format(H)
         headerslist.append(headers)
 
     headerslist
     with open('template.csv' ,'w'  , newline='' ) as fp:
         W = csv.writer(fp, delimiter=';')
         W.writerow(headerslist)
-
-
-
 
