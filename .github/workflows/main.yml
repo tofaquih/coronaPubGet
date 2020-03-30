@@ -16,7 +16,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install biopython
-      - run: python corona.py
+      - run: python ./src/corona.py
       - name: Commit results
         run: |
           git add ./logs/*.txt
