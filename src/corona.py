@@ -8,7 +8,7 @@
 # -*- coding: utf-8 -*-
 
 
-# In[14]:
+# In[3]:
 
 
 __author__ = "Tariq Faquih"
@@ -22,7 +22,7 @@ __status__ = "Development"
 
 # # Import modules
 
-# In[58]:
+# In[4]:
 
 
 import json, csv , os , sys , datetime
@@ -96,7 +96,7 @@ class COVID:
         with open(dict_file , 'w') as fp:   
             json.dump(self.mainDict, fp)
         
-        with open('logs/log_{}_{}.txt'.format(startD.replace('/' , '') , endD.replace('/' , '')) ,'w'  , newline='') as fp:
+        with open('../logs/log_{}_{}.txt'.format(startD.replace('/' , '') , endD.replace('/' , '')) ,'w'  , newline='') as fp:
             W = csv.writer(fp)
             W.writerow(['Search results for range {} to {}'.format(startD , endD)])
             W.writerow(['Number of Records Added: {}'.format(self.Log[-1])])
@@ -257,7 +257,7 @@ if __name__ == '__main__':
 #COVID('2020/01/01' , '2020/03/30' )
 
 
-# In[62]:
+# In[7]:
 
 
 def MakeTemplate():
@@ -271,11 +271,16 @@ def MakeTemplate():
                 'Abstract',
                 'Tag'):
         print(H)
-        headers = '=ImportJSON("https://raw.githubusercontent.com/tofaquih/coronaPubGet/master/results4.json", "/{}", "noInherit,noTruncate",$A$1)'.format(H)
+        headers = '=ImportJSON("https://raw.githubusercontent.com/tofaquih/coronaPubGet/master/jsonfiles/results4.json", "/{}", "noInherit,noTruncate",$A$1)'.format(H)
         headerslist.append(headers)
 
     headerslist
-    with open('../templates/templates/template.csv' ,'w'  , newline='' ) as fp:
+    with open('../templates/template.csv' ,'w'  , newline='' ) as fp:
         W = csv.writer(fp, delimiter=';')
         W.writerow(headerslist)
 
+
+# In[8]:
+
+
+MakeTemplate()
