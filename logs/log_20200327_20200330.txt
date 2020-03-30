@@ -1,0 +1,239 @@
+Search results for range 2020/03/27 to 2020/03/30
+Number of Records Added: 90
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 104 results
+Going to download record 1 to 10
+Added new PMID: 32220275
+Added new PMID: 32219357
+Added new PMID: 32220033
+Added new PMID: 32214079
+Added new PMID: 32222091
+Added new PMID: 32221519
+Added new PMID: 32221057
+Added new PMID: 32219428
+Added new PMID: 32214086
+Added new PMID: 32221983
+Going to download record 11 to 20
+Added new PMID: 32220035
+Added new PMID: 32217834
+Added new PMID: 32217835
+Added new PMID: 32132184
+Added new PMID: 32219356
+Added new PMID: 32221973
+Added new PMID: 32216698
+Added new PMID: 32219398
+Added new PMID: 32220020
+Added new PMID: 32221970
+Going to download record 21 to 30
+Added new PMID: 32222047
+Added new PMID: 32216865
+Added new PMID: 32221523
+Added new PMID: 32222119
+Added new PMID: 32219360
+Added new PMID: 32220017
+Added new PMID: 32219363
+Added new PMID: 32220243
+Added new PMID: 32216577
+Added new PMID: 32220068
+Going to download record 31 to 40
+Added new PMID: 32219674
+Added new PMID: 32217507
+Added new PMID: 32220276
+Added new PMID: 32220930
+Added new PMID: 32220208
+Added new PMID: 32217506
+Added new PMID: 32216858
+Added new PMID: 32214083
+Added new PMID: 32221306
+Added new PMID: 32221635
+Going to download record 41 to 50
+Added new PMID: 32221059
+Added new PMID: 32221974
+Added new PMID: 32220112
+Added new PMID: 32219362
+Added new PMID: 32220863
+Added new PMID: 32222027
+Added new PMID: 32221526
+Added new PMID: 32221514
+Added new PMID: 32221512
+Added new PMID: 32221278
+Going to download record 51 to 60
+Added new PMID: 32221023
+Added new PMID: 32221002
+Added new PMID: 32220986
+Added new PMID: 32220929
+Added new PMID: 32220899
+Added new PMID: 32220877
+Added new PMID: 32220865
+Added new PMID: 32220829
+Added new PMID: 32220206
+Added new PMID: 32220204
+Going to download record 61 to 70
+PMID exists
+Added new PMID: 32220077
+PMID exists
+Added new PMID: 32220066
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32219888
+PMID exists
+Going to download record 71 to 80
+Added new PMID: 32219440
+Added new PMID: 32219429
+PMID exists
+Added new PMID: 32219410
+PMID exists
+Added new PMID: 32219367
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 81 to 90
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32217719
+Added new PMID: 32217707
+Added new PMID: 32217705
+PMID exists
+PMID exists
+Added new PMID: 32216872
+Added new PMID: 32216866
+Going to download record 91 to 100
+PMID exists
+Added new PMID: 32216864
+Added new PMID: 32216863
+PMID exists
+Added new PMID: 32216719
+PMID exists
+Added new PMID: 32216640
+Added new PMID: 32216634
+PMID exists
+PMID exists
+Going to download record 101 to 104
+PMID exists
+PMID exists
+Added new PMID: 32198292
+PMID exists
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 18 results
+Going to download record 1 to 10
+Going to download record 11 to 18
+PMID exists
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND (NEJM[journal] OR BMJ[journal] OR lancet[journal] OR nature[journal] OR JAMA[journal]) AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 25 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32221579
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 20
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 32220202
+Added new PMID: 32220200
+Added new PMID: 32220207
+Added new PMID: 32220205
+Added new PMID: 32220203
+Added new PMID: 32220201
+Going to download record 21 to 25
+Added new PMID: 32220898
+Added new PMID: 32220878
+Added new PMID: 32220862
+Added new PMID: 32220832
+Added new PMID: 32220826
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND (NEJM[journal] OR BMJ[journal] OR lancet[journal] OR nature[journal] OR JAMA[journal]) AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND elderly[TITLE] AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND elderly[TITLE] AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND clinical trial[Title/Abstract] AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND clinical trial[Title/Abstract] AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND italy[Title/Abstract] AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 3 results
+Going to download record 1 to 3
+PMID exists
+PMID exists
+PMID exists
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND italy[Title/Abstract] AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND netherlands[Title/Abstract] AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND netherlands[Title/Abstract] AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND case control study AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND case control study AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 4 results
+Going to download record 1 to 4
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND epidemiology AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 6 results
+Going to download record 1 to 6
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND epidemiology AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND mortality AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 9 results
+Going to download record 1 to 9
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND mortality AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 5 results
+Going to download record 1 to 5
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND pregnant[TITLE] AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 1 results
+Going to download record 1 to 1
+PMID exists
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND pregnant[TITLE] AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 0 results
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND (treatment[All Fields] OR drug[All Fields] OR intervention[All Fields] OR recovery[All Fields]) AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 19 results
+Going to download record 1 to 10
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 11 to 19
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND (treatment[All Fields] OR drug[All Fields] OR intervention[All Fields] OR recovery[All Fields]) AND ""2020/03/27""[PDAT] : ""2020/03/30""[PDAT]"
+Found 10 results
+Going to download record 1 to 10

@@ -1,13 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[13]:
 
 
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 
-# In[2]:
+# In[14]:
 
 
 __author__ = "Tariq Faquih"
@@ -21,19 +22,21 @@ __status__ = "Development"
 
 # # Import modules
 
-# In[3]:
+# In[58]:
 
 
 import json, csv , os , sys , datetime
 from Bio import Entrez
 from Bio import Medline
+from datetime import datetime
+from datetime import timedelta
 
 
 # # COVID class
 
 # This class objects send pubmed queries through the API and stores the output in json files
 
-# In[4]:
+# In[56]:
 
 
 
@@ -57,8 +60,8 @@ class COVID:
         
         #json_file stores the proper json format to be used in the googlesheet
         #dict_file stores the output in a dictionary to be loaded in later uses
-        json_file ='results3.json'
-        dict_file ='results_dictionary3.json'
+        json_file ='../jsonfiles/results4.json'
+        dict_file ='../jsonfiles/results_dictionary4.json'
 
         #read the stored dictionary file (dict_file) or create a new blank dictionary
         if os.path.isfile(dict_file):
@@ -73,7 +76,8 @@ class COVID:
         #for each query term in the querylist, run the search function using the provideed start
         #and end dates
         for K in self.querydict.keys():
-            self.search_function(K , startD , endD )
+            for DB in ('pubmed' , 'pmc'):
+                self.search_function(K , DB , startD , endD )
             
         #for X in querylist:
         #    self.search_function(X , startD , endD )
@@ -92,7 +96,7 @@ class COVID:
         with open(dict_file , 'w') as fp:   
             json.dump(self.mainDict, fp)
         
-        with open('log_{}_{}.txt'.format(startD.replace('/' , '') , endD.replace('/' , '')) ,'w'  , newline='') as fp:
+        with open('logs/log_{}_{}.txt'.format(startD.replace('/' , '') , endD.replace('/' , '')) ,'w'  , newline='') as fp:
             W = csv.writer(fp)
             W.writerow(['Search results for range {} to {}'.format(startD , endD)])
             W.writerow(['Number of Records Added: {}'.format(self.Log[-1])])
@@ -100,13 +104,13 @@ class COVID:
                 W.writerow([Line])
         
 
-    def search_function (self , MyTerms, startD , endD):
+    def search_function (self , MyTerms, DB , startD , endD):
 
         Entrez.email = "tariqf549@gmail.com"
-        MainTerm = """(((("coronavirus"[MeSH Terms] OR "coronavirus"[All Fields]) AND ("COVID-19"[All Fields] OR "severe acute respiratory syndrome coronavirus 2"[Supplementary Concept] OR "severe acute respiratory syndrome coronavirus 2"[All Fields] OR "2019-nCoV"[All Fields] OR "SARS-CoV-2"[All Fields] OR "2019nCoV"[All Fields] ))))"""
+        MainTerm = """("COVID-19"[Supplementary Concept] OR "severe acute respiratory syndrome coronavirus 2"[Supplementary Concept] OR "COVID-19"[all fields] OR "COVID19"[all fields] OR "COVID2019"[all fields] OR "COVID 2019"[all fields] OR "severe acute respiratory syndrome coronavirus 2"[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR "2019 ncov"[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR "new"[all fields])) OR covid19[all fields] OR "covid 19"[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR "sars cov 2"[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR "ncov 2019"[all fields] OR "sars coronavirus 2"[all fields] OR "sars corona virus 2"[all fields] OR "severe acute respiratory syndrome cov 2"[all fields] OR "severe acute respiratory syndrome cov2"[all fields])"""
 
         #MainTerm = '"COVID-19"[All Fields]'
-        DateRange = '"{}"[MHDA] : "{}"[MHDA]'.format(startD , endD)
+        DateRange = '"{}"[PDAT] : "{}"[PDAT]'.format(startD , endD)
         if MyTerms == 'COVID':
             Query = MainTerm + ' AND ' + DateRange
         else:
@@ -116,7 +120,7 @@ class COVID:
         self.Log.append(Query)
         search_results = Entrez.read(
             Entrez.esearch(
-                db="pubmed", term=Query,  datetype="pdat", usehistory="y" , sort = 'relevance' 
+                db=DB, term=Query,  datetype="pdat", usehistory="y" , sort = 'relevance' 
             )
         )
         count = int(search_results["Count"])
@@ -125,13 +129,13 @@ class COVID:
         print("Found %i results" % count)
 
         batch_size = 10
-        out_handle = open("pubmed_results/corona_{}_papers.txt".format(MyTerms), "w")
+        out_handle = open("../pubmed_results/corona_{}_papers.txt".format(MyTerms), "w" , encoding="utf-8")
         for start in range(0, count, batch_size):
             end = min(count, start + batch_size)
             print("Going to download record %i to %i" % (start + 1, end))
             self.Log.append("Going to download record %i to %i" % (start + 1, end))
             fetch_handle = Entrez.efetch(
-                db="pubmed",
+                db=DB,
                 rettype="medline",
                 retmode="text",
                 retstart=start,
@@ -143,7 +147,7 @@ class COVID:
 
             dataresults = data.split('\nPMID')[1:]
             self.add2dict(dataresults , MyTerms)
-
+            #print(data)
             fetch_handle.close()
             out_handle.write(data)
         out_handle.close()
@@ -170,13 +174,20 @@ class COVID:
         for hit in dataresults:
             m1 = 'PMID' + hit
             parse_res = Medline.read(m1.split('\n'))
-            PMID = parse_res['PMID']
+            if 'PMID' in parse_res.keys():
+                PMID = parse_res['PMID']
+                
+            elif 'PMCID' in parse_res.keys():
+                PMID = parse_res['PMCID']
+                
+            else: PMID = ''
+                
             Tag = Q
             if PMID in self.mainDict.keys():
                 print('PMID [{}] exists'.format(PMID))
                 self.Log.append('PMID exists')
                 if Q not in self.mainDict[PMID]['Tag']:
-                    self.mainDict[PMID]['Tag'] = self.mainDict[PMID]['Tag']+';'+Tag
+                    self.mainDict[PMID]['Tag'] = self.mainDict[PMID]['Tag']+' '+Tag
                     
                 if self.mainDict[PMID]['Abstract'] == 'NA':
                     NewABS = self.FormatAbstract(parse_res)
@@ -190,16 +201,24 @@ class COVID:
                 continue
             else:
                 Title = parse_res['TI']
-                dateP = parse_res['DP']
-                dateC = parse_res['MHDA']
-
+                
                 if 'JT' in parse_res.keys():
                     JournalName  = parse_res['JT']
                 else: JournalName = ''
-
-                #if 'LR' in parse_res.keys():
-                #    dateMod  = parse_res['LR']
-                #else: dateMod = ''
+                    
+                #Date of Publication [dp] - Date searching includes both print and electronic dates of publication. 
+                #Searching for a single date does not include items when the electronic date of publication is after the print date.
+                if 'DP' in parse_res.keys():
+                    dateP  = parse_res['DP']
+                else: dateP = ''
+                
+                #The date the citation first entered PubMed. In PMC DEP is used instead
+                if 'EDAT' in parse_res.keys():
+                    dateC  = datetime.strptime(parse_res['EDAT'] , '%Y/%m/%d %H:%S')
+                    dateC = dateC.strftime("%Y%m%d")
+                elif 'DEP' in parse_res.keys():
+                    dateC = parse_res['DEP']
+                else: dateC = ''
 
                 Abstract = self.FormatAbstract(parse_res)
                 
@@ -209,7 +228,7 @@ class COVID:
 
                 self.mainDict[PMID] = {'PMID': PMID, 'Title':Title ,
                                 'JournalName':JournalName ,
-                                  'Creation Date':dateC ,
+                                  'Date Added':dateC ,
                                 'Publication Date':dateP , 
                                 'Abstract':Abstract , 
                                 'Link':Link,
@@ -219,12 +238,12 @@ class COVID:
                 self.Log.append('Added new PMID: {}'.format(PMID))
 
 
-# In[5]:
+# In[60]:
 
 
 if __name__ == '__main__':
-    Today =datetime.datetime.now()
-    StartDate = Today - datetime.timedelta(days=3)
+    Today = datetime.now()
+    StartDate = Today - timedelta(days=3)
 
     Today = Today.strftime("%Y/%m/%d")
     StartDate = StartDate.strftime("%Y/%m/%d")
@@ -232,8 +251,13 @@ if __name__ == '__main__':
     COVID(StartDate , Today )
 
 
+# In[64]:
 
-# In[1]:
+
+#COVID('2020/01/01' , '2020/03/30' )
+
+
+# In[62]:
 
 
 def MakeTemplate():
@@ -242,16 +266,16 @@ def MakeTemplate():
               'Title',
               'Link',
                 'JournalName',
-              'Creation Date',
+                'Date Added',
                 'Publication Date',
                 'Abstract',
                 'Tag'):
         print(H)
-        headers = '=ImportJSON("https://raw.githubusercontent.com/tofaquih/coronaPubGet/master/results3.json", "/{}", "noInherit,noTruncate",$A$1)'.format(H)
+        headers = '=ImportJSON("https://raw.githubusercontent.com/tofaquih/coronaPubGet/master/results4.json", "/{}", "noInherit,noTruncate",$A$1)'.format(H)
         headerslist.append(headers)
 
     headerslist
-    with open('template.csv' ,'w'  , newline='' ) as fp:
+    with open('../templates/templates/template.csv' ,'w'  , newline='' ) as fp:
         W = csv.writer(fp, delimiter=';')
         W.writerow(headerslist)
 
