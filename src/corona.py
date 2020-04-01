@@ -22,7 +22,7 @@ __status__ = "Development"
 
 # # Import modules
 
-# In[4]:
+# In[1]:
 
 
 import json, csv , os , sys , datetime
@@ -60,8 +60,8 @@ class COVID:
         
         #json_file stores the proper json format to be used in the googlesheet
         #dict_file stores the output in a dictionary to be loaded in later uses
-        json_file ='../jsonfiles/results4.json'
-        dict_file ='../jsonfiles/results_dictionary4.json'
+        json_file ='./jsonfiles/results4.json'
+        dict_file ='./jsonfiles/results_dictionary4.json'
 
         #read the stored dictionary file (dict_file) or create a new blank dictionary
         if os.path.isfile(dict_file):
@@ -96,7 +96,7 @@ class COVID:
         with open(dict_file , 'w') as fp:   
             json.dump(self.mainDict, fp)
         
-        with open('../logs/log_{}_{}.txt'.format(startD.replace('/' , '') , endD.replace('/' , '')) ,'w'  , newline='') as fp:
+        with open('./logs/log_{}_{}.txt'.format(startD.replace('/' , '') , endD.replace('/' , '')) ,'w'  , newline='') as fp:
             W = csv.writer(fp)
             W.writerow(['Search results for range {} to {}'.format(startD , endD)])
             W.writerow(['Number of Records Added: {}'.format(self.Log[-1])])
@@ -129,7 +129,7 @@ class COVID:
         print("Found %i results" % count)
 
         batch_size = 10
-        out_handle = open("../pubmed_results/corona_{}_papers.txt".format(MyTerms), "w" , encoding="utf-8")
+        out_handle = open("./pubmed_results/corona_{}_papers.txt".format(MyTerms), "w" , encoding="utf-8")
         for start in range(0, count, batch_size):
             end = min(count, start + batch_size)
             print("Going to download record %i to %i" % (start + 1, end))
@@ -254,6 +254,7 @@ if __name__ == '__main__':
 # In[64]:
 
 
+#os.chdir('../')
 #COVID('2020/01/01' , '2020/03/30' )
 
 
@@ -275,7 +276,7 @@ def MakeTemplate():
         headerslist.append(headers)
 
     headerslist
-    with open('../templates/template.csv' ,'w'  , newline='' ) as fp:
+    with open('./templates/template.csv' ,'w'  , newline='' ) as fp:
         W = csv.writer(fp, delimiter=';')
         W.writerow(headerslist)
 
@@ -284,3 +285,4 @@ def MakeTemplate():
 
 
 MakeTemplate()
+
