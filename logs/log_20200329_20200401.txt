@@ -1,5 +1,5 @@
 Search results for range 2020/03/29 to 2020/04/01
-Number of Records Added: 3
+Number of Records Added: 0
 "(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND ""2020/03/29""[PDAT] : ""2020/04/01""[PDAT]"
 Found 175 results
 Going to download record 1 to 10
@@ -198,10 +198,10 @@ PMID exists
 "(""COVID-19""[Supplementary Concept] OR ""severe acute respiratory syndrome coronavirus 2""[Supplementary Concept] OR ""COVID-19""[all fields] OR ""COVID19""[all fields] OR ""COVID2019""[all fields] OR ""COVID 2019""[all fields] OR ""severe acute respiratory syndrome coronavirus 2""[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR ""2019 ncov""[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR ""new""[all fields])) OR covid19[all fields] OR ""covid 19""[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR ""sars cov 2""[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR ""ncov 2019""[all fields] OR ""sars coronavirus 2""[all fields] OR ""sars corona virus 2""[all fields] OR ""severe acute respiratory syndrome cov 2""[all fields] OR ""severe acute respiratory syndrome cov2""[all fields]) AND ""2020/03/29""[PDAT] : ""2020/04/01""[PDAT]"
 Found 33 results
 Going to download record 1 to 10
-Added new PMID: 31758219
+PMID exists
 Going to download record 11 to 20
-Added new PMID: 31748922
-Added new PMID: 31562581
+PMID exists
+PMID exists
 Going to download record 21 to 30
 PMID exists
 PMID exists
