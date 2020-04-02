@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+__author__ = "Tariq Faquih"
+__copyright__ = "Copyright 2020, Clinical Epidemiology Department, LUMC"
+__credits__ = ["Tariq Faquih", "Linda Nab", "Ype Jong"]
+__license__ = "MIT License"
+__maintainer__ = "Tariq Faquiih"
+__email__ = "t.o.faquih@lumc.nl"
+__status__ = "Development"
 # In[21]:
 
 
@@ -258,23 +264,23 @@ import csv,os,sys
 from datetime import datetime
 from bs4 import BeautifulSoup
 
+if __name__ == '__main__':
+    #content = requests.get(url)
+    #page = BeautifulSoup(open('Coronavirus (COVID19) _ JAMA Network.html'), "html.parser")
 
-#content = requests.get(url)
-#page = BeautifulSoup(open('Coronavirus (COVID19) _ JAMA Network.html'), "html.parser")
+    nejmpage = "https://www.nejm.org/coronavirus?query=main_nav_lg"
+    jamapage = "https://jamanetwork.com/collections/46099/coronavirus-covid19?appId=scweb&fl_ContentType=Article&fl_Categories=Coronavirus+(COVID19)"
+    lancetpage = "https://www.thelancet.com/coronavirus"
 
-nejmpage = "https://www.nejm.org/coronavirus?query=main_nav_lg"
-jamapage = "https://jamanetwork.com/collections/46099/coronavirus-covid19?appId=scweb&fl_ContentType=Article&fl_Categories=Coronavirus+(COVID19)"
-lancetpage = "https://www.thelancet.com/coronavirus"
-
-json_out_path = './jsonfiles/'
-
-
-# In[18]:
+    json_out_path = './jsonfiles/'
 
 
-MakeTemplate(nejm_parse(BeautifulSoup_parse(nejmpage) , json_out_path))
-MakeTemplate(jama_parse(BeautifulSoup_parse(jamapage) , json_out_path))
-MakeTemplate(jama_parse(BeautifulSoup_parse(lancetpage) , json_out_path))
+    # In[18]:
 
-#nejm_parse(pages)
+
+    MakeTemplate(nejm_parse(BeautifulSoup_parse(nejmpage) , json_out_path))
+    MakeTemplate(jama_parse(BeautifulSoup_parse(jamapage) , json_out_path))
+    MakeTemplate(jama_parse(BeautifulSoup_parse(lancetpage) , json_out_path))
+
+    #nejm_parse(pages)
 
