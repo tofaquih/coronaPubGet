@@ -280,7 +280,7 @@ if __name__ == '__main__':
 
     MakeTemplate(nejm_parse(BeautifulSoup_parse(nejmpage) , json_out_path))
     MakeTemplate(jama_parse(BeautifulSoup_parse(jamapage) , json_out_path))
-    MakeTemplate(jama_parse(BeautifulSoup_parse(lancetpage) , json_out_path))
+    MakeTemplate(lancent_parse(BeautifulSoup_parse(lancetpage) , json_out_path))
 
     #nejm_parse(pages)
 
