@@ -16,7 +16,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install biopython
-          pip install BeautifulSoup
+          pip install BeautifulSoup4
       - run: |
           python ./src/corona.py
           python ./src/parseJournals.py
