@@ -21,6 +21,8 @@ from Bio import Entrez
 from Bio import Medline
 from datetime import datetime
 from datetime import timedelta
+import warnings
+
 
 
 # # COVID class
@@ -33,26 +35,18 @@ from datetime import timedelta
 
 class COVID:
  
-    def __init__(self , startD , endD):
+    def __init__(self , startD , endD , json_file , dict_file , Eemail , apikey):
 
         #list of query terms to be used in the search_function
 
-        self.querydict = {'COVID':None , 
-                 'Big Five':'(NEJM[journal] OR BMJ[journal] OR lancet[journal] OR nature[journal] OR JAMA[journal])', 
-                 'Elderly':'elderly[TITLE]',
-                 'Clinical Trial':'clinical trial[Title/Abstract]' , 
-                 'Italy':'italy[Title/Abstract]' , 
-                 'Netherlands':'netherlands[Title/Abstract]' , 
-                 'Case Control':'case control study' , 
-                 'Epidemiology':'epidemiology' , 
-                 'Mortality':'mortality', 
-                 'Pregnant':'pregnant[TITLE]',
-                 'Treatment':'(treatment[All Fields] OR drug[All Fields] OR intervention[All Fields] OR recovery[All Fields])' }
+        self.querydict = json.load(open("./jsonfiles/pubmed_search_terms.json"))[0]
+        
+        self.Eemail = Eemail
+        self.apikey = apikey
         
         #json_file stores the proper json format to be used in the googlesheet
         #dict_file stores the output in a dictionary to be loaded in later uses
-        json_file ='./jsonfiles/results4.json'
-        dict_file ='./jsonfiles/results_dictionary4.json'
+
 
         #read the stored dictionary file (dict_file) or create a new blank dictionary
         if os.path.isfile(dict_file):
@@ -67,8 +61,9 @@ class COVID:
         #for each query term in the querylist, run the search function using the provideed start
         #and end dates
         for K in self.querydict.keys():
-            for DB in ('pubmed' , 'pmc'):
-                self.search_function(K , DB , startD , endD )
+            if K != 'MainTerm':
+                for DB in ('pubmed' , 'pmc'):
+                    self.search_function(K , DB , startD , endD )
             
         #for X in querylist:
         #    self.search_function(X , startD , endD )
@@ -97,15 +92,19 @@ class COVID:
 
     def search_function (self , MyTerms, DB , startD , endD):
 
-        Entrez.email = "lumcpubmed@gmail.com"
-        MainTerm = """("COVID-19"[Supplementary Concept] OR "severe acute respiratory syndrome coronavirus 2"[Supplementary Concept] OR "COVID-19"[all fields] OR "COVID19"[all fields] OR "COVID2019"[all fields] OR "COVID 2019"[all fields] OR "severe acute respiratory syndrome coronavirus 2"[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR "2019 ncov"[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR "new"[all fields])) OR covid19[all fields] OR "covid 19"[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR "sars cov 2"[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR "ncov 2019"[all fields] OR "sars coronavirus 2"[all fields] OR "sars corona virus 2"[all fields] OR "severe acute respiratory syndrome cov 2"[all fields] OR "severe acute respiratory syndrome cov2"[all fields])"""
+        
+        if self.Eemail != None:
+            Entrez.email = self.Eemail
+            
+        if self.apikey != None:
+            Entrez.api_key = self.apikey
 
         #MainTerm = '"COVID-19"[All Fields]'
         DateRange = '"{}"[PDAT] : "{}"[PDAT]'.format(startD , endD)
-        if MyTerms == 'COVID':
-            Query = MainTerm + ' AND ' + DateRange
+        if MyTerms == 'Default':
+            Query = self.querydict['MainTerm'] + ' AND ' + DateRange
         else:
-            Query = MainTerm + ' AND ' + self.querydict[MyTerms] + ' AND ' + DateRange
+            Query = self.querydict['MainTerm'] + ' AND ' + self.querydict[MyTerms] + ' AND ' + DateRange
             
         print(Query)
         self.Log.append(Query)
@@ -263,10 +262,26 @@ if __name__ == '__main__':
     Today = Today.strftime("%Y/%m/%d")
     StartDate = StartDate.strftime("%Y/%m/%d")
     
-    COVID(StartDate , Today )
+    json_file ='./jsonfiles/results4.json'
+    dict_file ='./jsonfiles/results_dictionary4.json'
+    
+    if os.path.isfile('credentials.json'):
+        entrezinfo = json.load(open('credentials.json'))[0]
+        Eemail = entrezinfo['email']
+        apikey = entrezinfo['APIKEY']
+    else:
+        Eemail = None
+        apikey = None
+        warnings.warn("""File 'credentials.json' is missing. Thereofore no NCBI email will be used.
+Please create the file 'credentials.json' at the root directory of the repo.
+Example of the file format:
+[{'email':"username@email.com" , 
+ 'APIKEY':'000000000000000000000000000000000000'}]""")
+        
+    COVID(StartDate , Today ,json_file , dict_file ,Eemail ,apikey )
     MakeTemplate()
 
 
-    #COVID('2020/01/01' , '2020/03/30' )
+    #COVID('2020/01/01' , '2020/03/30',json_file , dict_file )
 
 
