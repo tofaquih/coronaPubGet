@@ -1,6 +1,0 @@
-.jn-selfServe-modal-label {background-color: #000;color:#fff;font-size:10px;padding:5px;}
-.modal--box ul {list-style-type: disc !important;}
-.modal--subtitle {font-size:17px !important;}
-.modal--no-margin {margin: 0 !important;}
-
-@media screen and (max-width:900px) {.modal-mobile-padding {padding: 0 20px;}}
