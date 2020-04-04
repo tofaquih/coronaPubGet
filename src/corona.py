@@ -1,15 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[13]:
-
-
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-
-# In[3]:
-
 
 __author__ = "Tariq Faquih"
 __copyright__ = "Copyright 2020, Clinical Epidemiology Department, LUMC"
@@ -106,7 +97,7 @@ class COVID:
 
     def search_function (self , MyTerms, DB , startD , endD):
 
-        Entrez.email = "tariqf549@gmail.com"
+        Entrez.email = "lumcpubmed@gmail.com"
         MainTerm = """("COVID-19"[Supplementary Concept] OR "severe acute respiratory syndrome coronavirus 2"[Supplementary Concept] OR "COVID-19"[all fields] OR "COVID19"[all fields] OR "COVID2019"[all fields] OR "COVID 2019"[all fields] OR "severe acute respiratory syndrome coronavirus 2"[all fields] OR SARS-COV*[all fields] OR SARSCOV*[all fields] OR 2019ncov[all fields] OR "2019 ncov"[all fields] OR novel coronavirus*[all fields] OR novel corona virus*[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields] OR pneumonia virus*[all fields] OR cov[all fields] OR ncov[all fields]) AND (outbreak[all fields] OR wuhan[all fields] OR "new"[all fields])) OR covid19[all fields] OR "covid 19"[all fields] OR ((coronavirus*[all fields] OR corona virus*[all fields]) AND 2019[all fields]) OR "sars cov 2"[all fields] OR sars2[all fields] OR new coronavirus*[all fields] OR new corona virus*[all fields] OR "ncov 2019"[all fields] OR "sars coronavirus 2"[all fields] OR "sars corona virus 2"[all fields] OR "severe acute respiratory syndrome cov 2"[all fields] OR "severe acute respiratory syndrome cov2"[all fields])"""
 
         #MainTerm = '"COVID-19"[All Fields]'
@@ -200,11 +191,16 @@ class COVID:
                     
                 continue
             else:
-                Title = parse_res['TI']
+                if 'TI' in parse_res.keys(): 
+                    Title = parse_res['TI']
+                else: 
+                    print('PMID {} has no title (yet). Skipping'.format(PMID))
+                    continue
                 
                 if 'JT' in parse_res.keys():
                     JournalName  = parse_res['JT']
-                else: JournalName = ''
+                else:
+                    JournalName = ''
                     
                 #Date of Publication [dp] - Date searching includes both print and electronic dates of publication. 
                 #Searching for a single date does not include items when the electronic date of publication is after the print date.
@@ -240,27 +236,6 @@ class COVID:
 
 # In[60]:
 
-
-if __name__ == '__main__':
-    Today = datetime.now()
-    StartDate = Today - timedelta(days=3)
-
-    Today = Today.strftime("%Y/%m/%d")
-    StartDate = StartDate.strftime("%Y/%m/%d")
-    
-    COVID(StartDate , Today )
-
-
-# In[64]:
-
-
-#os.chdir('../')
-#COVID('2020/01/01' , '2020/03/30' )
-
-
-# In[7]:
-
-
 def MakeTemplate():
     headerslist = []
     for H in ('PMID',
@@ -271,7 +246,6 @@ def MakeTemplate():
                 'Publication Date',
                 'Abstract',
                 'Tag'):
-        print(H)
         headers = '=ImportJSON("https://raw.githubusercontent.com/tofaquih/coronaPubGet/master/jsonfiles/results4.json", "/{}", "noInherit,noTruncate",$A$1)'.format(H)
         headerslist.append(headers)
 
@@ -281,8 +255,18 @@ def MakeTemplate():
         W.writerow(headerslist)
 
 
-# In[8]:
+        
+if __name__ == '__main__':
+    Today = datetime.now()
+    StartDate = Today - timedelta(days=3)
+
+    Today = Today.strftime("%Y/%m/%d")
+    StartDate = StartDate.strftime("%Y/%m/%d")
+    
+    COVID(StartDate , Today )
+    MakeTemplate()
 
 
-MakeTemplate()
+    #COVID('2020/01/01' , '2020/03/30' )
+
 
