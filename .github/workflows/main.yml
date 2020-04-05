@@ -18,8 +18,11 @@ jobs:
           pip install biopython
           pip install requests
           pip install BeautifulSoup4
-      - run: |
+      - name: Running pubmed parser
+        run: |
           python ./src/corona.py
+      - name: Running jorunals parser
+        run: |
           python ./src/parseJournals.py
       - name: Commit results
         run: |
