@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-__author__ = "Tariq Faquih"
-__copyright__ = "Copyright 2020, Clinical Epidemiology Department, LUMC"
-__credits__ = ["Tariq Faquih", "Linda Nab", "Ype Jong"]
-__license__ = "MIT License"
-__maintainer__ = "Tariq Faquiih"
-__email__ = "t.o.faquih@lumc.nl"
-__status__ = "Development"
+
 # In[21]:
 
 
@@ -53,13 +47,13 @@ def WriteJsonOutput(json_file , dict_file , jsondict):
             Output.append(Item)
         json.dump(Output, fp)
 
-    print('JSON {} write done'.format(json_file))
+    print('JSON {} write done')
     
     #Write the exact dict as json file (easily read by the script)
     with open(dict_file , 'w') as fp:   
         json.dump(jsondict, fp)
         
-    print('JSON {} write done'.format(dict_file))
+    print('JSON {} write done')
     
     return(json_file)
 
@@ -204,7 +198,10 @@ def lancent_parse(page, json_out_path ):
     for entry in mydiv.find_all("div", attrs={"class": "published-online"}):
         Pdate = entry.text.split('Published: ')[-1]
         Pdate = datetime.strptime(Pdate , '%B %d, %Y')
-        Dates.append(Pdate.strftime("%Y%m%d"))
+        try:
+            Dates.append(Pdate.strftime("%Y%m%d"))
+        except ValueError:
+            Dates.append(Pdate)
 
     for entry in mydiv.find_all("div", attrs={"class": "doi"}):
 
@@ -273,14 +270,8 @@ if __name__ == '__main__':
     lancetpage = "https://www.thelancet.com/coronavirus"
 
     json_out_path = './jsonfiles/'
-
-
-    # In[18]:
-
-
+    
     MakeTemplate(nejm_parse(BeautifulSoup_parse(nejmpage) , json_out_path))
     MakeTemplate(jama_parse(BeautifulSoup_parse(jamapage) , json_out_path))
     MakeTemplate(lancent_parse(BeautifulSoup_parse(lancetpage) , json_out_path))
-
-    #nejm_parse(pages)
 
