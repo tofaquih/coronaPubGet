@@ -1,0 +1,3 @@
+pip install -e biopython
+pip install -e requests
+pip install -e BeautifulSoup4
