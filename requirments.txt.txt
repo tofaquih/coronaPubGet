@@ -1,5 +1,5 @@
 requests==2.22.0
 csv==1.0
-bs4==4.8.2
+BeautifulSoup4==4.8.*
 json==2.0.9
-Bio==1.76
+biopython
