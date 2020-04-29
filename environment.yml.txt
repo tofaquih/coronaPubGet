@@ -1,0 +1,14 @@
+name: tf
+dependencies:
+- pip
+- python
+- ipython
+- jupyter
+- csv
+- json
+- pip:
+  - requests
+  - BeautifulSoup4
+  - requests
+  - json
+  - biopython
