@@ -4,8 +4,6 @@ dependencies:
 - python
 - ipython
 - jupyter
-- csv
-- json
 - pip:
   - requests
   - BeautifulSoup4
