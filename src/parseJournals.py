@@ -197,8 +197,9 @@ def lancent_parse(page, json_out_path ):
 
     for entry in mydiv.find_all("div", attrs={"class": "published-online"}):
         Pdate = entry.text.split('Published: ')[-1]
-        Pdate = datetime.strptime(Pdate , '%B %d, %Y')
+        
         try:
+            Pdate = datetime.strptime(Pdate , '%B %d, %Y')
             Dates.append(Pdate.strftime("%Y%m%d"))
         except ValueError:
             Dates.append(Pdate)
@@ -264,7 +265,8 @@ from bs4 import BeautifulSoup
 if __name__ == '__main__':
     #content = requests.get(url)
     #page = BeautifulSoup(open('Coronavirus (COVID19) _ JAMA Network.html'), "html.parser")
-
+    if os.path.basename(os.getcwd()) == 'src':
+        os.chdir('../')
     nejmpage = "https://www.nejm.org/coronavirus?query=main_nav_lg"
     jamapage = "https://jamanetwork.com/collections/46099/coronavirus-covid19?appId=scweb&fl_ContentType=Article&fl_Categories=Coronavirus+(COVID19)"
     lancetpage = "https://www.thelancet.com/coronavirus"
