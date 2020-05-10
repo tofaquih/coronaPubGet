@@ -1,9 +1,6 @@
 name: tf
 dependencies:
 - pip
-- python
-- ipython
-- jupyter
 - pip:
   - requests
   - BeautifulSoup4
